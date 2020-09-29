@@ -4,7 +4,7 @@
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
-**About**
+**About** 
 
 At (ML)B, we are leveraging the power and capabilities of Machine Learning to predict the outcomes of Major League Baseball (MLB) games before they even happen. Our mission is to 
 make it easier for fans to decide which baseball team to bet on for upcoming MLB games using our machine learning model.
@@ -35,5 +35,3 @@ By the end of this semester, we will launch a web application that lists upcomin
 *Machine Learning*: Python (including libraries like PyTorch/TensorFlow)
 
 *Data Visualization*: matplotlib
-
-
