@@ -1,6 +1,23 @@
 <!-- extends Bootstrap, header, and footer from base -->
 {% extends "base.html" %}
+{% load static %}
 
 {% block content %}
-<h1>This is the homepage</h1>
+<div class="container text-center" style="margin-bottom: 25px">
+    <h2>Upcoming Games</h2>
+</div>
+
+<div class="container" style="width:700px">
+{% for game in data %}
+    <div class="row bg-light shadow-sm" style="margin-bottom: 20px; border: #ccc 1px solid">
+        <div class="col-sm" align="center">
+            <img src="{% static 'logos/'%}{{ game.home_team }}.png" width="80"><b>{{ game.home_team }}</b> vs. <b>{{ game.away_team }}</b><img src="{% static 'logos/'%}{{ game.away_team }}.png" width="80">
+        </div>
+        <div style="border-left: 1px solid #ccc; padding: 10px">
+            <button type="button" class="btn btn-success">Get Prediction</button>
+        </div>
+    </div>
+{% endfor %}
+</div>
+
 {% endblock %}
