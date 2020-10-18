@@ -20,44 +20,44 @@
                 <div class="col-sm-6">
                     <span class="dropdown-item-text"><b>American League</b></span>
                     <h6 class="dropdown-header">East</h6>
-                        <a class="dropdown-item" href="#">Toronto Blue Jays</a>
-                        <a class="dropdown-item" href="#">Baltimore Orioles</a>
-                        <a class="dropdown-item" href="#">Tampa Bay Rays</a>
-                        <a class="dropdown-item" href="#">Boston Red Sox</a>
-                        <a class="dropdown-item" href="#">New York Yankees</a>
+                        <a class="dropdown-item" href="/Blue Jays/">Toronto Blue Jays</a>
+                        <a class="dropdown-item" href="/Orioles/">Baltimore Orioles</a>
+                        <a class="dropdown-item" href="/Rays/">Tampa Bay Rays</a>
+                        <a class="dropdown-item" href="/Red Sox/">Boston Red Sox</a>
+                        <a class="dropdown-item" href="/Yankees/">New York Yankees</a>
                     <h6 class="dropdown-header">Central</h6>
-                        <a class="dropdown-item" href="#">Cleveland Indians</a>
-                        <a class="dropdown-item" href="#">Kansas City Royals</a>
-                        <a class="dropdown-item" href="#">Detroit Tigers</a>
-                        <a class="dropdown-item" href="#">Minnesota Twins</a>
-                        <a class="dropdown-item" href="#">Chicago White Sox</a>
+                        <a class="dropdown-item" href="/Indians/">Cleveland Indians</a>
+                        <a class="dropdown-item" href="/Royals/">Kansas City Royals</a>
+                        <a class="dropdown-item" href="/Tigers/">Detroit Tigers</a>
+                        <a class="dropdown-item" href="/Twins/">Minnesota Twins</a>
+                        <a class="dropdown-item" href="/White Sox/">Chicago White Sox</a>
                     <h6 class="dropdown-header">West</h6>
-                        <a class="dropdown-item" href="#">Los Angeles Angels</a>
-                        <a class="dropdown-item" href="#">Houston Astros</a>
-                        <a class="dropdown-item" href="#">Oakland Athletics</a>
-                        <a class="dropdown-item" href="#">Seattle Mariners</a>
-                        <a class="dropdown-item" href="#">Texas Rangers</a>
+                        <a class="dropdown-item" href="/Angels/">Los Angeles Angels</a>
+                        <a class="dropdown-item" href="/Astros/">Houston Astros</a>
+                        <a class="dropdown-item" href="/Athletics/">Oakland Athletics</a>
+                        <a class="dropdown-item" href="/Mariners/">Seattle Mariners</a>
+                        <a class="dropdown-item" href="/Rangers/">Texas Rangers</a>
                 </div>
                 <div class="col-sm-6" style="border-left: 1px solid #ccc">
                     <span class="dropdown-item-text"><b>National League</b></span>
                     <h6 class="dropdown-header">East</h6>
-                        <a class="dropdown-item" href="#">Atlanta Braves</a>
-                        <a class="dropdown-item" href="#">Miami Marlins</a>
-                        <a class="dropdown-item" href="#">New York Mets</a>
-                        <a class="dropdown-item" href="#">Washington Nationals</a>
-                        <a class="dropdown-item" href="#">Philadelphia Phillies</a>
+                        <a class="dropdown-item" href="/Braves/">Atlanta Braves</a>
+                        <a class="dropdown-item" href="/Marlins/">Miami Marlins</a>
+                        <a class="dropdown-item" href="/Mets/">New York Mets</a>
+                        <a class="dropdown-item" href="/Nationals/">Washington Nationals</a>
+                        <a class="dropdown-item" href="/Phillies/">Philadelphia Phillies</a>
                     <h6 class="dropdown-header">Central</h6>
-                        <a class="dropdown-item" href="#">Milwaukee Brewers</a>
-                        <a class="dropdown-item" href="#">St. Louis Cardinals</a>
-                        <a class="dropdown-item" href="#">Chicago Cubs</a>
-                        <a class="dropdown-item" href="#">Pittsburgh Pirates</a>
-                        <a class="dropdown-item" href="#">Cincinnati Reds</a>
+                        <a class="dropdown-item" href="/Brewers/">Milwaukee Brewers</a>
+                        <a class="dropdown-item" href="/Cardinals/">St. Louis Cardinals</a>
+                        <a class="dropdown-item" href="/Cubs/">Chicago Cubs</a>
+                        <a class="dropdown-item" href="/Pirates/">Pittsburgh Pirates</a>
+                        <a class="dropdown-item" href="/Reds/">Cincinnati Reds</a>
                     <h6 class="dropdown-header">West</h6>
-                        <a class="dropdown-item" href="#">Arizona Diamondbacks</a>
-                        <a class="dropdown-item" href="#">Los Angeles Dodgers</a>
-                        <a class="dropdown-item" href="#">San Francisco Giants</a>
-                        <a class="dropdown-item" href="#">San Diego Padres</a>
-                        <a class="dropdown-item" href="#">Colorado Rockies</a>
+                        <a class="dropdown-item" href="/Diamondbacks/">Arizona Diamondbacks</a>
+                        <a class="dropdown-item" href="/Dodgers/">Los Angeles Dodgers</a>
+                        <a class="dropdown-item" href="/Giants/">San Francisco Giants</a>
+                        <a class="dropdown-item" href="/Padres/">San Diego Padres</a>
+                        <a class="dropdown-item" href="/Rockies/">Colorado Rockies</a>
                 </div>
             </div>
         </div>
@@ -71,7 +71,7 @@
 
 {% if not today %}
     <div class="alert alert-warning alert-dismissible fade show text-center" role="alert">
-        There are no games today——here are some coming up next season.
+        There are no{% if searched %}<b> {{ team }}</b>{% endif %} games soon——here are some coming up next season.
         <button type="button" class="close" data-dismiss="alert" aria-label="Close">
         <span aria-hidden="true">&times;</span>
         </button>
