@@ -3,6 +3,68 @@
 {% load static %}
 
 {% block content %}
+<!-- Search functionality (by team) -->
+<div class="container text-center" style="margin-bottom: 25px">
+    <h2>Pick A Team</h2>
+    <p>Select a team below to display their games.</p>
+</div>
+
+<div class="container">
+    <div class="dropdown" style="margin-bottom: 25px" align="center">
+        <a class="btn btn-secondary btn-lg dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="width:300px">
+        Select a team
+        </a>
+    
+        <div class="dropdown-menu" aria-labelledby="dropdownMenuLink" style="padding:20px">
+            <div class="row">
+                <div class="col-sm-6">
+                    <span class="dropdown-item-text"><b>American League</b></span>
+                    <h6 class="dropdown-header">East</h6>
+                        <a class="dropdown-item" href="#">Toronto Blue Jays</a>
+                        <a class="dropdown-item" href="#">Baltimore Orioles</a>
+                        <a class="dropdown-item" href="#">Tampa Bay Rays</a>
+                        <a class="dropdown-item" href="#">Boston Red Sox</a>
+                        <a class="dropdown-item" href="#">New York Yankees</a>
+                    <h6 class="dropdown-header">Central</h6>
+                        <a class="dropdown-item" href="#">Cleveland Indians</a>
+                        <a class="dropdown-item" href="#">Kansas City Royals</a>
+                        <a class="dropdown-item" href="#">Detroit Tigers</a>
+                        <a class="dropdown-item" href="#">Minnesota Twins</a>
+                        <a class="dropdown-item" href="#">Chicago White Sox</a>
+                    <h6 class="dropdown-header">West</h6>
+                        <a class="dropdown-item" href="#">Los Angeles Angels</a>
+                        <a class="dropdown-item" href="#">Houston Astros</a>
+                        <a class="dropdown-item" href="#">Oakland Athletics</a>
+                        <a class="dropdown-item" href="#">Seattle Mariners</a>
+                        <a class="dropdown-item" href="#">Texas Rangers</a>
+                </div>
+                <div class="col-sm-6" style="border-left: 1px solid #ccc">
+                    <span class="dropdown-item-text"><b>National League</b></span>
+                    <h6 class="dropdown-header">East</h6>
+                        <a class="dropdown-item" href="#">Atlanta Braves</a>
+                        <a class="dropdown-item" href="#">Miami Marlins</a>
+                        <a class="dropdown-item" href="#">New York Mets</a>
+                        <a class="dropdown-item" href="#">Washington Nationals</a>
+                        <a class="dropdown-item" href="#">Philadelphia Phillies</a>
+                    <h6 class="dropdown-header">Central</h6>
+                        <a class="dropdown-item" href="#">Milwaukee Brewers</a>
+                        <a class="dropdown-item" href="#">St. Louis Cardinals</a>
+                        <a class="dropdown-item" href="#">Chicago Cubs</a>
+                        <a class="dropdown-item" href="#">Pittsburgh Pirates</a>
+                        <a class="dropdown-item" href="#">Cincinnati Reds</a>
+                    <h6 class="dropdown-header">West</h6>
+                        <a class="dropdown-item" href="#">Arizona Diamondbacks</a>
+                        <a class="dropdown-item" href="#">Los Angeles Dodgers</a>
+                        <a class="dropdown-item" href="#">San Francisco Giants</a>
+                        <a class="dropdown-item" href="#">San Diego Padres</a>
+                        <a class="dropdown-item" href="#">Colorado Rockies</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Display Upcoming Games -->
 <div class="container text-center" style="margin-bottom: 25px">
     <h2>Upcoming Games</h2>
 </div>
