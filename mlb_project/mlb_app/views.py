@@ -9,6 +9,15 @@ def home(request):
 
     #retrieve today's games
     games = mlbgame.day(now.year, now.month, now.day)[0:10]
+    dayCount = 1
+    #retrieve this week's games if not enough games today
+    while len(games) < 10 and dayCount < 7:
+        dateToCheck = datetime.date.today()
+        dateToCheck += datetime.timedelta(days=dayCount)
+        gamesOnDay = mlbgame.day(dateToCheck.year, dateToCheck.month, dateToCheck.day)[0:10-len(games)]
+        if len(gamesOnDay) > 0:
+            games.append(gamesOnDay)
+        dayCount += 1
     if games is []:
         areGamesToday = False
         #go to next season
