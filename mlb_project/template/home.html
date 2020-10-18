@@ -7,6 +7,15 @@
     <h2>Upcoming Games</h2>
 </div>
 
+{% if not today %}
+    <div class="alert alert-warning alert-dismissible fade show text-center" role="alert">
+        There are no games today——here are some coming up next season.
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+        <span aria-hidden="true">&times;</span>
+        </button>
+    </div>
+{% endif %}
+
 <div class="container" style="width:700px">
 {% for game in data %}
     <div class="row bg-light shadow-sm" style="margin-bottom: 20px; border: #ccc 1px solid">
