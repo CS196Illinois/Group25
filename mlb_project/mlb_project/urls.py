@@ -18,5 +18,6 @@ from django.urls import path, include
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', include('mlb_app.urls'))
+    path('', include('mlb_app.urls')),
+    path('<str:team_searched>/', include('mlb_app.urls')),
 ]
