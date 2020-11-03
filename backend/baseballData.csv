@@ -1,0 +1,2464 @@
+away_team,home_team,Delta (ERA),Delta (RBI),Delta (SLG),Delta (AVG),home_team_win
+New York Mets,Kansas City Royals,0.64,-9,-0.017,0.015,1
+Philadelphia Phillies,Cincinnati Reds,0.28,104,0.024,0.016,1
+Minnesota Twins,Baltimore Orioles,-0.86,20,0.022,0.005,1
+Washington Nationals,Atlanta Braves,1,-120,-0.042,-0.001,0
+Colorado Rockies,Arizona Diamondbacks,0.18,-96,-0.025,-0.014,0
+Seattle Mariners,Texas Rangers,0.37,11,0.003,0.003,0
+Toronto Blue Jays,Tampa Bay Rays,0.42,-81,0,-0.005,1
+Los Angeles Dodgers,San Diego Padres,0.73,-26,-0.019,-0.014,0
+St. Louis Cardinals,Pittsburgh Pirates,0.13,-49,-0.04,0.002,1
+Chicago White Sox,Oakland Athletics,0.41,-22,-0.015,-0.011,0
+Houston Astros,New York Yankees,0.1,-42,-0.012,0.005,0
+San Francisco Giants,Milwaukee Brewers,0.43,-34,0.009,-0.014,0
+Detroit Tigers,Miami Marlins,-0.19,-93,-0.044,-0.004,0
+Texas Rangers,Seattle Mariners,-0.37,-11,-0.003,-0.003,0
+San Diego Padres,Philadelphia Phillies,0.2,-80,-0.006,0.005,0
+Los Angeles Angels of Anaheim,Oakland Athletics,0.23,-52,-0.01,-0.014,0
+Miami Marlins,New York Mets,-0.48,23,0.023,-0.017,0
+Chicago White Sox,Minnesota Twins,0.98,34,0.011,-0.006,0
+Kansas City Royals,Houston Astros,-0.15,49,0.017,-0.014,1
+Pittsburgh Pirates,Detroit Tigers,0.03,23,0.036,0.01,0
+Cincinnati Reds,Chicago Cubs,-1.76,89,0.021,0,1
+Kansas City Royals,Houston Astros,-0.15,49,0.017,-0.014,0
+San Francisco Giants,Colorado Rockies,1.26,130,0.059,0.017,1
+Cincinnati Reds,Chicago Cubs,-1.76,89,0.021,0,1
+Atlanta Braves,Washington Nationals,-1,120,0.042,0.001,1
+New York Yankees,Toronto Blue Jays,-0.38,81,0.021,-0.004,1
+Toronto Blue Jays,Baltimore Orioles,0.44,-18,0.017,0.008,0
+Los Angeles Dodgers,Atlanta Braves,0.81,-65,-0.025,0.006,1
+Chicago Cubs,St. Louis Cardinals,0.93,-22,0.013,-0.001,0
+Arizona Diamondbacks,San Francisco Giants,-1.44,-34,-0.034,-0.003,0
+New York Mets,Philadelphia Phillies,1.06,-75,-0.033,-0.006,0
+Milwaukee Brewers,Minnesota Twins,1,49,0.014,0.007,1
+Washington Nationals,Miami Marlins,0.54,-109,-0.032,0.007,1
+Colorado Rockies,Cincinnati Reds,0,-127,-0.049,-0.019,0
+Los Angeles Angels of Anaheim,Chicago White Sox,-0.18,-30,0.005,-0.003,0
+Toronto Blue Jays,Boston Red Sox,0.22,108,0.035,0.034,0
+Chicago White Sox,Tampa Bay Rays,0.1,-9,0.016,-0.014,1
+Cincinnati Reds,St. Louis Cardinals,-0.83,67,0.034,-0.001,1
+Chicago Cubs,Cincinnati Reds,1.76,-89,-0.021,0,0
+Chicago White Sox,Toronto Blue Jays,-0.32,72,0.016,-0.009,0
+New York Yankees,Texas Rangers,0.21,99,0.028,0.01,0
+Baltimore Orioles,Tampa Bay Rays,-0.02,-63,-0.017,-0.013,1
+San Diego Padres,San Francisco Giants,-0.78,21,0.008,0.023,1
+Houston Astros,Seattle Mariners,-0.06,46,0.013,0.012,1
+Cincinnati Reds,New York Mets,-1.34,-29,0.009,-0.01,1
+Cleveland Indians,Minnesota Twins,1.24,-43,-0.009,-0.011,1
+Miami Marlins,Los Angeles Dodgers,-0.35,54,0.015,-0.014,0
+Oakland Athletics,Detroit Tigers,-0.27,85,0.043,0.021,1
+Pittsburgh Pirates,Colorado Rockies,0.7,109,0.055,0.018,0
+Boston Red Sox,Atlanta Braves,0.51,-221,-0.077,-0.027,0
+St. Louis Cardinals,Arizona Diamondbacks,1.01,-36,-0.01,0.006,1
+San Diego Padres,San Francisco Giants,-0.78,21,0.008,0.023,1
+Toronto Blue Jays,Tampa Bay Rays,0.42,-81,0,-0.005,0
+Washington Nationals,St. Louis Cardinals,0.57,10,0.016,-0.001,0
+Kansas City Royals,Seattle Mariners,-0.21,95,0.03,-0.002,0
+Cincinnati Reds,Pittsburgh Pirates,-0.7,18,-0.006,0.001,0
+Cleveland Indians,Philadelphia Phillies,0.79,-159,-0.046,-0.022,1
+Houston Astros,Oakland Athletics,0.45,-55,-0.022,-0.001,0
+San Francisco Giants,New York Mets,-0.08,-26,0.019,-0.012,0
+Detroit Tigers,Minnesota Twins,0.84,-29,-0.017,-0.016,0
+Miami Marlins,Milwaukee Brewers,0.03,15,0.013,-0.019,1
+San Diego Padres,Los Angeles Dodgers,-0.73,26,0.019,0.014,1
+Atlanta Braves,Chicago Cubs,-1.36,152,0.045,0.001,0
+New York Yankees,Boston Red Sox,-0.16,189,0.056,0.03,1
+Philadelphia Phillies,St. Louis Cardinals,-0.55,171,0.058,0.015,0
+Pittsburgh Pirates,St. Louis Cardinals,-0.13,49,0.04,-0.002,1
+Colorado Rockies,San Francisco Giants,-1.26,-130,-0.059,-0.017,1
+New York Mets,San Diego Padres,0.86,5,-0.027,-0.011,0
+Boston Red Sox,New York Yankees,0.16,-189,-0.056,-0.03,1
+Philadelphia Phillies,Miami Marlins,-0.58,52,0.01,0.023,0
+Seattle Mariners,Houston Astros,0.06,-46,-0.013,-0.012,0
+Texas Rangers,Detroit Tigers,-0.13,-27,0.005,0.005,0
+Kansas City Royals,Cleveland Indians,-0.37,93,0.03,0.001,0
+Milwaukee Brewers,Cincinnati Reds,0.83,37,0.001,0.012,0
+Washington Nationals,Chicago Cubs,-0.36,32,0.003,0,1
+Minnesota Twins,Chicago White Sox,-0.98,-34,-0.011,0.006,1
+Oakland Athletics,Baltimore Orioles,-0.29,76,0.048,0.01,1
+Tampa Bay Rays,Seattle Mariners,-0.2,88,0.004,0.016,1
+Oakland Athletics,Tampa Bay Rays,-0.31,13,0.031,-0.003,0
+Los Angeles Angels of Anaheim,Seattle Mariners,-0.28,49,0.025,-0.001,0
+Cincinnati Reds,Philadelphia Phillies,-0.28,-104,-0.024,-0.016,1
+Chicago White Sox,New York Yankees,0.06,-9,-0.005,-0.005,0
+San Diego Padres,Milwaukee Brewers,-0.35,-13,0.017,0.009,1
+St. Louis Cardinals,Los Angeles Dodgers,-0.38,-65,-0.033,-0.006,1
+Atlanta Braves,Kansas City Royals,-0.3,25,0.016,0.006,1
+New York Mets,Colorado Rockies,1.34,156,0.04,0.029,1
+Minnesota Twins,Cleveland Indians,-1.24,43,0.009,0.011,1
+Pittsburgh Pirates,Chicago Cubs,-1.06,71,0.027,-0.001,1
+Houston Astros,Boston Red Sox,-0.06,147,0.044,0.035,0
+Detroit Tigers,Baltimore Orioles,-0.02,-9,0.005,-0.011,1
+Cincinnati Reds,Philadelphia Phillies,-0.28,-104,-0.024,-0.016,0
+Atlanta Braves,Philadelphia Phillies,0.12,-41,0,-0.015,0
+New York Yankees,Oakland Athletics,0.35,-13,-0.01,-0.006,0
+Milwaukee Brewers,New York Mets,-0.51,8,0.01,0.002,1
+Toronto Blue Jays,Minnesota Twins,1.3,-38,-0.005,0.003,0
+Washington Nationals,Miami Marlins,0.54,-109,-0.032,0.007,0
+Texas Rangers,Houston Astros,-0.31,-57,-0.016,-0.015,0
+Tampa Bay Rays,Detroit Tigers,0.04,72,0.012,0.024,0
+Seattle Mariners,Cincinnati Reds,0.91,-57,-0.022,-0.003,0
+Kansas City Royals,Chicago White Sox,-0.11,16,0.01,-0.004,0
+Cleveland Indians,Boston Red Sox,0.16,103,0.031,0.02,0
+Baltimore Orioles,Los Angeles Angels of Anaheim,0.06,-24,-0.038,0.004,0
+Colorado Rockies,St. Louis Cardinals,-0.83,-60,-0.015,-0.02,1
+Baltimore Orioles,Los Angeles Angels of Anaheim,0.06,-24,-0.038,0.004,1
+St. Louis Cardinals,Washington Nationals,-0.57,-10,-0.016,0.001,1
+Miami Marlins,Tampa Bay Rays,0.15,21,0.032,-0.02,0
+Arizona Diamondbacks,Pittsburgh Pirates,-0.88,-13,-0.03,-0.004,1
+Toronto Blue Jays,New York Yankees,0.38,-81,-0.021,0.004,0
+Baltimore Orioles,Houston Astros,-0.16,-21,-0.026,-0.009,1
+Colorado Rockies,Boston Red Sox,-0.91,31,0.004,0.007,0
+Milwaukee Brewers,Atlanta Braves,0.43,-26,-0.023,0.011,0
+New York Mets,Washington Nationals,-0.06,86,0.009,0.01,0
+Los Angeles Angels of Anaheim,Texas Rangers,0.09,60,0.028,0.002,1
+Miami Marlins,Tampa Bay Rays,0.15,21,0.032,-0.02,0
+Chicago Cubs,St. Louis Cardinals,0.93,-22,0.013,-0.001,0
+San Diego Padres,San Francisco Giants,-0.78,21,0.008,0.023,1
+Houston Astros,Los Angeles Angels of Anaheim,0.22,-3,-0.012,0.013,0
+Arizona Diamondbacks,Houston Astros,-1.03,-20,-0.015,-0.014,0
+New York Yankees,Detroit Tigers,0.08,72,0.033,0.015,0
+Cincinnati Reds,Colorado Rockies,0,127,0.049,0.019,0
+Kansas City Royals,Cleveland Indians,-0.37,93,0.03,0.001,1
+Los Angeles Dodgers,Chicago Cubs,-0.55,87,0.02,0.007,1
+Boston Red Sox,Baltimore Orioles,0.22,-126,-0.018,-0.026,1
+San Francisco Giants,Atlanta Braves,0.86,-60,-0.014,-0.003,0
+New York Yankees,Toronto Blue Jays,-0.38,81,0.021,-0.004,1
+Seattle Mariners,San Diego Padres,0.43,-81,-0.04,-0.024,1
+Washington Nationals,Philadelphia Phillies,1.12,-161,-0.042,-0.016,0
+Minnesota Twins,Oakland Athletics,-0.57,-56,-0.026,-0.005,1
+Chicago White Sox,New York Mets,-0.53,-7,0.007,-0.011,0
+San Francisco Giants,St. Louis Cardinals,0.43,70,0.044,-0.003,1
+Baltimore Orioles,Toronto Blue Jays,-0.44,18,-0.017,-0.008,0
+Houston Astros,Texas Rangers,0.31,57,0.016,0.015,1
+Cleveland Indians,Seattle Mariners,0.16,2,0,-0.003,0
+Los Angeles Angels of Anaheim,New York Yankees,-0.12,-39,0,-0.008,1
+Miami Marlins,Minnesota Twins,1.03,64,0.027,-0.012,0
+New York Mets,Milwaukee Brewers,0.51,-8,-0.01,-0.002,0
+Pittsburgh Pirates,Colorado Rockies,0.7,109,0.055,0.018,1
+St. Louis Cardinals,Cincinnati Reds,0.83,-67,-0.034,0.001,0
+Washington Nationals,Chicago White Sox,0.59,-79,-0.016,0.001,1
+Houston Astros,Texas Rangers,0.31,57,0.016,0.015,0
+Boston Red Sox,San Francisco Giants,-0.35,-161,-0.063,-0.024,1
+Cleveland Indians,Seattle Mariners,0.16,2,0,-0.003,1
+Chicago Cubs,Atlanta Braves,1.36,-152,-0.045,-0.001,0
+Detroit Tigers,Kansas City Royals,-0.03,-79,-0.038,-0.006,0
+Baltimore Orioles,Boston Red Sox,-0.22,126,0.018,0.026,0
+Cincinnati Reds,Atlanta Braves,-0.4,-63,-0.024,-0.001,1
+Chicago Cubs,Washington Nationals,0.36,-32,-0.003,0,1
+Seattle Mariners,Tampa Bay Rays,0.2,-88,-0.004,-0.016,1
+Houston Astros,St. Louis Cardinals,0.02,56,0.025,0.008,0
+Milwaukee Brewers,San Francisco Giants,-0.43,34,-0.009,0.014,1
+Miami Marlins,San Diego Padres,0.38,28,-0.004,-0.028,1
+Toronto Blue Jays,Philadelphia Phillies,0.85,-154,-0.042,-0.008,0
+Texas Rangers,Oakland Athletics,0.14,-112,-0.038,-0.016,0
+Pittsburgh Pirates,New York Mets,-0.64,-47,0.015,-0.011,1
+Cleveland Indians,Kansas City Royals,0.37,-93,-0.03,-0.001,1
+Los Angeles Angels of Anaheim,Oakland Athletics,0.23,-52,-0.01,-0.014,0
+Colorado Rockies,New York Yankees,-0.75,-158,-0.052,-0.023,1
+Philadelphia Phillies,Minnesota Twins,0.45,116,0.037,0.011,1
+Atlanta Braves,Miami Marlins,-0.46,11,0.01,0.008,1
+Washington Nationals,Los Angeles Dodgers,0.19,-55,-0.017,-0.007,1
+Los Angeles Angels of Anaheim,Houston Astros,-0.22,3,0.012,-0.013,1
+Seattle Mariners,Detroit Tigers,0.24,-16,0.008,0.008,1
+Tampa Bay Rays,Cleveland Indians,-0.36,86,0.004,0.019,1
+St. Louis Cardinals,Chicago Cubs,-0.93,22,-0.013,0.001,0
+Chicago White Sox,Boston Red Sox,-0.1,180,0.051,0.025,0
+San Diego Padres,Baltimore Orioles,-0.21,56,0.053,0.021,1
+Arizona Diamondbacks,Toronto Blue Jays,-1.31,19,-0.006,-0.013,0
+Cincinnati Reds,Texas Rangers,-0.54,68,0.025,0.006,0
+Tampa Bay Rays,Baltimore Orioles,0.02,63,0.017,0.013,1
+Kansas City Royals,St. Louis Cardinals,-0.13,105,0.042,-0.006,0
+Pittsburgh Pirates,Seattle Mariners,-0.21,39,0.028,0.002,0
+Baltimore Orioles,San Diego Padres,0.21,-56,-0.053,-0.021,0
+San Francisco Giants,Oakland Athletics,0.86,-41,-0.003,-0.012,1
+Texas Rangers,New York Yankees,-0.21,-99,-0.028,-0.01,1
+Los Angeles Dodgers,Milwaukee Brewers,0.38,-39,-0.002,-0.005,1
+Miami Marlins,Detroit Tigers,0.19,93,0.044,0.004,1
+Toronto Blue Jays,Colorado Rockies,1.13,77,0.031,0.027,0
+Chicago Cubs,Cincinnati Reds,1.76,-89,-0.021,0,0
+Minnesota Twins,Chicago White Sox,-0.98,-34,-0.011,0.006,1
+Cleveland Indians,Atlanta Braves,0.67,-118,-0.046,-0.007,0
+Philadelphia Phillies,Arizona Diamondbacks,0.46,135,0.048,0.021,0
+Colorado Rockies,Los Angeles Dodgers,-1.21,-125,-0.048,-0.026,1
+Oakland Athletics,Minnesota Twins,0.57,56,0.026,0.005,1
+Baltimore Orioles,Los Angeles Dodgers,-0.52,-30,-0.034,-0.007,0
+Seattle Mariners,Houston Astros,0.06,-46,-0.013,-0.012,1
+Detroit Tigers,Cleveland Indians,-0.4,14,-0.008,-0.005,0
+Cincinnati Reds,Chicago Cubs,-1.76,89,0.021,0,0
+New York Yankees,Chicago White Sox,-0.06,9,0.005,0.005,1
+Texas Rangers,Boston Red Sox,-0.37,90,0.028,0.02,1
+San Diego Padres,Arizona Diamondbacks,0.66,55,0.042,0.026,0
+Milwaukee Brewers,Washington Nationals,-0.57,94,0.019,0.012,0
+Kansas City Royals,Toronto Blue Jays,-0.43,88,0.026,-0.013,1
+Los Angeles Angels of Anaheim,Tampa Bay Rays,-0.08,-39,0.021,-0.017,0
+Pittsburgh Pirates,St. Louis Cardinals,-0.13,49,0.04,-0.002,0
+Los Angeles Angels of Anaheim,Baltimore Orioles,-0.06,24,0.038,-0.004,1
+Pittsburgh Pirates,Washington Nationals,-0.7,39,0.024,-0.001,1
+Baltimore Orioles,Tampa Bay Rays,-0.02,-63,-0.017,-0.013,0
+Miami Marlins,St. Louis Cardinals,0.03,119,0.048,-0.008,1
+Houston Astros,Seattle Mariners,-0.06,46,0.013,0.012,1
+San Francisco Giants,San Diego Padres,0.78,-21,-0.008,-0.023,1
+New York Mets,Philadelphia Phillies,1.06,-75,-0.033,-0.006,1
+Toronto Blue Jays,Oakland Athletics,0.73,-94,-0.031,-0.002,1
+Boston Red Sox,New York Yankees,0.16,-189,-0.056,-0.03,0
+Cleveland Indians,Minnesota Twins,1.24,-43,-0.009,-0.011,1
+Kansas City Royals,Detroit Tigers,0.03,79,0.038,0.006,0
+Milwaukee Brewers,Cincinnati Reds,0.83,37,0.001,0.012,0
+Texas Rangers,Chicago Cubs,-1.22,21,-0.004,-0.006,1
+Cleveland Indians,Kansas City Royals,0.37,-93,-0.03,-0.001,0
+Atlanta Braves,Colorado Rockies,0.4,190,0.073,0.02,1
+Arizona Diamondbacks,Cincinnati Reds,-0.18,-31,-0.024,-0.005,0
+Detroit Tigers,Chicago White Sox,-0.14,-63,-0.028,-0.01,1
+Minnesota Twins,Boston Red Sox,-1.08,146,0.04,0.031,1
+Cleveland Indians,Baltimore Orioles,0.38,-23,0.013,-0.006,1
+San Diego Padres,Washington Nationals,-0.92,81,0.036,0.021,1
+Seattle Mariners,Toronto Blue Jays,-0.22,-7,-0.004,-0.011,0
+Los Angeles Dodgers,St. Louis Cardinals,0.38,65,0.033,0.006,0
+Philadelphia Phillies,Pittsburgh Pirates,-0.42,122,0.018,0.017,1
+Tampa Bay Rays,Oakland Athletics,0.31,-13,-0.031,0.003,1
+San Francisco Giants,New York Yankees,0.51,-28,0.007,-0.006,0
+Chicago Cubs,Milwaukee Brewers,0.93,-126,-0.022,-0.012,1
+St. Louis Cardinals,New York Mets,-0.51,-96,-0.025,-0.009,0
+Washington Nationals,San Francisco Giants,0.14,-60,-0.028,0.002,1
+Cincinnati Reds,San Diego Padres,-0.48,-24,-0.018,-0.021,1
+Colorado Rockies,New York Mets,-1.34,-156,-0.04,-0.029,0
+Chicago White Sox,Minnesota Twins,0.98,34,0.011,-0.006,0
+Pittsburgh Pirates,Milwaukee Brewers,-0.13,-55,0.005,-0.013,1
+St. Louis Cardinals,Miami Marlins,-0.03,-119,-0.048,0.008,1
+Arizona Diamondbacks,Los Angeles Dodgers,-1.39,-29,-0.023,-0.012,0
+Houston Astros,Detroit Tigers,0.18,30,0.021,0.02,1
+Oakland Athletics,Cleveland Indians,-0.67,99,0.035,0.016,1
+Seattle Mariners,Chicago Cubs,-0.85,32,-0.001,-0.003,0
+Philadelphia Phillies,Atlanta Braves,-0.12,41,0,0.015,0
+Boston Red Sox,Los Angeles Angels of Anaheim,0.28,-150,-0.056,-0.022,1
+Miami Marlins,Chicago Cubs,-0.9,141,0.035,-0.007,1
+Toronto Blue Jays,Kansas City Royals,0.43,-88,-0.026,0.013,1
+Texas Rangers,Houston Astros,-0.31,-57,-0.016,-0.015,0
+New York Mets,Detroit Tigers,0.67,70,0.021,0.021,1
+Miami Marlins,Colorado Rockies,0.86,179,0.063,0.012,1
+Baltimore Orioles,Chicago White Sox,-0.12,-54,-0.033,0.001,1
+Milwaukee Brewers,Arizona Diamondbacks,1.01,68,0.025,0.017,0
+San Francisco Giants,Washington Nationals,-0.14,60,0.028,-0.002,1
+Minnesota Twins,Tampa Bay Rays,-0.88,-43,0.005,-0.008,0
+Atlanta Braves,St. Louis Cardinals,-0.43,130,0.058,0,1
+Los Angeles Angels of Anaheim,Seattle Mariners,-0.28,49,0.025,-0.001,1
+Philadelphia Phillies,San Diego Padres,-0.2,80,0.006,-0.005,0
+Cincinnati Reds,Pittsburgh Pirates,-0.7,18,-0.006,0.001,1
+New York Yankees,Boston Red Sox,-0.16,189,0.056,0.03,1
+Houston Astros,Toronto Blue Jays,-0.28,39,0.009,0.001,0
+Detroit Tigers,Texas Rangers,0.13,27,-0.005,-0.005,1
+Baltimore Orioles,San Francisco Giants,-0.57,-35,-0.045,0.002,0
+Colorado Rockies,Philadelphia Phillies,-0.28,-231,-0.073,-0.035,1
+Seattle Mariners,Oakland Athletics,0.51,-101,-0.035,-0.013,1
+San Diego Padres,New York Mets,-0.86,-5,0.027,0.011,0
+Tampa Bay Rays,New York Yankees,-0.04,0,-0.021,0.009,1
+Kansas City Royals,Minnesota Twins,0.87,50,0.021,-0.01,0
+Cincinnati Reds,Milwaukee Brewers,-0.83,-37,-0.001,-0.012,0
+Chicago White Sox,Miami Marlins,-0.05,-30,-0.016,0.006,0
+Pittsburgh Pirates,Los Angeles Dodgers,-0.51,-16,0.007,-0.008,0
+Los Angeles Angels of Anaheim,Cleveland Indians,-0.44,47,0.025,0.002,1
+Seattle Mariners,Los Angeles Angels of Anaheim,0.28,-49,-0.025,0.001,0
+Toronto Blue Jays,Cleveland Indians,0.06,5,0.004,0.014,1
+Los Angeles Dodgers,Cincinnati Reds,1.21,-2,-0.001,0.007,1
+Oakland Athletics,Chicago White Sox,-0.41,22,0.015,0.011,0
+Houston Astros,Baltimore Orioles,0.16,21,0.026,0.009,0
+Washington Nationals,Atlanta Braves,1,-120,-0.042,-0.001,0
+New York Yankees,Los Angeles Angels of Anaheim,0.12,39,0,0.008,0
+New York Mets,San Francisco Giants,0.08,26,-0.019,0.012,1
+Arizona Diamondbacks,San Diego Padres,-0.66,-55,-0.042,-0.026,1
+Los Angeles Dodgers,Philadelphia Phillies,0.93,-106,-0.025,-0.009,1
+Minnesota Twins,Kansas City Royals,-0.87,-50,-0.021,0.01,1
+Boston Red Sox,Detroit Tigers,0.24,-117,-0.023,-0.015,1
+Chicago White Sox,Cleveland Indians,-0.26,77,0.02,0.005,1
+Minnesota Twins,Kansas City Royals,-0.87,-50,-0.021,0.01,1
+Pittsburgh Pirates,Milwaukee Brewers,-0.13,-55,0.005,-0.013,0
+San Diego Padres,Miami Marlins,-0.38,-28,0.004,0.028,1
+Chicago Cubs,Los Angeles Dodgers,0.55,-87,-0.02,-0.007,0
+Tampa Bay Rays,Houston Astros,-0.14,42,-0.009,0.004,1
+Los Angeles Angels of Anaheim,Detroit Tigers,-0.04,33,0.033,0.007,1
+Seattle Mariners,Chicago White Sox,0.1,-79,-0.02,-0.002,0
+Kansas City Royals,Boston Red Sox,-0.21,196,0.061,0.021,0
+Cincinnati Reds,Arizona Diamondbacks,0.18,31,0.024,0.005,1
+Baltimore Orioles,Washington Nationals,-0.71,25,-0.017,0,1
+Los Angeles Angels of Anaheim,Toronto Blue Jays,-0.5,42,0.021,-0.012,0
+Cleveland Indians,Texas Rangers,0.53,13,0.003,0,1
+Boston Red Sox,Tampa Bay Rays,0.2,-189,-0.035,-0.039,1
+Baltimore Orioles,New York Yankees,-0.06,-63,-0.038,-0.004,0
+Toronto Blue Jays,Tampa Bay Rays,0.42,-81,0,-0.005,1
+Los Angeles Angels of Anaheim,Seattle Mariners,-0.28,49,0.025,-0.001,1
+Milwaukee Brewers,Pittsburgh Pirates,0.13,55,-0.005,0.013,0
+Atlanta Braves,Philadelphia Phillies,0.12,-41,0,-0.015,0
+Boston Red Sox,Oakland Athletics,0.51,-202,-0.066,-0.036,0
+Washington Nationals,New York Mets,0.06,-86,-0.009,-0.01,0
+Chicago White Sox,Minnesota Twins,0.98,34,0.011,-0.006,0
+San Diego Padres,Los Angeles Dodgers,-0.73,26,0.019,0.014,0
+Detroit Tigers,Kansas City Royals,-0.03,-79,-0.038,-0.006,0
+Arizona Diamondbacks,Colorado Rockies,-0.18,96,0.025,0.014,1
+Miami Marlins,Cleveland Indians,-0.21,107,0.036,-0.001,1
+St. Louis Cardinals,Cincinnati Reds,0.83,-67,-0.034,0.001,1
+Houston Astros,Cleveland Indians,-0.22,44,0.013,0.015,0
+New York Mets,Atlanta Braves,0.94,-34,-0.033,0.009,1
+San Francisco Giants,Arizona Diamondbacks,1.44,34,0.034,0.003,0
+Texas Rangers,Los Angeles Angels of Anaheim,-0.09,-60,-0.028,-0.002,0
+Philadelphia Phillies,Washington Nationals,-1.12,161,0.042,0.016,1
+Boston Red Sox,Toronto Blue Jays,-0.22,-108,-0.035,-0.034,0
+Milwaukee Brewers,St. Louis Cardinals,0,104,0.035,0.011,1
+Colorado Rockies,San Diego Padres,-0.48,-151,-0.067,-0.04,0
+Cincinnati Reds,Pittsburgh Pirates,-0.7,18,-0.006,0.001,0
+Seattle Mariners,Oakland Athletics,0.51,-101,-0.035,-0.013,0
+Tampa Bay Rays,New York Yankees,-0.04,0,-0.021,0.009,1
+Cleveland Indians,Minnesota Twins,1.24,-43,-0.009,-0.011,0
+Los Angeles Dodgers,Miami Marlins,0.35,-54,-0.015,0.014,1
+Seattle Mariners,Los Angeles Angels of Anaheim,0.28,-49,-0.025,0.001,0
+Houston Astros,Seattle Mariners,-0.06,46,0.013,0.012,0
+Miami Marlins,Philadelphia Phillies,0.58,-52,-0.01,-0.023,1
+Minnesota Twins,New York Mets,-1.51,-41,-0.004,-0.005,1
+Chicago White Sox,Kansas City Royals,0.11,-16,-0.01,0.004,0
+San Diego Padres,Colorado Rockies,0.48,151,0.067,0.04,1
+Detroit Tigers,Cleveland Indians,-0.4,14,-0.008,-0.005,1
+Pittsburgh Pirates,Cincinnati Reds,0.7,-18,0.006,-0.001,0
+Milwaukee Brewers,Chicago Cubs,-0.93,126,0.022,0.012,1
+New York Yankees,Boston Red Sox,-0.16,189,0.056,0.03,1
+Tampa Bay Rays,Baltimore Orioles,0.02,63,0.017,0.013,1
+Washington Nationals,Atlanta Braves,1,-120,-0.042,-0.001,0
+Oakland Athletics,Texas Rangers,-0.14,112,0.038,0.016,0
+New York Yankees,Toronto Blue Jays,-0.38,81,0.021,-0.004,1
+Boston Red Sox,Tampa Bay Rays,0.2,-189,-0.035,-0.039,0
+San Francisco Giants,San Diego Padres,0.78,-21,-0.008,-0.023,1
+Washington Nationals,Pittsburgh Pirates,0.7,-39,-0.024,0.001,1
+Texas Rangers,Oakland Athletics,0.14,-112,-0.038,-0.016,0
+Philadelphia Phillies,New York Mets,-1.06,75,0.033,0.006,1
+Seattle Mariners,Minnesota Twins,1.08,-45,-0.009,-0.008,0
+Cincinnati Reds,Milwaukee Brewers,-0.83,-37,-0.001,-0.012,1
+Atlanta Braves,Miami Marlins,-0.46,11,0.01,0.008,0
+Colorado Rockies,Los Angeles Dodgers,-1.21,-125,-0.048,-0.026,1
+Los Angeles Angels of Anaheim,Houston Astros,-0.22,3,0.012,-0.013,0
+Kansas City Royals,Detroit Tigers,0.03,79,0.038,0.006,1
+Oakland Athletics,Los Angeles Angels of Anaheim,-0.23,52,0.01,0.014,1
+Los Angeles Dodgers,San Francisco Giants,-0.05,-5,-0.011,0.009,1
+Oakland Athletics,Seattle Mariners,-0.51,101,0.035,0.013,1
+New York Mets,Philadelphia Phillies,1.06,-75,-0.033,-0.006,0
+Baltimore Orioles,New York Yankees,-0.06,-63,-0.038,-0.004,0
+Cleveland Indians,Kansas City Royals,0.37,-93,-0.03,-0.001,0
+Milwaukee Brewers,Colorado Rockies,0.83,164,0.05,0.031,1
+Chicago Cubs,Cincinnati Reds,1.76,-89,-0.021,0,0
+Minnesota Twins,Chicago White Sox,-0.98,-34,-0.011,0.006,1
+Toronto Blue Jays,Boston Red Sox,0.22,108,0.035,0.034,1
+Detroit Tigers,Atlanta Braves,0.27,-104,-0.054,-0.012,0
+San Diego Padres,Arizona Diamondbacks,0.66,55,0.042,0.026,1
+Houston Astros,Los Angeles Angels of Anaheim,0.22,-3,-0.012,0.013,1
+Miami Marlins,Washington Nationals,-0.54,109,0.032,-0.007,1
+Chicago Cubs,Cleveland Indians,0.69,-34,0.001,0.006,0
+Chicago Cubs,Cleveland Indians,0.69,-34,0.001,0.006,0
+Cleveland Indians,Chicago Cubs,-0.69,34,-0.001,-0.006,1
+Cleveland Indians,Chicago Cubs,-0.69,34,-0.001,-0.006,0
+Cleveland Indians,Chicago Cubs,-0.69,34,-0.001,-0.006,0
+Chicago Cubs,Cleveland Indians,0.69,-34,0.001,0.006,0
+Chicago Cubs,Cleveland Indians,0.69,-34,0.001,0.006,1
+Los Angeles Dodgers,Chicago Cubs,-0.55,87,0.02,0.007,1
+Chicago Cubs,Los Angeles Dodgers,0.55,-87,-0.02,-0.007,0
+Cleveland Indians,Toronto Blue Jays,-0.06,-5,-0.004,-0.014,0
+Chicago Cubs,Los Angeles Dodgers,0.55,-87,-0.02,-0.007,0
+Cleveland Indians,Toronto Blue Jays,-0.06,-5,-0.004,-0.014,1
+Chicago Cubs,Los Angeles Dodgers,0.55,-87,-0.02,-0.007,1
+Cleveland Indians,Toronto Blue Jays,-0.06,-5,-0.004,-0.014,0
+Los Angeles Dodgers,Chicago Cubs,-0.55,87,0.02,0.007,0
+Toronto Blue Jays,Cleveland Indians,0.06,5,0.004,0.014,1
+Los Angeles Dodgers,Chicago Cubs,-0.55,87,0.02,0.007,1
+Toronto Blue Jays,Cleveland Indians,0.06,5,0.004,0.014,1
+Los Angeles Dodgers,Washington Nationals,-0.19,55,0.017,0.007,0
+Chicago Cubs,San Francisco Giants,0.5,-92,-0.031,0.002,0
+Washington Nationals,Los Angeles Dodgers,0.19,-55,-0.017,-0.007,1
+Chicago Cubs,San Francisco Giants,0.5,-92,-0.031,0.002,1
+Washington Nationals,Los Angeles Dodgers,0.19,-55,-0.017,-0.007,0
+Cleveland Indians,Boston Red Sox,0.16,103,0.031,0.02,0
+Los Angeles Dodgers,Washington Nationals,-0.19,55,0.017,0.007,1
+Texas Rangers,Toronto Blue Jays,-0.59,-18,-0.007,-0.014,1
+San Francisco Giants,Chicago Cubs,-0.5,92,0.031,-0.002,1
+Los Angeles Dodgers,Washington Nationals,-0.19,55,0.017,0.007,0
+Toronto Blue Jays,Texas Rangers,0.59,18,0.007,0.014,0
+Boston Red Sox,Cleveland Indians,-0.16,-103,-0.031,-0.02,1
+San Francisco Giants,Chicago Cubs,-0.5,92,0.031,-0.002,1
+Toronto Blue Jays,Texas Rangers,0.59,18,0.007,0.014,0
+Boston Red Sox,Cleveland Indians,-0.16,-103,-0.031,-0.02,1
+San Francisco Giants,New York Mets,-0.08,-26,0.019,-0.012,0
+Baltimore Orioles,Toronto Blue Jays,-0.44,18,-0.017,-0.008,1
+Tampa Bay Rays,Texas Rangers,0.17,99,0.007,0.019,0
+Pittsburgh Pirates,St. Louis Cardinals,-0.13,49,0.04,-0.002,1
+Los Angeles Dodgers,San Francisco Giants,-0.05,-5,-0.011,0.009,1
+Oakland Athletics,Seattle Mariners,-0.51,101,0.035,0.013,0
+New York Mets,Philadelphia Phillies,1.06,-75,-0.033,-0.006,1
+Baltimore Orioles,New York Yankees,-0.06,-63,-0.038,-0.004,0
+Cleveland Indians,Kansas City Royals,0.37,-93,-0.03,-0.001,0
+Milwaukee Brewers,Colorado Rockies,0.83,164,0.05,0.031,0
+Chicago Cubs,Cincinnati Reds,1.76,-89,-0.021,0,0
+Minnesota Twins,Chicago White Sox,-0.98,-34,-0.011,0.006,0
+Toronto Blue Jays,Boston Red Sox,0.22,108,0.035,0.034,0
+Detroit Tigers,Atlanta Braves,0.27,-104,-0.054,-0.012,1
+San Diego Padres,Arizona Diamondbacks,0.66,55,0.042,0.026,1
+Houston Astros,Los Angeles Angels of Anaheim,0.22,-3,-0.012,0.013,1
+Miami Marlins,Washington Nationals,-0.54,109,0.032,-0.007,1
+Tampa Bay Rays,Texas Rangers,0.17,99,0.007,0.019,0
+Pittsburgh Pirates,St. Louis Cardinals,-0.13,49,0.04,-0.002,1
+Los Angeles Dodgers,San Francisco Giants,-0.05,-5,-0.011,0.009,1
+Oakland Athletics,Seattle Mariners,-0.51,101,0.035,0.013,0
+New York Mets,Philadelphia Phillies,1.06,-75,-0.033,-0.006,0
+Baltimore Orioles,New York Yankees,-0.06,-63,-0.038,-0.004,1
+Cleveland Indians,Kansas City Royals,0.37,-93,-0.03,-0.001,0
+Milwaukee Brewers,Colorado Rockies,0.83,164,0.05,0.031,0
+Chicago Cubs,Cincinnati Reds,1.76,-89,-0.021,0,1
+Minnesota Twins,Chicago White Sox,-0.98,-34,-0.011,0.006,0
+Toronto Blue Jays,Boston Red Sox,0.22,108,0.035,0.034,0
+Detroit Tigers,Atlanta Braves,0.27,-104,-0.054,-0.012,1
+San Diego Padres,Arizona Diamondbacks,0.66,55,0.042,0.026,1
+Houston Astros,Los Angeles Angels of Anaheim,0.22,-3,-0.012,0.013,0
+Miami Marlins,Washington Nationals,-0.54,109,0.032,-0.007,0
+Tampa Bay Rays,Texas Rangers,0.17,99,0.007,0.019,1
+Pittsburgh Pirates,St. Louis Cardinals,-0.13,49,0.04,-0.002,1
+Arizona Diamondbacks,Washington Nationals,-1.58,26,-0.006,-0.005,1
+Baltimore Orioles,Toronto Blue Jays,-0.44,18,-0.017,-0.008,0
+Cincinnati Reds,St. Louis Cardinals,-0.83,67,0.034,-0.001,1
+Colorado Rockies,San Francisco Giants,-1.26,-130,-0.059,-0.017,1
+Oakland Athletics,Seattle Mariners,-0.51,101,0.035,0.013,1
+Los Angeles Dodgers,San Diego Padres,0.73,-26,-0.019,-0.014,0
+Chicago Cubs,Pittsburgh Pirates,1.06,-71,-0.027,0.001,0
+Boston Red Sox,New York Yankees,0.16,-189,-0.056,-0.03,1
+Minnesota Twins,Kansas City Royals,-0.87,-50,-0.021,0.01,0
+Tampa Bay Rays,Chicago White Sox,-0.1,9,-0.016,0.014,0
+Philadelphia Phillies,Atlanta Braves,-0.12,41,0,0.015,1
+Arizona Diamondbacks,Washington Nationals,-1.58,26,-0.006,-0.005,0
+Baltimore Orioles,Toronto Blue Jays,-0.44,18,-0.017,-0.008,0
+Milwaukee Brewers,Texas Rangers,0.29,105,0.026,0.018,1
+Cincinnati Reds,St. Louis Cardinals,-0.83,67,0.034,-0.001,0
+Colorado Rockies,San Francisco Giants,-1.26,-130,-0.059,-0.017,0
+Los Angeles Dodgers,San Diego Padres,0.73,-26,-0.019,-0.014,1
+Chicago Cubs,Pittsburgh Pirates,1.06,-71,-0.027,0.001,1
+Boston Red Sox,New York Yankees,0.16,-189,-0.056,-0.03,1
+New York Mets,Miami Marlins,0.48,-23,-0.023,0.017,0
+Minnesota Twins,Kansas City Royals,-0.87,-50,-0.021,0.01,1
+Seattle Mariners,Houston Astros,0.06,-46,-0.013,-0.012,0
+Cleveland Indians,Detroit Tigers,0.4,-14,0.008,0.005,1
+Tampa Bay Rays,Chicago White Sox,-0.1,9,-0.016,0.014,1
+Philadelphia Phillies,Atlanta Braves,-0.12,41,0,0.015,1
+Oakland Athletics,Los Angeles Angels of Anaheim,-0.23,52,0.01,0.014,1
+Arizona Diamondbacks,Washington Nationals,-1.58,26,-0.006,-0.005,1
+Baltimore Orioles,Toronto Blue Jays,-0.44,18,-0.017,-0.008,1
+Milwaukee Brewers,Texas Rangers,0.29,105,0.026,0.018,1
+Cincinnati Reds,St. Louis Cardinals,-0.83,67,0.034,-0.001,1
+Colorado Rockies,San Francisco Giants,-1.26,-130,-0.059,-0.017,1
+Los Angeles Dodgers,San Diego Padres,0.73,-26,-0.019,-0.014,1
+Chicago Cubs,Pittsburgh Pirates,1.06,-71,-0.027,0.001,0
+Boston Red Sox,New York Yankees,0.16,-189,-0.056,-0.03,1
+New York Mets,Miami Marlins,0.48,-23,-0.023,0.017,0
+Minnesota Twins,Kansas City Royals,-0.87,-50,-0.021,0.01,1
+Seattle Mariners,Houston Astros,0.06,-46,-0.013,-0.012,1
+Cleveland Indians,Detroit Tigers,0.4,-14,0.008,0.005,1
+Tampa Bay Rays,Chicago White Sox,-0.1,9,-0.016,0.014,1
+Philadelphia Phillies,Atlanta Braves,-0.12,41,0,0.015,1
+Oakland Athletics,Los Angeles Angels of Anaheim,-0.23,52,0.01,0.014,1
+Arizona Diamondbacks,Washington Nationals,-1.58,26,-0.006,-0.005,0
+New York Yankees,Toronto Blue Jays,-0.38,81,0.021,-0.004,0
+Milwaukee Brewers,Texas Rangers,0.29,105,0.026,0.018,0
+Cincinnati Reds,St. Louis Cardinals,-0.83,67,0.034,-0.001,0
+Chicago Cubs,Pittsburgh Pirates,1.06,-71,-0.027,0.001,0
+New York Mets,Miami Marlins,0.48,-23,-0.023,0.017,1
+Seattle Mariners,Houston Astros,0.06,-46,-0.013,-0.012,0
+Cleveland Indians,Detroit Tigers,0.4,-14,0.008,0.005,0
+Tampa Bay Rays,Chicago White Sox,-0.1,9,-0.016,0.014,1
+New York Yankees,Toronto Blue Jays,-0.38,81,0.021,-0.004,1
+Boston Red Sox,Tampa Bay Rays,0.2,-189,-0.035,-0.039,0
+San Francisco Giants,San Diego Padres,0.78,-21,-0.008,-0.023,1
+Washington Nationals,Pittsburgh Pirates,0.7,-39,-0.024,0.001,0
+Texas Rangers,Oakland Athletics,0.14,-112,-0.038,-0.016,1
+Philadelphia Phillies,New York Mets,-1.06,75,0.033,0.006,1
+Seattle Mariners,Minnesota Twins,1.08,-45,-0.009,-0.008,0
+Cincinnati Reds,Milwaukee Brewers,-0.83,-37,-0.001,-0.012,0
+Colorado Rockies,Los Angeles Dodgers,-1.21,-125,-0.048,-0.026,1
+Los Angeles Angels of Anaheim,Houston Astros,-0.22,3,0.012,-0.013,1
+Kansas City Royals,Detroit Tigers,0.03,79,0.038,0.006,0
+Chicago White Sox,Cleveland Indians,-0.26,77,0.02,0.005,0
+St. Louis Cardinals,Chicago Cubs,-0.93,22,-0.013,0.001,1
+Arizona Diamondbacks,Baltimore Orioles,-0.87,1,0.011,-0.005,1
+New York Yankees,Toronto Blue Jays,-0.38,81,0.021,-0.004,1
+Boston Red Sox,Tampa Bay Rays,0.2,-189,-0.035,-0.039,0
+San Francisco Giants,San Diego Padres,0.78,-21,-0.008,-0.023,0
+Washington Nationals,Pittsburgh Pirates,0.7,-39,-0.024,0.001,0
+Texas Rangers,Oakland Athletics,0.14,-112,-0.038,-0.016,0
+Philadelphia Phillies,New York Mets,-1.06,75,0.033,0.006,0
+Seattle Mariners,Minnesota Twins,1.08,-45,-0.009,-0.008,1
+Cincinnati Reds,Milwaukee Brewers,-0.83,-37,-0.001,-0.012,0
+Atlanta Braves,Miami Marlins,-0.46,11,0.01,0.008,1
+Colorado Rockies,Los Angeles Dodgers,-1.21,-125,-0.048,-0.026,1
+Los Angeles Angels of Anaheim,Houston Astros,-0.22,3,0.012,-0.013,0
+Kansas City Royals,Detroit Tigers,0.03,79,0.038,0.006,0
+Chicago White Sox,Cleveland Indians,-0.26,77,0.02,0.005,0
+St. Louis Cardinals,Chicago Cubs,-0.93,22,-0.013,0.001,0
+Arizona Diamondbacks,Baltimore Orioles,-0.87,1,0.011,-0.005,1
+Chicago White Sox,Cleveland Indians,-0.26,77,0.02,0.005,1
+St. Louis Cardinals,Chicago Cubs,-0.93,22,-0.013,0.001,1
+Arizona Diamondbacks,Baltimore Orioles,-0.87,1,0.011,-0.005,1
+New York Yankees,Tampa Bay Rays,0.04,0,0.021,-0.009,1
+San Francisco Giants,San Diego Padres,0.78,-21,-0.008,-0.023,0
+Philadelphia Phillies,New York Mets,-1.06,75,0.033,0.006,1
+Detroit Tigers,Minnesota Twins,0.84,-29,-0.017,-0.016,0
+Detroit Tigers,Minnesota Twins,0.84,-29,-0.017,-0.016,0
+Pittsburgh Pirates,Milwaukee Brewers,-0.13,-55,0.005,-0.013,1
+Atlanta Braves,Miami Marlins,-0.46,11,0.01,0.008,0
+Colorado Rockies,Los Angeles Dodgers,-1.21,-125,-0.048,-0.026,1
+Los Angeles Angels of Anaheim,Houston Astros,-0.22,3,0.012,-0.013,0
+Kansas City Royals,Cleveland Indians,-0.37,93,0.03,0.001,1
+Boston Red Sox,Baltimore Orioles,0.22,-126,-0.018,-0.026,0
+Los Angeles Angels of Anaheim,Texas Rangers,0.09,60,0.028,0.002,0
+New York Yankees,Tampa Bay Rays,0.04,0,0.021,-0.009,0
+Toronto Blue Jays,Seattle Mariners,0.22,7,0.004,0.011,1
+Arizona Diamondbacks,San Diego Padres,-0.66,-55,-0.042,-0.026,0
+Chicago White Sox,Philadelphia Phillies,0.53,-82,-0.026,-0.017,1
+Houston Astros,Oakland Athletics,0.45,-55,-0.022,-0.001,0
+Atlanta Braves,New York Mets,-0.94,34,0.033,-0.009,0
+Pittsburgh Pirates,Milwaukee Brewers,-0.13,-55,0.005,-0.013,0
+Washington Nationals,Miami Marlins,0.54,-109,-0.032,0.007,0
+San Francisco Giants,Los Angeles Dodgers,0.05,5,0.011,-0.009,1
+St. Louis Cardinals,Colorado Rockies,0.83,60,0.015,0.02,1
+Kansas City Royals,Cleveland Indians,-0.37,93,0.03,0.001,1
+Cincinnati Reds,Chicago Cubs,-1.76,89,0.021,0,1
+Boston Red Sox,Baltimore Orioles,0.22,-126,-0.018,-0.026,0
+Los Angeles Angels of Anaheim,Texas Rangers,0.09,60,0.028,0.002,1
+New York Yankees,Tampa Bay Rays,0.04,0,0.021,-0.009,0
+Toronto Blue Jays,Seattle Mariners,0.22,7,0.004,0.011,0
+Arizona Diamondbacks,San Diego Padres,-0.66,-55,-0.042,-0.026,1
+Chicago White Sox,Philadelphia Phillies,0.53,-82,-0.026,-0.017,1
+Houston Astros,Oakland Athletics,0.45,-55,-0.022,-0.001,0
+Atlanta Braves,New York Mets,-0.94,34,0.033,-0.009,0
+Detroit Tigers,Minnesota Twins,0.84,-29,-0.017,-0.016,0
+Pittsburgh Pirates,Milwaukee Brewers,-0.13,-55,0.005,-0.013,0
+Washington Nationals,Miami Marlins,0.54,-109,-0.032,0.007,1
+San Francisco Giants,Los Angeles Dodgers,0.05,5,0.011,-0.009,0
+St. Louis Cardinals,Colorado Rockies,0.83,60,0.015,0.02,0
+Kansas City Royals,Cleveland Indians,-0.37,93,0.03,0.001,1
+Cincinnati Reds,Chicago Cubs,-1.76,89,0.021,0,1
+Boston Red Sox,Baltimore Orioles,0.22,-126,-0.018,-0.026,0
+Los Angeles Angels of Anaheim,Texas Rangers,0.09,60,0.028,0.002,1
+Toronto Blue Jays,Seattle Mariners,0.22,7,0.004,0.011,0
+Arizona Diamondbacks,San Diego Padres,-0.66,-55,-0.042,-0.026,1
+Houston Astros,Oakland Athletics,0.45,-55,-0.022,-0.001,0
+Atlanta Braves,New York Mets,-0.94,34,0.033,-0.009,0
+Washington Nationals,Miami Marlins,0.54,-109,-0.032,0.007,1
+San Francisco Giants,Los Angeles Dodgers,0.05,5,0.011,-0.009,1
+Chicago White Sox,Kansas City Royals,0.11,-16,-0.01,0.004,1
+St. Louis Cardinals,Colorado Rockies,0.83,60,0.015,0.02,0
+Cincinnati Reds,Chicago Cubs,-1.76,89,0.021,0,1
+Boston Red Sox,Baltimore Orioles,0.22,-126,-0.018,-0.026,0
+St. Louis Cardinals,San Francisco Giants,-0.43,-70,-0.044,0.003,0
+Houston Astros,Seattle Mariners,-0.06,46,0.013,0.012,1
+Miami Marlins,Philadelphia Phillies,0.58,-52,-0.01,-0.023,0
+Minnesota Twins,New York Mets,-1.51,-41,-0.004,-0.005,1
+Chicago White Sox,Kansas City Royals,0.11,-16,-0.01,0.004,1
+San Diego Padres,Colorado Rockies,0.48,151,0.067,0.04,1
+Detroit Tigers,Cleveland Indians,-0.4,14,-0.008,-0.005,0
+Pittsburgh Pirates,Cincinnati Reds,0.7,-18,0.006,-0.001,1
+Milwaukee Brewers,Chicago Cubs,-0.93,126,0.022,0.012,0
+New York Yankees,Boston Red Sox,-0.16,189,0.056,0.03,1
+Tampa Bay Rays,Baltimore Orioles,0.02,63,0.017,0.013,1
+Washington Nationals,Atlanta Braves,1,-120,-0.042,-0.001,1
+Los Angeles Dodgers,Arizona Diamondbacks,1.39,29,0.023,0.012,1
+Toronto Blue Jays,Los Angeles Angels of Anaheim,0.5,-42,-0.021,0.012,1
+Oakland Athletics,Texas Rangers,-0.14,112,0.038,0.016,0
+St. Louis Cardinals,San Francisco Giants,-0.43,-70,-0.044,0.003,0
+Houston Astros,Seattle Mariners,-0.06,46,0.013,0.012,0
+Miami Marlins,Philadelphia Phillies,0.58,-52,-0.01,-0.023,1
+Minnesota Twins,New York Mets,-1.51,-41,-0.004,-0.005,1
+Chicago White Sox,Kansas City Royals,0.11,-16,-0.01,0.004,1
+San Diego Padres,Colorado Rockies,0.48,151,0.067,0.04,1
+Detroit Tigers,Cleveland Indians,-0.4,14,-0.008,-0.005,1
+Pittsburgh Pirates,Cincinnati Reds,0.7,-18,0.006,-0.001,0
+Pittsburgh Pirates,Cincinnati Reds,0.7,-18,0.006,-0.001,0
+Milwaukee Brewers,Chicago Cubs,-0.93,126,0.022,0.012,0
+New York Yankees,Boston Red Sox,-0.16,189,0.056,0.03,1
+Tampa Bay Rays,Baltimore Orioles,0.02,63,0.017,0.013,0
+Washington Nationals,Atlanta Braves,1,-120,-0.042,-0.001,1
+Los Angeles Dodgers,Arizona Diamondbacks,1.39,29,0.023,0.012,0
+Toronto Blue Jays,Los Angeles Angels of Anaheim,0.5,-42,-0.021,0.012,1
+Oakland Athletics,Texas Rangers,-0.14,112,0.038,0.016,1
+St. Louis Cardinals,San Francisco Giants,-0.43,-70,-0.044,0.003,1
+Los Angeles Dodgers,Arizona Diamondbacks,1.39,29,0.023,0.012,0
+Toronto Blue Jays,Los Angeles Angels of Anaheim,0.5,-42,-0.021,0.012,0
+St. Louis Cardinals,San Francisco Giants,-0.43,-70,-0.044,0.003,1
+Pittsburgh Pirates,Philadelphia Phillies,0.42,-122,-0.018,-0.017,0
+Oakland Athletics,Kansas City Royals,-0.3,6,0.005,0.015,0
+Minnesota Twins,Detroit Tigers,-0.84,29,0.017,0.016,0
+Milwaukee Brewers,Chicago Cubs,-0.93,126,0.022,0.012,0
+Cleveland Indians,Chicago White Sox,0.26,-77,-0.02,-0.005,1
+New York Yankees,Boston Red Sox,-0.16,189,0.056,0.03,1
+Tampa Bay Rays,Baltimore Orioles,0.02,63,0.017,0.013,0
+Los Angeles Dodgers,Arizona Diamondbacks,1.39,29,0.023,0.012,1
+Toronto Blue Jays,Los Angeles Angels of Anaheim,0.5,-42,-0.021,0.012,0
+New York Mets,Washington Nationals,-0.06,86,0.009,0.01,1
+Tampa Bay Rays,Toronto Blue Jays,-0.42,81,0,0.005,0
+Chicago Cubs,St. Louis Cardinals,0.93,-22,0.013,-0.001,0
+San Diego Padres,San Francisco Giants,-0.78,21,0.008,0.023,0
+Pittsburgh Pirates,Philadelphia Phillies,0.42,-122,-0.018,-0.017,1
+Los Angeles Dodgers,New York Yankees,0.46,-33,-0.004,0.003,0
+Oakland Athletics,Kansas City Royals,-0.3,6,0.005,0.015,0
+Texas Rangers,Houston Astros,-0.31,-57,-0.016,-0.015,1
+Minnesota Twins,Detroit Tigers,-0.84,29,0.017,0.016,1
+Milwaukee Brewers,Cincinnati Reds,0.83,37,0.001,0.012,0
+Cleveland Indians,Chicago White Sox,0.26,-77,-0.02,-0.005,0
+Baltimore Orioles,Boston Red Sox,-0.22,126,0.018,0.026,0
+Miami Marlins,Atlanta Braves,0.46,-11,-0.01,-0.008,0
+Colorado Rockies,Arizona Diamondbacks,0.18,-96,-0.025,-0.014,1
+Seattle Mariners,Los Angeles Angels of Anaheim,0.28,-49,-0.025,0.001,0
+New York Mets,Washington Nationals,-0.06,86,0.009,0.01,0
+Tampa Bay Rays,Toronto Blue Jays,-0.42,81,0,0.005,0
+Chicago Cubs,St. Louis Cardinals,0.93,-22,0.013,-0.001,1
+San Diego Padres,San Francisco Giants,-0.78,21,0.008,0.023,0
+Pittsburgh Pirates,Philadelphia Phillies,0.42,-122,-0.018,-0.017,0
+Los Angeles Dodgers,New York Yankees,0.46,-33,-0.004,0.003,1
+Oakland Athletics,Kansas City Royals,-0.3,6,0.005,0.015,0
+Texas Rangers,Houston Astros,-0.31,-57,-0.016,-0.015,0
+Minnesota Twins,Detroit Tigers,-0.84,29,0.017,0.016,0
+Milwaukee Brewers,Cincinnati Reds,0.83,37,0.001,0.012,1
+Cleveland Indians,Chicago White Sox,0.26,-77,-0.02,-0.005,1
+Baltimore Orioles,Boston Red Sox,-0.22,126,0.018,0.026,0
+Miami Marlins,Atlanta Braves,0.46,-11,-0.01,-0.008,0
+Colorado Rockies,Arizona Diamondbacks,0.18,-96,-0.025,-0.014,1
+Seattle Mariners,Los Angeles Angels of Anaheim,0.28,-49,-0.025,0.001,0
+New York Mets,Washington Nationals,-0.06,86,0.009,0.01,1
+Tampa Bay Rays,Toronto Blue Jays,-0.42,81,0,0.005,1
+Chicago Cubs,St. Louis Cardinals,0.93,-22,0.013,-0.001,0
+San Diego Padres,San Francisco Giants,-0.78,21,0.008,0.023,0
+Pittsburgh Pirates,Philadelphia Phillies,0.42,-122,-0.018,-0.017,1
+Los Angeles Dodgers,New York Yankees,0.46,-33,-0.004,0.003,0
+Oakland Athletics,Kansas City Royals,-0.3,6,0.005,0.015,0
+Texas Rangers,Houston Astros,-0.31,-57,-0.016,-0.015,0
+Minnesota Twins,Detroit Tigers,-0.84,29,0.017,0.016,1
+Milwaukee Brewers,Cincinnati Reds,0.83,37,0.001,0.012,1
+Cleveland Indians,Chicago White Sox,0.26,-77,-0.02,-0.005,1
+Baltimore Orioles,Boston Red Sox,-0.22,126,0.018,0.026,1
+Miami Marlins,Atlanta Braves,0.46,-11,-0.01,-0.008,1
+Colorado Rockies,Arizona Diamondbacks,0.18,-96,-0.025,-0.014,1
+Philadelphia Phillies,Washington Nationals,-1.12,161,0.042,0.016,1
+Boston Red Sox,Toronto Blue Jays,-0.22,-108,-0.035,-0.034,0
+Milwaukee Brewers,St. Louis Cardinals,0,104,0.035,0.011,0
+Colorado Rockies,San Diego Padres,-0.48,-151,-0.067,-0.04,0
+Cincinnati Reds,Pittsburgh Pirates,-0.7,18,-0.006,0.001,0
+Seattle Mariners,Oakland Athletics,0.51,-101,-0.035,-0.013,0
+Tampa Bay Rays,New York Yankees,-0.04,0,-0.021,0.009,0
+Cleveland Indians,Minnesota Twins,1.24,-43,-0.009,-0.011,0
+Los Angeles Dodgers,Miami Marlins,0.35,-54,-0.015,0.014,1
+Chicago Cubs,Houston Astros,0.91,-78,-0.012,-0.009,0
+Baltimore Orioles,Detroit Tigers,0.02,9,-0.005,0.011,0
+Kansas City Royals,Chicago White Sox,-0.11,16,0.01,-0.004,0
+New York Mets,Atlanta Braves,0.94,-34,-0.033,0.009,0
+San Francisco Giants,Arizona Diamondbacks,1.44,34,0.034,0.003,0
+Texas Rangers,Los Angeles Angels of Anaheim,-0.09,-60,-0.028,-0.002,1
+Philadelphia Phillies,Washington Nationals,-1.12,161,0.042,0.016,1
+Boston Red Sox,Toronto Blue Jays,-0.22,-108,-0.035,-0.034,1
+Milwaukee Brewers,St. Louis Cardinals,0,104,0.035,0.011,1
+Colorado Rockies,San Diego Padres,-0.48,-151,-0.067,-0.04,1
+Cincinnati Reds,Pittsburgh Pirates,-0.7,18,-0.006,0.001,0
+Seattle Mariners,Oakland Athletics,0.51,-101,-0.035,-0.013,0
+Tampa Bay Rays,New York Yankees,-0.04,0,-0.021,0.009,1
+Cleveland Indians,Minnesota Twins,1.24,-43,-0.009,-0.011,1
+Los Angeles Dodgers,Miami Marlins,0.35,-54,-0.015,0.014,0
+Chicago Cubs,Houston Astros,0.91,-78,-0.012,-0.009,1
+Baltimore Orioles,Detroit Tigers,0.02,9,-0.005,0.011,0
+Kansas City Royals,Chicago White Sox,-0.11,16,0.01,-0.004,0
+Chicago Cubs,Houston Astros,0.91,-78,-0.012,-0.009,0
+Baltimore Orioles,Detroit Tigers,0.02,9,-0.005,0.011,1
+Kansas City Royals,Chicago White Sox,-0.11,16,0.01,-0.004,1
+New York Mets,Atlanta Braves,0.94,-34,-0.033,0.009,0
+San Francisco Giants,Arizona Diamondbacks,1.44,34,0.034,0.003,0
+Texas Rangers,Los Angeles Angels of Anaheim,-0.09,-60,-0.028,-0.002,0
+Philadelphia Phillies,Washington Nationals,-1.12,161,0.042,0.016,0
+Milwaukee Brewers,St. Louis Cardinals,0,104,0.035,0.011,0
+Texas Rangers,Seattle Mariners,-0.37,-11,-0.003,-0.003,1
+Colorado Rockies,San Diego Padres,-0.48,-151,-0.067,-0.04,1
+Cincinnati Reds,Pittsburgh Pirates,-0.7,18,-0.006,0.001,1
+Tampa Bay Rays,New York Yankees,-0.04,0,-0.021,0.009,1
+Houston Astros,Cleveland Indians,-0.22,44,0.013,0.015,1
+Atlanta Braves,Washington Nationals,-1,120,0.042,0.001,1
+Baltimore Orioles,Tampa Bay Rays,-0.02,-63,-0.017,-0.013,1
+Texas Rangers,Seattle Mariners,-0.37,-11,-0.003,-0.003,1
+Boston Red Sox,San Diego Padres,0.43,-182,-0.071,-0.047,0
+St. Louis Cardinals,Pittsburgh Pirates,0.13,-49,-0.04,0.002,1
+Los Angeles Angels of Anaheim,Oakland Athletics,0.23,-52,-0.01,-0.014,1
+Toronto Blue Jays,New York Yankees,0.38,-81,-0.021,0.004,1
+Kansas City Royals,Minnesota Twins,0.87,50,0.021,-0.01,1
+Chicago Cubs,Milwaukee Brewers,0.93,-126,-0.022,-0.012,1
+Philadelphia Phillies,Miami Marlins,-0.58,52,0.01,0.023,1
+Arizona Diamondbacks,Los Angeles Dodgers,-1.39,-29,-0.023,-0.012,1
+San Francisco Giants,Colorado Rockies,1.26,130,0.059,0.017,1
+Houston Astros,Cleveland Indians,-0.22,44,0.013,0.015,1
+New York Mets,Cincinnati Reds,1.34,29,-0.009,0.01,0
+Detroit Tigers,Chicago White Sox,-0.14,-63,-0.028,-0.01,1
+Atlanta Braves,Washington Nationals,-1,120,0.042,0.001,1
+Baltimore Orioles,Tampa Bay Rays,-0.02,-63,-0.017,-0.013,0
+Texas Rangers,Seattle Mariners,-0.37,-11,-0.003,-0.003,0
+Boston Red Sox,San Diego Padres,0.43,-182,-0.071,-0.047,0
+St. Louis Cardinals,Pittsburgh Pirates,0.13,-49,-0.04,0.002,0
+Los Angeles Angels of Anaheim,Oakland Athletics,0.23,-52,-0.01,-0.014,1
+Toronto Blue Jays,New York Yankees,0.38,-81,-0.021,0.004,1
+Kansas City Royals,Minnesota Twins,0.87,50,0.021,-0.01,0
+Chicago Cubs,Milwaukee Brewers,0.93,-126,-0.022,-0.012,1
+Philadelphia Phillies,Miami Marlins,-0.58,52,0.01,0.023,0
+Arizona Diamondbacks,Los Angeles Dodgers,-1.39,-29,-0.023,-0.012,1
+San Francisco Giants,Colorado Rockies,1.26,130,0.059,0.017,0
+Houston Astros,Cleveland Indians,-0.22,44,0.013,0.015,0
+New York Mets,Cincinnati Reds,1.34,29,-0.009,0.01,0
+Detroit Tigers,Chicago White Sox,-0.14,-63,-0.028,-0.01,1
+Atlanta Braves,Washington Nationals,-1,120,0.042,0.001,1
+Baltimore Orioles,Tampa Bay Rays,-0.02,-63,-0.017,-0.013,0
+Texas Rangers,Seattle Mariners,-0.37,-11,-0.003,-0.003,1
+Boston Red Sox,San Diego Padres,0.43,-182,-0.071,-0.047,1
+St. Louis Cardinals,Pittsburgh Pirates,0.13,-49,-0.04,0.002,0
+Los Angeles Angels of Anaheim,Oakland Athletics,0.23,-52,-0.01,-0.014,0
+Toronto Blue Jays,New York Yankees,0.38,-81,-0.021,0.004,1
+Kansas City Royals,Minnesota Twins,0.87,50,0.021,-0.01,0
+Chicago Cubs,Milwaukee Brewers,0.93,-126,-0.022,-0.012,0
+Philadelphia Phillies,Miami Marlins,-0.58,52,0.01,0.023,0
+Arizona Diamondbacks,Los Angeles Dodgers,-1.39,-29,-0.023,-0.012,1
+San Francisco Giants,Colorado Rockies,1.26,130,0.059,0.017,1
+New York Mets,Cincinnati Reds,1.34,29,-0.009,0.01,0
+Detroit Tigers,Chicago White Sox,-0.14,-63,-0.028,-0.01,0
+Houston Astros,Texas Rangers,0.31,57,0.016,0.015,0
+Toronto Blue Jays,Tampa Bay Rays,0.42,-81,0,-0.005,0
+Los Angeles Angels of Anaheim,Seattle Mariners,-0.28,49,0.025,-0.001,0
+Milwaukee Brewers,Pittsburgh Pirates,0.13,55,-0.005,0.013,0
+Atlanta Braves,Philadelphia Phillies,0.12,-41,0,-0.015,0
+Boston Red Sox,Oakland Athletics,0.51,-202,-0.066,-0.036,1
+Washington Nationals,New York Mets,0.06,-86,-0.009,-0.01,1
+Chicago White Sox,Minnesota Twins,0.98,34,0.011,-0.006,0
+San Diego Padres,Los Angeles Dodgers,-0.73,26,0.019,0.014,1
+Detroit Tigers,Kansas City Royals,-0.03,-79,-0.038,-0.006,0
+Arizona Diamondbacks,Colorado Rockies,-0.18,96,0.025,0.014,0
+Miami Marlins,Cleveland Indians,-0.21,107,0.036,-0.001,1
+St. Louis Cardinals,Cincinnati Reds,0.83,-67,-0.034,0.001,0
+San Francisco Giants,Chicago Cubs,-0.5,92,0.031,-0.002,1
+New York Yankees,Baltimore Orioles,0.06,63,0.038,0.004,0
+Houston Astros,Texas Rangers,0.31,57,0.016,0.015,1
+Toronto Blue Jays,Tampa Bay Rays,0.42,-81,0,-0.005,1
+Los Angeles Angels of Anaheim,Seattle Mariners,-0.28,49,0.025,-0.001,0
+Milwaukee Brewers,Pittsburgh Pirates,0.13,55,-0.005,0.013,0
+Atlanta Braves,Philadelphia Phillies,0.12,-41,0,-0.015,0
+Boston Red Sox,Oakland Athletics,0.51,-202,-0.066,-0.036,0
+Washington Nationals,New York Mets,0.06,-86,-0.009,-0.01,1
+Chicago White Sox,Minnesota Twins,0.98,34,0.011,-0.006,1
+San Diego Padres,Los Angeles Dodgers,-0.73,26,0.019,0.014,1
+Detroit Tigers,Kansas City Royals,-0.03,-79,-0.038,-0.006,1
+Arizona Diamondbacks,Colorado Rockies,-0.18,96,0.025,0.014,0
+Miami Marlins,Cleveland Indians,-0.21,107,0.036,-0.001,1
+St. Louis Cardinals,Cincinnati Reds,0.83,-67,-0.034,0.001,1
+San Francisco Giants,Chicago Cubs,-0.5,92,0.031,-0.002,0
+New York Yankees,Baltimore Orioles,0.06,63,0.038,0.004,1
+Houston Astros,Texas Rangers,0.31,57,0.016,0.015,1
+San Francisco Giants,Chicago Cubs,-0.5,92,0.031,-0.002,1
+New York Yankees,Baltimore Orioles,0.06,63,0.038,0.004,1
+Miami Marlins,New York Mets,-0.48,23,0.023,-0.017,0
+Chicago White Sox,Minnesota Twins,0.98,34,0.011,-0.006,1
+San Francisco Giants,Chicago Cubs,-0.5,92,0.031,-0.002,1
+San Diego Padres,Atlanta Braves,0.08,-39,-0.006,0.02,1
+Seattle Mariners,Texas Rangers,0.37,11,0.003,0.003,1
+Arizona Diamondbacks,San Francisco Giants,-1.44,-34,-0.034,-0.003,1
+Washington Nationals,Philadelphia Phillies,1.12,-161,-0.042,-0.016,0
+Miami Marlins,New York Mets,-0.48,23,0.023,-0.017,1
+St. Louis Cardinals,Milwaukee Brewers,0,-104,-0.035,-0.011,1
+New York Yankees,Kansas City Royals,0.05,-7,-0.005,0.009,0
+Oakland Athletics,Houston Astros,-0.45,55,0.022,0.001,1
+Chicago White Sox,Detroit Tigers,0.14,63,0.028,0.01,1
+Los Angeles Dodgers,Colorado Rockies,1.21,125,0.048,0.026,0
+Los Angeles Dodgers,Colorado Rockies,1.21,125,0.048,0.026,1
+Minnesota Twins,Cleveland Indians,-1.24,43,0.009,0.011,1
+Pittsburgh Pirates,Chicago Cubs,-1.06,71,0.027,-0.001,1
+Tampa Bay Rays,Boston Red Sox,-0.2,189,0.035,0.039,1
+Toronto Blue Jays,Baltimore Orioles,0.44,-18,0.017,0.008,0
+San Diego Padres,Atlanta Braves,0.08,-39,-0.006,0.02,1
+Cincinnati Reds,Los Angeles Angels of Anaheim,-0.63,8,-0.003,0.004,1
+Seattle Mariners,Texas Rangers,0.37,11,0.003,0.003,1
+Arizona Diamondbacks,San Francisco Giants,-1.44,-34,-0.034,-0.003,0
+Washington Nationals,Philadelphia Phillies,1.12,-161,-0.042,-0.016,0
+Miami Marlins,New York Mets,-0.48,23,0.023,-0.017,1
+St. Louis Cardinals,Milwaukee Brewers,0,-104,-0.035,-0.011,0
+New York Yankees,Kansas City Royals,0.05,-7,-0.005,0.009,0
+Oakland Athletics,Houston Astros,-0.45,55,0.022,0.001,1
+Chicago White Sox,Detroit Tigers,0.14,63,0.028,0.01,1
+Minnesota Twins,Cleveland Indians,-1.24,43,0.009,0.011,1
+Pittsburgh Pirates,Chicago Cubs,-1.06,71,0.027,-0.001,1
+Tampa Bay Rays,Boston Red Sox,-0.2,189,0.035,0.039,0
+Toronto Blue Jays,Baltimore Orioles,0.44,-18,0.017,0.008,1
+San Diego Padres,Atlanta Braves,0.08,-39,-0.006,0.02,1
+Cincinnati Reds,Los Angeles Angels of Anaheim,-0.63,8,-0.003,0.004,1
+Seattle Mariners,Texas Rangers,0.37,11,0.003,0.003,1
+Washington Nationals,Philadelphia Phillies,1.12,-161,-0.042,-0.016,0
+Miami Marlins,New York Mets,-0.48,23,0.023,-0.017,1
+St. Louis Cardinals,Milwaukee Brewers,0,-104,-0.035,-0.011,0
+New York Yankees,Kansas City Royals,0.05,-7,-0.005,0.009,1
+Oakland Athletics,Houston Astros,-0.45,55,0.022,0.001,1
+Chicago White Sox,Detroit Tigers,0.14,63,0.028,0.01,1
+Los Angeles Dodgers,Colorado Rockies,1.21,125,0.048,0.026,1
+Minnesota Twins,Cleveland Indians,-1.24,43,0.009,0.011,1
+Pittsburgh Pirates,Chicago Cubs,-1.06,71,0.027,-0.001,1
+Tampa Bay Rays,Boston Red Sox,-0.2,189,0.035,0.039,1
+Toronto Blue Jays,Baltimore Orioles,0.44,-18,0.017,0.008,0
+Cincinnati Reds,Los Angeles Angels of Anaheim,-0.63,8,-0.003,0.004,1
+Colorado Rockies,Washington Nationals,-1.4,-70,-0.031,-0.019,0
+Minnesota Twins,Toronto Blue Jays,-1.3,38,0.005,-0.003,1
+Cleveland Indians,Texas Rangers,0.53,13,0.003,0,1
+Oakland Athletics,St. Louis Cardinals,-0.43,111,0.047,0.009,0
+Atlanta Braves,San Francisco Giants,-0.86,60,0.014,0.003,1
+Philadelphia Phillies,New York Mets,-1.06,75,0.033,0.006,0
+Pittsburgh Pirates,Milwaukee Brewers,-0.13,-55,0.005,-0.013,0
+San Diego Padres,Miami Marlins,-0.38,-28,0.004,0.028,0
+Chicago Cubs,Los Angeles Dodgers,0.55,-87,-0.02,-0.007,1
+Tampa Bay Rays,Houston Astros,-0.14,42,-0.009,0.004,0
+Los Angeles Angels of Anaheim,Detroit Tigers,-0.04,33,0.033,0.007,0
+Seattle Mariners,Chicago White Sox,0.1,-79,-0.02,-0.002,1
+Kansas City Royals,Boston Red Sox,-0.21,196,0.061,0.021,0
+Cincinnati Reds,Arizona Diamondbacks,0.18,31,0.024,0.005,1
+Colorado Rockies,Washington Nationals,-1.4,-70,-0.031,-0.019,0
+Minnesota Twins,Toronto Blue Jays,-1.3,38,0.005,-0.003,1
+Cleveland Indians,Texas Rangers,0.53,13,0.003,0,1
+Oakland Athletics,St. Louis Cardinals,-0.43,111,0.047,0.009,0
+Atlanta Braves,San Francisco Giants,-0.86,60,0.014,0.003,0
+Philadelphia Phillies,New York Mets,-1.06,75,0.033,0.006,1
+Baltimore Orioles,New York Yankees,-0.06,-63,-0.038,-0.004,1
+Pittsburgh Pirates,Milwaukee Brewers,-0.13,-55,0.005,-0.013,0
+San Diego Padres,Miami Marlins,-0.38,-28,0.004,0.028,0
+Chicago Cubs,Los Angeles Dodgers,0.55,-87,-0.02,-0.007,1
+Tampa Bay Rays,Houston Astros,-0.14,42,-0.009,0.004,1
+Los Angeles Angels of Anaheim,Detroit Tigers,-0.04,33,0.033,0.007,0
+Seattle Mariners,Chicago White Sox,0.1,-79,-0.02,-0.002,1
+Kansas City Royals,Boston Red Sox,-0.21,196,0.061,0.021,1
+Cincinnati Reds,Arizona Diamondbacks,0.18,31,0.024,0.005,0
+Colorado Rockies,Washington Nationals,-1.4,-70,-0.031,-0.019,1
+Minnesota Twins,Toronto Blue Jays,-1.3,38,0.005,-0.003,1
+Cleveland Indians,Texas Rangers,0.53,13,0.003,0,0
+Oakland Athletics,St. Louis Cardinals,-0.43,111,0.047,0.009,1
+Atlanta Braves,San Francisco Giants,-0.86,60,0.014,0.003,1
+Philadelphia Phillies,New York Mets,-1.06,75,0.033,0.006,1
+Baltimore Orioles,New York Yankees,-0.06,-63,-0.038,-0.004,1
+New York Mets,St. Louis Cardinals,0.51,96,0.025,0.009,0
+Detroit Tigers,Minnesota Twins,0.84,-29,-0.017,-0.016,0
+Pittsburgh Pirates,Milwaukee Brewers,-0.13,-55,0.005,-0.013,0
+Kansas City Royals,Miami Marlins,-0.16,-14,-0.006,0.002,0
+San Francisco Giants,Los Angeles Dodgers,0.05,5,0.011,-0.009,0
+Seattle Mariners,Chicago White Sox,0.1,-79,-0.02,-0.002,1
+Atlanta Braves,Arizona Diamondbacks,0.58,94,0.048,0.006,0
+Baltimore Orioles,Washington Nationals,-0.71,25,-0.017,0,0
+Los Angeles Angels of Anaheim,Toronto Blue Jays,-0.5,42,0.021,-0.012,0
+Boston Red Sox,Tampa Bay Rays,0.2,-189,-0.035,-0.039,1
+New York Mets,St. Louis Cardinals,0.51,96,0.025,0.009,1
+New York Yankees,Seattle Mariners,-0.16,88,0.025,0.007,0
+Chicago Cubs,San Diego Padres,1.28,-113,-0.039,-0.021,0
+Houston Astros,Pittsburgh Pirates,0.15,7,-0.015,0.01,0
+Cleveland Indians,Oakland Athletics,0.67,-99,-0.035,-0.016,1
+Detroit Tigers,Minnesota Twins,0.84,-29,-0.017,-0.016,0
+Colorado Rockies,Milwaukee Brewers,-0.83,-164,-0.05,-0.031,1
+Kansas City Royals,Miami Marlins,-0.16,-14,-0.006,0.002,1
+San Francisco Giants,Los Angeles Dodgers,0.05,5,0.011,-0.009,1
+Texas Rangers,Cincinnati Reds,0.54,-68,-0.025,-0.006,0
+Philadelphia Phillies,Chicago White Sox,-0.53,82,0.026,0.017,0
+Atlanta Braves,Arizona Diamondbacks,0.58,94,0.048,0.006,1
+Los Angeles Angels of Anaheim,Toronto Blue Jays,-0.5,42,0.021,-0.012,1
+Boston Red Sox,Tampa Bay Rays,0.2,-189,-0.035,-0.039,0
+New York Mets,St. Louis Cardinals,0.51,96,0.025,0.009,0
+New York Yankees,Seattle Mariners,-0.16,88,0.025,0.007,0
+Chicago Cubs,San Diego Padres,1.28,-113,-0.039,-0.021,0
+Houston Astros,Pittsburgh Pirates,0.15,7,-0.015,0.01,1
+Cleveland Indians,Oakland Athletics,0.67,-99,-0.035,-0.016,1
+Detroit Tigers,Minnesota Twins,0.84,-29,-0.017,-0.016,0
+Colorado Rockies,Milwaukee Brewers,-0.83,-164,-0.05,-0.031,1
+Kansas City Royals,Miami Marlins,-0.16,-14,-0.006,0.002,0
+San Francisco Giants,Los Angeles Dodgers,0.05,5,0.011,-0.009,1
+Texas Rangers,Cincinnati Reds,0.54,-68,-0.025,-0.006,1
+Philadelphia Phillies,Chicago White Sox,-0.53,82,0.026,0.017,1
+Washington Nationals,Baltimore Orioles,0.71,-25,0.017,0,1
+Atlanta Braves,Arizona Diamondbacks,0.58,94,0.048,0.006,0
+Boston Red Sox,Tampa Bay Rays,0.2,-189,-0.035,-0.039,0
+New York Yankees,Seattle Mariners,-0.16,88,0.025,0.007,1
+Chicago Cubs,San Diego Padres,1.28,-113,-0.039,-0.021,0
+Houston Astros,Pittsburgh Pirates,0.15,7,-0.015,0.01,0
+Cleveland Indians,Oakland Athletics,0.67,-99,-0.035,-0.016,0
+Colorado Rockies,Milwaukee Brewers,-0.83,-164,-0.05,-0.031,1
+Los Angeles Dodgers,Cincinnati Reds,1.21,-2,-0.001,0.007,0
+Washington Nationals,Baltimore Orioles,0.71,-25,0.017,0,1
+Atlanta Braves,Arizona Diamondbacks,0.58,94,0.048,0.006,1
+Texas Rangers,Tampa Bay Rays,-0.17,-99,-0.007,-0.019,1
+New York Mets,San Francisco Giants,0.08,26,-0.019,0.012,0
+Milwaukee Brewers,Seattle Mariners,-0.08,94,0.023,0.015,0
+Arizona Diamondbacks,San Diego Padres,-0.66,-55,-0.042,-0.026,1
+Miami Marlins,Pittsburgh Pirates,0.16,70,0.008,-0.006,0
+St. Louis Cardinals,Philadelphia Phillies,0.55,-171,-0.058,-0.015,0
+Boston Red Sox,Detroit Tigers,0.24,-117,-0.023,-0.015,1
+Chicago Cubs,Colorado Rockies,1.76,38,0.028,0.019,1
+Toronto Blue Jays,Cleveland Indians,0.06,5,0.004,0.014,1
+Los Angeles Dodgers,Cincinnati Reds,1.21,-2,-0.001,0.007,0
+Oakland Athletics,Chicago White Sox,-0.41,22,0.015,0.011,1
+Houston Astros,Baltimore Orioles,0.16,21,0.026,0.009,0
+Washington Nationals,Atlanta Braves,1,-120,-0.042,-0.001,1
+New York Yankees,Los Angeles Angels of Anaheim,0.12,39,0,0.008,1
+Texas Rangers,Tampa Bay Rays,-0.17,-99,-0.007,-0.019,1
+New York Mets,San Francisco Giants,0.08,26,-0.019,0.012,0
+Milwaukee Brewers,Seattle Mariners,-0.08,94,0.023,0.015,1
+Arizona Diamondbacks,San Diego Padres,-0.66,-55,-0.042,-0.026,0
+Miami Marlins,Pittsburgh Pirates,0.16,70,0.008,-0.006,0
+St. Louis Cardinals,Philadelphia Phillies,0.55,-171,-0.058,-0.015,1
+Minnesota Twins,Kansas City Royals,-0.87,-50,-0.021,0.01,1
+Boston Red Sox,Detroit Tigers,0.24,-117,-0.023,-0.015,0
+Chicago Cubs,Colorado Rockies,1.76,38,0.028,0.019,0
+Toronto Blue Jays,Cleveland Indians,0.06,5,0.004,0.014,0
+Los Angeles Dodgers,Cincinnati Reds,1.21,-2,-0.001,0.007,1
+Oakland Athletics,Chicago White Sox,-0.41,22,0.015,0.011,1
+Houston Astros,Baltimore Orioles,0.16,21,0.026,0.009,0
+Washington Nationals,Atlanta Braves,1,-120,-0.042,-0.001,0
+New York Yankees,Los Angeles Angels of Anaheim,0.12,39,0,0.008,0
+Texas Rangers,Tampa Bay Rays,-0.17,-99,-0.007,-0.019,0
+New York Mets,San Francisco Giants,0.08,26,-0.019,0.012,1
+Milwaukee Brewers,Seattle Mariners,-0.08,94,0.023,0.015,1
+Arizona Diamondbacks,San Diego Padres,-0.66,-55,-0.042,-0.026,1
+Miami Marlins,Pittsburgh Pirates,0.16,70,0.008,-0.006,0
+St. Louis Cardinals,Philadelphia Phillies,0.55,-171,-0.058,-0.015,0
+Minnesota Twins,Kansas City Royals,-0.87,-50,-0.021,0.01,1
+Boston Red Sox,Detroit Tigers,0.24,-117,-0.023,-0.015,0
+Chicago Cubs,Colorado Rockies,1.76,38,0.028,0.019,1
+Miami Marlins,Cincinnati Reds,0.86,52,0.014,-0.007,1
+Milwaukee Brewers,Chicago Cubs,-0.93,126,0.022,0.012,1
+Houston Astros,Baltimore Orioles,0.16,21,0.026,0.009,1
+Washington Nationals,Atlanta Braves,1,-120,-0.042,-0.001,0
+Seattle Mariners,Los Angeles Angels of Anaheim,0.28,-49,-0.025,0.001,1
+Oakland Athletics,Texas Rangers,-0.14,112,0.038,0.016,1
+San Diego Padres,Tampa Bay Rays,-0.23,-7,0.036,0.008,1
+Pittsburgh Pirates,San Francisco Giants,-0.56,-21,-0.004,0.001,0
+Los Angeles Dodgers,Philadelphia Phillies,0.93,-106,-0.025,-0.009,0
+Toronto Blue Jays,New York Yankees,0.38,-81,-0.021,0.004,0
+St. Louis Cardinals,Houston Astros,-0.02,-56,-0.025,-0.008,0
+Kansas City Royals,Detroit Tigers,0.03,79,0.038,0.006,0
+Washington Nationals,Colorado Rockies,1.4,70,0.031,0.019,1
+Chicago White Sox,Cleveland Indians,-0.26,77,0.02,0.005,0
+Miami Marlins,Cincinnati Reds,0.86,52,0.014,-0.007,1
+Milwaukee Brewers,Chicago Cubs,-0.93,126,0.022,0.012,1
+Boston Red Sox,Baltimore Orioles,0.22,-126,-0.018,-0.026,0
+Minnesota Twins,Atlanta Braves,-0.57,-75,-0.037,0.004,0
+New York Mets,Arizona Diamondbacks,1.52,60,0.015,0.015,1
+Seattle Mariners,Los Angeles Angels of Anaheim,0.28,-49,-0.025,0.001,0
+Oakland Athletics,Texas Rangers,-0.14,112,0.038,0.016,1
+San Diego Padres,Tampa Bay Rays,-0.23,-7,0.036,0.008,1
+Pittsburgh Pirates,San Francisco Giants,-0.56,-21,-0.004,0.001,0
+Los Angeles Dodgers,Philadelphia Phillies,0.93,-106,-0.025,-0.009,0
+Toronto Blue Jays,New York Yankees,0.38,-81,-0.021,0.004,0
+St. Louis Cardinals,Houston Astros,-0.02,-56,-0.025,-0.008,0
+Kansas City Royals,Detroit Tigers,0.03,79,0.038,0.006,0
+Washington Nationals,Colorado Rockies,1.4,70,0.031,0.019,1
+Chicago White Sox,Cleveland Indians,-0.26,77,0.02,0.005,1
+Miami Marlins,Cincinnati Reds,0.86,52,0.014,-0.007,1
+Milwaukee Brewers,Chicago Cubs,-0.93,126,0.022,0.012,1
+Milwaukee Brewers,Chicago Cubs,-0.93,126,0.022,0.012,1
+Boston Red Sox,Baltimore Orioles,0.22,-126,-0.018,-0.026,0
+Minnesota Twins,Atlanta Braves,-0.57,-75,-0.037,0.004,0
+New York Mets,Arizona Diamondbacks,1.52,60,0.015,0.015,0
+Seattle Mariners,Los Angeles Angels of Anaheim,0.28,-49,-0.025,0.001,1
+Oakland Athletics,Texas Rangers,-0.14,112,0.038,0.016,1
+San Diego Padres,Tampa Bay Rays,-0.23,-7,0.036,0.008,1
+Pittsburgh Pirates,San Francisco Giants,-0.56,-21,-0.004,0.001,0
+Toronto Blue Jays,New York Yankees,0.38,-81,-0.021,0.004,1
+Kansas City Royals,Detroit Tigers,0.03,79,0.038,0.006,0
+Washington Nationals,Colorado Rockies,1.4,70,0.031,0.019,0
+Boston Red Sox,Cleveland Indians,-0.16,-103,-0.031,-0.02,0
+Miami Marlins,Cincinnati Reds,0.86,52,0.014,-0.007,0
+New York Mets,Arizona Diamondbacks,1.52,60,0.015,0.015,1
+Atlanta Braves,Washington Nationals,-1,120,0.042,0.001,1
+Houston Astros,Toronto Blue Jays,-0.28,39,0.009,0.001,1
+Detroit Tigers,Texas Rangers,0.13,27,-0.005,-0.005,0
+Baltimore Orioles,San Francisco Giants,-0.57,-35,-0.045,0.002,0
+Colorado Rockies,Philadelphia Phillies,-0.28,-231,-0.073,-0.035,1
+Seattle Mariners,Oakland Athletics,0.51,-101,-0.035,-0.013,0
+San Diego Padres,New York Mets,-0.86,-5,0.027,0.011,1
+Tampa Bay Rays,New York Yankees,-0.04,0,-0.021,0.009,0
+Kansas City Royals,Minnesota Twins,0.87,50,0.021,-0.01,0
+Cincinnati Reds,Milwaukee Brewers,-0.83,-37,-0.001,-0.012,1
+Chicago White Sox,Miami Marlins,-0.05,-30,-0.016,0.006,1
+Pittsburgh Pirates,Los Angeles Dodgers,-0.51,-16,0.007,-0.008,0
+Los Angeles Angels of Anaheim,Cleveland Indians,-0.44,47,0.025,0.002,1
+St. Louis Cardinals,Chicago Cubs,-0.93,22,-0.013,0.001,0
+Arizona Diamondbacks,Boston Red Sox,-1.09,127,0.029,0.021,1
+Atlanta Braves,Washington Nationals,-1,120,0.042,0.001,1
+Houston Astros,Toronto Blue Jays,-0.28,39,0.009,0.001,1
+Detroit Tigers,Texas Rangers,0.13,27,-0.005,-0.005,0
+Baltimore Orioles,San Francisco Giants,-0.57,-35,-0.045,0.002,1
+Colorado Rockies,Philadelphia Phillies,-0.28,-231,-0.073,-0.035,1
+Seattle Mariners,Oakland Athletics,0.51,-101,-0.035,-0.013,0
+San Diego Padres,New York Mets,-0.86,-5,0.027,0.011,1
+Tampa Bay Rays,New York Yankees,-0.04,0,-0.021,0.009,1
+Kansas City Royals,Minnesota Twins,0.87,50,0.021,-0.01,1
+Cincinnati Reds,Milwaukee Brewers,-0.83,-37,-0.001,-0.012,0
+Chicago White Sox,Miami Marlins,-0.05,-30,-0.016,0.006,0
+Pittsburgh Pirates,Los Angeles Dodgers,-0.51,-16,0.007,-0.008,1
+Los Angeles Angels of Anaheim,Cleveland Indians,-0.44,47,0.025,0.002,1
+St. Louis Cardinals,Chicago Cubs,-0.93,22,-0.013,0.001,0
+Arizona Diamondbacks,Boston Red Sox,-1.09,127,0.029,0.021,1
+Atlanta Braves,Washington Nationals,-1,120,0.042,0.001,0
+St. Louis Cardinals,Chicago Cubs,-0.93,22,-0.013,0.001,1
+Arizona Diamondbacks,Boston Red Sox,-1.09,127,0.029,0.021,1
+Colorado Rockies,Texas Rangers,-0.54,-59,-0.024,-0.013,0
+San Diego Padres,Pittsburgh Pirates,-0.22,42,0.012,0.022,1
+Baltimore Orioles,Oakland Athletics,0.29,-76,-0.048,-0.01,0
+Arizona Diamondbacks,New York Mets,-1.52,-60,-0.015,-0.015,0
+Houston Astros,Minnesota Twins,1.02,1,0.004,0.004,0
+Houston Astros,Minnesota Twins,1.02,1,0.004,0.004,0
+Atlanta Braves,Milwaukee Brewers,-0.43,26,0.023,-0.011,1
+Chicago White Sox,Kansas City Royals,0.11,-16,-0.01,0.004,1
+Los Angeles Angels of Anaheim,Cleveland Indians,-0.44,47,0.025,0.002,1
+St. Louis Cardinals,Chicago Cubs,-0.93,22,-0.013,0.001,1
+New York Yankees,Boston Red Sox,-0.16,189,0.056,0.03,0
+Cleveland Indians,Washington Nationals,-0.33,2,-0.004,-0.006,1
+Tampa Bay Rays,Toronto Blue Jays,-0.42,81,0,0.005,1
+Colorado Rockies,Texas Rangers,-0.54,-59,-0.024,-0.013,1
+Cincinnati Reds,St. Louis Cardinals,-0.83,67,0.034,-0.001,1
+Detroit Tigers,Seattle Mariners,-0.24,16,-0.008,-0.008,1
+San Diego Padres,Pittsburgh Pirates,-0.22,42,0.012,0.022,0
+Baltimore Orioles,Oakland Athletics,0.29,-76,-0.048,-0.01,1
+Arizona Diamondbacks,New York Mets,-1.52,-60,-0.015,-0.015,0
+Atlanta Braves,Milwaukee Brewers,-0.43,26,0.023,-0.011,1
+San Francisco Giants,Miami Marlins,0.4,-49,-0.004,0.005,0
+Philadelphia Phillies,Los Angeles Dodgers,-0.93,106,0.025,0.009,0
+Chicago White Sox,Kansas City Royals,0.11,-16,-0.01,0.004,1
+Los Angeles Angels of Anaheim,Chicago Cubs,-1.13,81,0.024,-0.004,1
+New York Yankees,Boston Red Sox,-0.16,189,0.056,0.03,0
+Cleveland Indians,Washington Nationals,-0.33,2,-0.004,-0.006,0
+Tampa Bay Rays,Toronto Blue Jays,-0.42,81,0,0.005,0
+Cincinnati Reds,St. Louis Cardinals,-0.83,67,0.034,-0.001,0
+Detroit Tigers,Seattle Mariners,-0.24,16,-0.008,-0.008,1
+San Diego Padres,Pittsburgh Pirates,-0.22,42,0.012,0.022,1
+Baltimore Orioles,Oakland Athletics,0.29,-76,-0.048,-0.01,1
+Arizona Diamondbacks,New York Mets,-1.52,-60,-0.015,-0.015,0
+Houston Astros,Minnesota Twins,1.02,1,0.004,0.004,0
+Atlanta Braves,Milwaukee Brewers,-0.43,26,0.023,-0.011,0
+San Francisco Giants,Miami Marlins,0.4,-49,-0.004,0.005,1
+Philadelphia Phillies,Los Angeles Dodgers,-0.93,106,0.025,0.009,1
+Chicago White Sox,Kansas City Royals,0.11,-16,-0.01,0.004,0
+Texas Rangers,Colorado Rockies,0.54,59,0.024,0.013,0
+Los Angeles Angels of Anaheim,Chicago Cubs,-1.13,81,0.024,-0.004,1
+Tampa Bay Rays,Toronto Blue Jays,-0.42,81,0,0.005,1
+Cincinnati Reds,St. Louis Cardinals,-0.83,67,0.034,-0.001,1
+Detroit Tigers,Seattle Mariners,-0.24,16,-0.008,-0.008,1
+Baltimore Orioles,Oakland Athletics,0.29,-76,-0.048,-0.01,1
+Houston Astros,Minnesota Twins,1.02,1,0.004,0.004,1
+Atlanta Braves,Milwaukee Brewers,-0.43,26,0.023,-0.011,0
+San Francisco Giants,Miami Marlins,0.4,-49,-0.004,0.005,0
+Philadelphia Phillies,Los Angeles Dodgers,-0.93,106,0.025,0.009,1
+Texas Rangers,Colorado Rockies,0.54,59,0.024,0.013,0
+San Francisco Giants,Washington Nationals,-0.14,60,0.028,-0.002,1
+Minnesota Twins,Tampa Bay Rays,-0.88,-43,0.005,-0.008,0
+Atlanta Braves,St. Louis Cardinals,-0.43,130,0.058,0,0
+Los Angeles Angels of Anaheim,Seattle Mariners,-0.28,49,0.025,-0.001,1
+Philadelphia Phillies,San Diego Padres,-0.2,80,0.006,-0.005,0
+Cincinnati Reds,Pittsburgh Pirates,-0.7,18,-0.006,0.001,0
+Chicago Cubs,Oakland Athletics,1.36,-133,-0.034,-0.01,0
+Cleveland Indians,New York Yankees,0.32,-86,-0.025,-0.01,1
+Boston Red Sox,Los Angeles Dodgers,-0.3,-156,-0.052,-0.033,1
+Toronto Blue Jays,Kansas City Royals,0.43,-88,-0.026,0.013,1
+Texas Rangers,Houston Astros,-0.31,-57,-0.016,-0.015,0
+New York Mets,Detroit Tigers,0.67,70,0.021,0.021,0
+Miami Marlins,Colorado Rockies,0.86,179,0.063,0.012,0
+Baltimore Orioles,Chicago White Sox,-0.12,-54,-0.033,0.001,0
+Milwaukee Brewers,Arizona Diamondbacks,1.01,68,0.025,0.017,1
+San Francisco Giants,Washington Nationals,-0.14,60,0.028,-0.002,0
+Minnesota Twins,Tampa Bay Rays,-0.88,-43,0.005,-0.008,1
+Atlanta Braves,St. Louis Cardinals,-0.43,130,0.058,0,0
+Los Angeles Angels of Anaheim,Seattle Mariners,-0.28,49,0.025,-0.001,1
+Philadelphia Phillies,San Diego Padres,-0.2,80,0.006,-0.005,1
+Cincinnati Reds,Pittsburgh Pirates,-0.7,18,-0.006,0.001,1
+Chicago Cubs,Oakland Athletics,1.36,-133,-0.034,-0.01,0
+Cleveland Indians,New York Yankees,0.32,-86,-0.025,-0.01,0
+Boston Red Sox,Los Angeles Dodgers,-0.3,-156,-0.052,-0.033,1
+Chicago Cubs,Oakland Athletics,1.36,-133,-0.034,-0.01,0
+Cleveland Indians,New York Yankees,0.32,-86,-0.025,-0.01,1
+Boston Red Sox,Los Angeles Dodgers,-0.3,-156,-0.052,-0.033,0
+Toronto Blue Jays,Kansas City Royals,0.43,-88,-0.026,0.013,0
+Texas Rangers,Houston Astros,-0.31,-57,-0.016,-0.015,1
+New York Mets,Detroit Tigers,0.67,70,0.021,0.021,1
+Miami Marlins,Colorado Rockies,0.86,179,0.063,0.012,0
+Baltimore Orioles,Chicago White Sox,-0.12,-54,-0.033,0.001,0
+Milwaukee Brewers,Arizona Diamondbacks,1.01,68,0.025,0.017,1
+Kansas City Royals,Tampa Bay Rays,-0.01,7,0.026,-0.018,1
+Boston Red Sox,Seattle Mariners,0,-101,-0.031,-0.023,0
+San Francisco Giants,Philadelphia Phillies,0.98,-101,-0.014,-0.018,0
+New York Mets,New York Yankees,0.59,-2,-0.012,0.006,0
+Toronto Blue Jays,Houston Astros,0.28,-39,-0.009,-0.001,0
+Chicago White Sox,Detroit Tigers,0.14,63,0.028,0.01,0
+Los Angeles Dodgers,Colorado Rockies,1.21,125,0.048,0.026,0
+Minnesota Twins,Cleveland Indians,-1.24,43,0.009,0.011,1
+St. Louis Cardinals,Cincinnati Reds,0.83,-67,-0.034,0.001,1
+Texas Rangers,Baltimore Orioles,-0.15,-36,0.01,-0.006,0
+Pittsburgh Pirates,Atlanta Braves,0.3,-81,-0.018,-0.002,1
+Oakland Athletics,Los Angeles Angels of Anaheim,-0.23,52,0.01,0.014,0
+Kansas City Royals,Tampa Bay Rays,-0.01,7,0.026,-0.018,1
+Boston Red Sox,Seattle Mariners,0,-101,-0.031,-0.023,1
+Milwaukee Brewers,San Diego Padres,0.35,13,-0.017,-0.009,1
+San Francisco Giants,Philadelphia Phillies,0.98,-101,-0.014,-0.018,1
+New York Mets,New York Yankees,0.59,-2,-0.012,0.006,1
+Toronto Blue Jays,Houston Astros,0.28,-39,-0.009,-0.001,0
+Chicago White Sox,Detroit Tigers,0.14,63,0.028,0.01,1
+Los Angeles Dodgers,Colorado Rockies,1.21,125,0.048,0.026,1
+Minnesota Twins,Cleveland Indians,-1.24,43,0.009,0.011,0
+St. Louis Cardinals,Cincinnati Reds,0.83,-67,-0.034,0.001,0
+Miami Marlins,Chicago Cubs,-0.9,141,0.035,-0.007,1
+Texas Rangers,Baltimore Orioles,-0.15,-36,0.01,-0.006,1
+Pittsburgh Pirates,Atlanta Braves,0.3,-81,-0.018,-0.002,1
+Washington Nationals,Arizona Diamondbacks,1.58,-26,0.006,0.005,0
+Oakland Athletics,Los Angeles Angels of Anaheim,-0.23,52,0.01,0.014,1
+Kansas City Royals,Tampa Bay Rays,-0.01,7,0.026,-0.018,0
+Boston Red Sox,Seattle Mariners,0,-101,-0.031,-0.023,1
+Milwaukee Brewers,San Diego Padres,0.35,13,-0.017,-0.009,0
+San Francisco Giants,Philadelphia Phillies,0.98,-101,-0.014,-0.018,1
+New York Yankees,New York Mets,-0.59,2,0.012,-0.006,1
+Toronto Blue Jays,Houston Astros,0.28,-39,-0.009,-0.001,0
+Chicago White Sox,Detroit Tigers,0.14,63,0.028,0.01,1
+Los Angeles Dodgers,Colorado Rockies,1.21,125,0.048,0.026,1
+Minnesota Twins,Cleveland Indians,-1.24,43,0.009,0.011,0
+St. Louis Cardinals,Cincinnati Reds,0.83,-67,-0.034,0.001,1
+Texas Rangers,Baltimore Orioles,-0.15,-36,0.01,-0.006,1
+Pittsburgh Pirates,Atlanta Braves,0.3,-81,-0.018,-0.002,0
+Washington Nationals,Arizona Diamondbacks,1.58,-26,0.006,0.005,0
+Oakland Athletics,Los Angeles Angels of Anaheim,-0.23,52,0.01,0.014,1
+Kansas City Royals,Tampa Bay Rays,-0.01,7,0.026,-0.018,0
+Boston Red Sox,Seattle Mariners,0,-101,-0.031,-0.023,0
+Milwaukee Brewers,San Diego Padres,0.35,13,-0.017,-0.009,1
+New York Yankees,New York Mets,-0.59,2,0.012,-0.006,0
+Toronto Blue Jays,Houston Astros,0.28,-39,-0.009,-0.001,1
+Minnesota Twins,Cleveland Indians,-1.24,43,0.009,0.011,0
+Miami Marlins,Chicago Cubs,-0.9,141,0.035,-0.007,1
+Washington Nationals,Arizona Diamondbacks,1.58,-26,0.006,0.005,0
+Baltimore Orioles,Toronto Blue Jays,-0.44,18,-0.017,-0.008,0
+Kansas City Royals,Texas Rangers,0.16,106,0.033,0.001,1
+New York Yankees,Tampa Bay Rays,0.04,0,0.021,-0.009,1
+Washington Nationals,San Francisco Giants,0.14,-60,-0.028,0.002,1
+Cincinnati Reds,San Diego Padres,-0.48,-24,-0.018,-0.021,0
+Colorado Rockies,New York Mets,-1.34,-156,-0.04,-0.029,1
+Chicago White Sox,Minnesota Twins,0.98,34,0.011,-0.006,1
+Pittsburgh Pirates,Milwaukee Brewers,-0.13,-55,0.005,-0.013,1
+St. Louis Cardinals,Miami Marlins,-0.03,-119,-0.048,0.008,1
+Arizona Diamondbacks,Los Angeles Dodgers,-1.39,-29,-0.023,-0.012,1
+Houston Astros,Detroit Tigers,0.18,30,0.021,0.02,1
+Oakland Athletics,Cleveland Indians,-0.67,99,0.035,0.016,1
+Seattle Mariners,Chicago Cubs,-0.85,32,-0.001,-0.003,1
+Philadelphia Phillies,Atlanta Braves,-0.12,41,0,0.015,1
+Boston Red Sox,Los Angeles Angels of Anaheim,0.28,-150,-0.056,-0.022,0
+Baltimore Orioles,Toronto Blue Jays,-0.44,18,-0.017,-0.008,1
+Kansas City Royals,Texas Rangers,0.16,106,0.033,0.001,1
+New York Yankees,Tampa Bay Rays,0.04,0,0.021,-0.009,1
+Baltimore Orioles,Toronto Blue Jays,-0.44,18,-0.017,-0.008,1
+Kansas City Royals,Texas Rangers,0.16,106,0.033,0.001,1
+New York Yankees,Tampa Bay Rays,0.04,0,0.021,-0.009,1
+Washington Nationals,San Francisco Giants,0.14,-60,-0.028,0.002,0
+Cincinnati Reds,San Diego Padres,-0.48,-24,-0.018,-0.021,0
+Colorado Rockies,New York Mets,-1.34,-156,-0.04,-0.029,0
+Chicago White Sox,Minnesota Twins,0.98,34,0.011,-0.006,1
+Pittsburgh Pirates,Milwaukee Brewers,-0.13,-55,0.005,-0.013,1
+St. Louis Cardinals,Miami Marlins,-0.03,-119,-0.048,0.008,0
+Arizona Diamondbacks,Los Angeles Dodgers,-1.39,-29,-0.023,-0.012,1
+Houston Astros,Detroit Tigers,0.18,30,0.021,0.02,1
+Oakland Athletics,Cleveland Indians,-0.67,99,0.035,0.016,1
+Seattle Mariners,Chicago Cubs,-0.85,32,-0.001,-0.003,1
+Philadelphia Phillies,Atlanta Braves,-0.12,41,0,0.015,1
+Boston Red Sox,Los Angeles Angels of Anaheim,0.28,-150,-0.056,-0.022,0
+Kansas City Royals,Texas Rangers,0.16,106,0.033,0.001,1
+Washington Nationals,San Francisco Giants,0.14,-60,-0.028,0.002,0
+Colorado Rockies,New York Mets,-1.34,-156,-0.04,-0.029,0
+Baltimore Orioles,Minnesota Twins,0.86,-20,-0.022,-0.005,1
+Arizona Diamondbacks,Milwaukee Brewers,-1.01,-68,-0.025,-0.017,1
+St. Louis Cardinals,Miami Marlins,-0.03,-119,-0.048,0.008,0
+Chicago White Sox,Chicago Cubs,-0.95,111,0.019,-0.001,1
+Philadelphia Phillies,Atlanta Braves,-0.12,41,0,0.015,0
+Boston Red Sox,Los Angeles Angels of Anaheim,0.28,-150,-0.056,-0.022,1
+San Diego Padres,Toronto Blue Jays,-0.65,74,0.036,0.013,0
+Oakland Athletics,Texas Rangers,-0.14,112,0.038,0.016,0
+Cincinnati Reds,San Francisco Giants,-1.26,-3,-0.01,0.002,0
+Seattle Mariners,Pittsburgh Pirates,0.21,-39,-0.028,-0.002,1
+St. Louis Cardinals,New York Mets,-0.51,-96,-0.025,-0.009,0
+Atlanta Braves,Minnesota Twins,0.57,75,0.037,-0.004,0
+Arizona Diamondbacks,Milwaukee Brewers,-1.01,-68,-0.025,-0.017,0
+Philadelphia Phillies,Miami Marlins,-0.58,52,0.01,0.023,1
+Tampa Bay Rays,Los Angeles Dodgers,-0.5,33,-0.017,0.006,0
+Los Angeles Angels of Anaheim,Kansas City Royals,-0.07,-46,-0.005,0.001,1
+New York Yankees,Houston Astros,-0.1,42,0.012,-0.005,1
+Washington Nationals,Cleveland Indians,0.33,-2,0.004,0.006,0
+Chicago White Sox,Chicago Cubs,-0.95,111,0.019,-0.001,1
+Detroit Tigers,Boston Red Sox,-0.24,117,0.023,0.015,0
+Colorado Rockies,Baltimore Orioles,-0.69,-95,-0.014,-0.019,0
+San Diego Padres,Toronto Blue Jays,-0.65,74,0.036,0.013,1
+Oakland Athletics,Texas Rangers,-0.14,112,0.038,0.016,0
+Cincinnati Reds,San Francisco Giants,-1.26,-3,-0.01,0.002,1
+Seattle Mariners,Pittsburgh Pirates,0.21,-39,-0.028,-0.002,0
+St. Louis Cardinals,New York Mets,-0.51,-96,-0.025,-0.009,1
+Atlanta Braves,Minnesota Twins,0.57,75,0.037,-0.004,0
+Arizona Diamondbacks,Milwaukee Brewers,-1.01,-68,-0.025,-0.017,1
+Philadelphia Phillies,Miami Marlins,-0.58,52,0.01,0.023,1
+Tampa Bay Rays,Los Angeles Dodgers,-0.5,33,-0.017,0.006,1
+Los Angeles Angels of Anaheim,Kansas City Royals,-0.07,-46,-0.005,0.001,0
+New York Yankees,Houston Astros,-0.1,42,0.012,-0.005,0
+Washington Nationals,Cleveland Indians,0.33,-2,0.004,0.006,1
+Chicago Cubs,Chicago White Sox,0.95,-111,-0.019,0.001,1
+Detroit Tigers,Boston Red Sox,-0.24,117,0.023,0.015,0
+Colorado Rockies,Baltimore Orioles,-0.69,-95,-0.014,-0.019,0
+San Diego Padres,Toronto Blue Jays,-0.65,74,0.036,0.013,1
+Oakland Athletics,Texas Rangers,-0.14,112,0.038,0.016,1
+Cincinnati Reds,San Francisco Giants,-1.26,-3,-0.01,0.002,0
+Arizona Diamondbacks,Milwaukee Brewers,-1.01,-68,-0.025,-0.017,1
+Philadelphia Phillies,Miami Marlins,-0.58,52,0.01,0.023,0
+Los Angeles Angels of Anaheim,Kansas City Royals,-0.07,-46,-0.005,0.001,0
+New York Yankees,Houston Astros,-0.1,42,0.012,-0.005,0
+Chicago Cubs,Chicago White Sox,0.95,-111,-0.019,0.001,1
+Detroit Tigers,Boston Red Sox,-0.24,117,0.023,0.015,0
+Colorado Rockies,Baltimore Orioles,-0.69,-95,-0.014,-0.019,1
+San Diego Padres,Washington Nationals,-0.92,81,0.036,0.021,0
+Seattle Mariners,Toronto Blue Jays,-0.22,-7,-0.004,-0.011,1
+Los Angeles Dodgers,St. Louis Cardinals,0.38,65,0.033,0.006,0
+Philadelphia Phillies,Pittsburgh Pirates,-0.42,122,0.018,0.017,1
+Tampa Bay Rays,Oakland Athletics,0.31,-13,-0.031,0.003,1
+San Francisco Giants,New York Yankees,0.51,-28,0.007,-0.006,1
+Chicago Cubs,Milwaukee Brewers,0.93,-126,-0.022,-0.012,0
+New York Mets,Miami Marlins,0.48,-23,-0.023,0.017,0
+Texas Rangers,Kansas City Royals,-0.16,-106,-0.033,-0.001,0
+Los Angeles Angels of Anaheim,Houston Astros,-0.22,3,0.012,-0.013,1
+New York Mets,Miami Marlins,0.48,-23,-0.023,0.017,1
+Texas Rangers,Kansas City Royals,-0.16,-106,-0.033,-0.001,0
+Los Angeles Angels of Anaheim,Houston Astros,-0.22,3,0.012,-0.013,1
+Atlanta Braves,Colorado Rockies,0.4,190,0.073,0.02,1
+Arizona Diamondbacks,Cincinnati Reds,-0.18,-31,-0.024,-0.005,1
+Detroit Tigers,Chicago White Sox,-0.14,-63,-0.028,-0.01,1
+Minnesota Twins,Boston Red Sox,-1.08,146,0.04,0.031,0
+Cleveland Indians,Baltimore Orioles,0.38,-23,0.013,-0.006,1
+San Diego Padres,Washington Nationals,-0.92,81,0.036,0.021,0
+Seattle Mariners,Toronto Blue Jays,-0.22,-7,-0.004,-0.011,0
+Los Angeles Dodgers,St. Louis Cardinals,0.38,65,0.033,0.006,1
+Philadelphia Phillies,Pittsburgh Pirates,-0.42,122,0.018,0.017,0
+Tampa Bay Rays,Oakland Athletics,0.31,-13,-0.031,0.003,1
+San Francisco Giants,New York Yankees,0.51,-28,0.007,-0.006,1
+Chicago Cubs,Milwaukee Brewers,0.93,-126,-0.022,-0.012,0
+New York Mets,Miami Marlins,0.48,-23,-0.023,0.017,0
+Texas Rangers,Kansas City Royals,-0.16,-106,-0.033,-0.001,1
+Los Angeles Angels of Anaheim,Houston Astros,-0.22,3,0.012,-0.013,1
+Atlanta Braves,Colorado Rockies,0.4,190,0.073,0.02,1
+Arizona Diamondbacks,Cincinnati Reds,-0.18,-31,-0.024,-0.005,1
+Detroit Tigers,Chicago White Sox,-0.14,-63,-0.028,-0.01,0
+Minnesota Twins,Boston Red Sox,-1.08,146,0.04,0.031,0
+Cleveland Indians,Baltimore Orioles,0.38,-23,0.013,-0.006,1
+Los Angeles Dodgers,Washington Nationals,-0.19,55,0.017,0.007,0
+San Diego Padres,St. Louis Cardinals,-0.35,91,0.052,0.02,1
+Milwaukee Brewers,Pittsburgh Pirates,0.13,55,-0.005,0.013,1
+Miami Marlins,Philadelphia Phillies,0.58,-52,-0.01,-0.023,0
+Tampa Bay Rays,Oakland Athletics,0.31,-13,-0.031,0.003,0
+Baltimore Orioles,New York Yankees,-0.06,-63,-0.038,-0.004,0
+Atlanta Braves,Colorado Rockies,0.4,190,0.073,0.02,1
+Detroit Tigers,Chicago White Sox,-0.14,-63,-0.028,-0.01,0
+Minnesota Twins,Boston Red Sox,-1.08,146,0.04,0.031,1
+Los Angeles Dodgers,Washington Nationals,-0.19,55,0.017,0.007,1
+San Diego Padres,St. Louis Cardinals,-0.35,91,0.052,0.02,1
+San Diego Padres,St. Louis Cardinals,-0.35,91,0.052,0.02,1
+Chicago White Sox,Seattle Mariners,-0.1,79,0.02,0.002,1
+Milwaukee Brewers,Pittsburgh Pirates,0.13,55,-0.005,0.013,0
+Miami Marlins,Philadelphia Phillies,0.58,-52,-0.01,-0.023,1
+Houston Astros,Oakland Athletics,0.45,-55,-0.022,-0.001,0
+Baltimore Orioles,New York Yankees,-0.06,-63,-0.038,-0.004,1
+Cleveland Indians,Kansas City Royals,0.37,-93,-0.03,-0.001,0
+Minnesota Twins,Detroit Tigers,-0.84,29,0.017,0.016,0
+Tampa Bay Rays,Colorado Rockies,0.71,158,0.031,0.032,0
+Atlanta Braves,Cincinnati Reds,0.4,63,0.024,0.001,1
+New York Mets,Chicago Cubs,-0.42,118,0.012,0.01,1
+San Francisco Giants,Boston Red Sox,0.35,161,0.063,0.024,1
+Toronto Blue Jays,Arizona Diamondbacks,1.31,-19,0.006,0.013,0
+Texas Rangers,Los Angeles Angels of Anaheim,-0.09,-60,-0.028,-0.002,1
+Los Angeles Dodgers,Washington Nationals,-0.19,55,0.017,0.007,0
+Chicago White Sox,Seattle Mariners,-0.1,79,0.02,0.002,0
+Milwaukee Brewers,Pittsburgh Pirates,0.13,55,-0.005,0.013,1
+Miami Marlins,Philadelphia Phillies,0.58,-52,-0.01,-0.023,0
+Houston Astros,Oakland Athletics,0.45,-55,-0.022,-0.001,1
+Baltimore Orioles,New York Yankees,-0.06,-63,-0.038,-0.004,1
+Minnesota Twins,Detroit Tigers,-0.84,29,0.017,0.016,0
+Tampa Bay Rays,Colorado Rockies,0.71,158,0.031,0.032,0
+Atlanta Braves,Cincinnati Reds,0.4,63,0.024,0.001,0
+New York Mets,Chicago Cubs,-0.42,118,0.012,0.01,0
+San Francisco Giants,Boston Red Sox,0.35,161,0.063,0.024,1
+Toronto Blue Jays,Arizona Diamondbacks,1.31,-19,0.006,0.013,0
+Texas Rangers,Los Angeles Angels of Anaheim,-0.09,-60,-0.028,-0.002,1
+San Diego Padres,St. Louis Cardinals,-0.35,91,0.052,0.02,1
+Chicago White Sox,Seattle Mariners,-0.1,79,0.02,0.002,1
+Miami Marlins,Philadelphia Phillies,0.58,-52,-0.01,-0.023,0
+Houston Astros,Oakland Athletics,0.45,-55,-0.022,-0.001,1
+Baltimore Orioles,New York Yankees,-0.06,-63,-0.038,-0.004,1
+Cleveland Indians,Kansas City Royals,0.37,-93,-0.03,-0.001,1
+Minnesota Twins,Detroit Tigers,-0.84,29,0.017,0.016,1
+Tampa Bay Rays,Colorado Rockies,0.71,158,0.031,0.032,1
+Atlanta Braves,Cincinnati Reds,0.4,63,0.024,0.001,1
+New York Mets,Chicago Cubs,-0.42,118,0.012,0.01,1
+Texas Rangers,Los Angeles Angels of Anaheim,-0.09,-60,-0.028,-0.002,1
+Pittsburgh Pirates,Washington Nationals,-0.7,39,0.024,-0.001,0
+Baltimore Orioles,Tampa Bay Rays,-0.02,-63,-0.017,-0.013,1
+Miami Marlins,St. Louis Cardinals,0.03,119,0.048,-0.008,0
+Houston Astros,Seattle Mariners,-0.06,46,0.013,0.012,0
+San Francisco Giants,San Diego Padres,0.78,-21,-0.008,-0.023,1
+New York Mets,Philadelphia Phillies,1.06,-75,-0.033,-0.006,0
+Toronto Blue Jays,Oakland Athletics,0.73,-94,-0.031,-0.002,0
+Boston Red Sox,New York Yankees,0.16,-189,-0.056,-0.03,1
+Cleveland Indians,Minnesota Twins,1.24,-43,-0.009,-0.011,0
+Kansas City Royals,Detroit Tigers,0.03,79,0.038,0.006,1
+Milwaukee Brewers,Cincinnati Reds,0.83,37,0.001,0.012,1
+Texas Rangers,Chicago Cubs,-1.22,21,-0.004,-0.006,0
+Colorado Rockies,Atlanta Braves,-0.4,-190,-0.073,-0.02,1
+Los Angeles Dodgers,Arizona Diamondbacks,1.39,29,0.023,0.012,1
+Chicago White Sox,Los Angeles Angels of Anaheim,0.18,30,-0.005,0.003,1
+Colorado Rockies,Atlanta Braves,-0.4,-190,-0.073,-0.02,0
+Los Angeles Dodgers,Arizona Diamondbacks,1.39,29,0.023,0.012,1
+Chicago White Sox,Los Angeles Angels of Anaheim,0.18,30,-0.005,0.003,1
+Pittsburgh Pirates,Washington Nationals,-0.7,39,0.024,-0.001,1
+Baltimore Orioles,Tampa Bay Rays,-0.02,-63,-0.017,-0.013,0
+Miami Marlins,St. Louis Cardinals,0.03,119,0.048,-0.008,0
+Houston Astros,Seattle Mariners,-0.06,46,0.013,0.012,0
+San Francisco Giants,San Diego Padres,0.78,-21,-0.008,-0.023,1
+New York Mets,Philadelphia Phillies,1.06,-75,-0.033,-0.006,0
+Toronto Blue Jays,Oakland Athletics,0.73,-94,-0.031,-0.002,1
+Boston Red Sox,New York Yankees,0.16,-189,-0.056,-0.03,0
+Cleveland Indians,Minnesota Twins,1.24,-43,-0.009,-0.011,0
+Kansas City Royals,Detroit Tigers,0.03,79,0.038,0.006,1
+Milwaukee Brewers,Cincinnati Reds,0.83,37,0.001,0.012,1
+Texas Rangers,Chicago Cubs,-1.22,21,-0.004,-0.006,1
+Colorado Rockies,Atlanta Braves,-0.4,-190,-0.073,-0.02,0
+Los Angeles Dodgers,Arizona Diamondbacks,1.39,29,0.023,0.012,0
+Chicago White Sox,Los Angeles Angels of Anaheim,0.18,30,-0.005,0.003,1
+Detroit Tigers,Toronto Blue Jays,-0.46,9,-0.012,-0.019,1
+Minnesota Twins,Texas Rangers,-0.71,56,0.012,0.011,0
+Arizona Diamondbacks,San Francisco Giants,-1.44,-34,-0.034,-0.003,1
+Chicago Cubs,Pittsburgh Pirates,1.06,-71,-0.027,0.001,0
+Washington Nationals,New York Mets,0.06,-86,-0.009,-0.01,0
+St. Louis Cardinals,Milwaukee Brewers,0,-104,-0.035,-0.011,0
+Cincinnati Reds,Miami Marlins,-0.86,-52,-0.014,0.007,1
+San Diego Padres,Los Angeles Dodgers,-0.73,26,0.019,0.014,1
+Seattle Mariners,Kansas City Royals,0.21,-95,-0.03,0.002,0
+Oakland Athletics,Houston Astros,-0.45,55,0.022,0.001,1
+Philadelphia Phillies,Colorado Rockies,0.28,231,0.073,0.035,0
+New York Yankees,Cleveland Indians,-0.32,86,0.025,0.01,0
+Atlanta Braves,Chicago White Sox,-0.41,41,0.026,0.002,0
+Tampa Bay Rays,Boston Red Sox,-0.2,189,0.035,0.039,1
+Los Angeles Angels of Anaheim,Baltimore Orioles,-0.06,24,0.038,-0.004,1
+Detroit Tigers,Toronto Blue Jays,-0.46,9,-0.012,-0.019,0
+Minnesota Twins,Texas Rangers,-0.71,56,0.012,0.011,0
+Arizona Diamondbacks,San Francisco Giants,-1.44,-34,-0.034,-0.003,1
+Chicago Cubs,Pittsburgh Pirates,1.06,-71,-0.027,0.001,1
+Washington Nationals,New York Mets,0.06,-86,-0.009,-0.01,0
+St. Louis Cardinals,Milwaukee Brewers,0,-104,-0.035,-0.011,0
+Cincinnati Reds,Miami Marlins,-0.86,-52,-0.014,0.007,1
+San Diego Padres,Los Angeles Dodgers,-0.73,26,0.019,0.014,1
+Seattle Mariners,Kansas City Royals,0.21,-95,-0.03,0.002,1
+Oakland Athletics,Houston Astros,-0.45,55,0.022,0.001,0
+Philadelphia Phillies,Colorado Rockies,0.28,231,0.073,0.035,1
+New York Yankees,Cleveland Indians,-0.32,86,0.025,0.01,0
+Atlanta Braves,Chicago White Sox,-0.41,41,0.026,0.002,1
+Tampa Bay Rays,Boston Red Sox,-0.2,189,0.035,0.039,1
+Detroit Tigers,Toronto Blue Jays,-0.46,9,-0.012,-0.019,1
+Minnesota Twins,Texas Rangers,-0.71,56,0.012,0.011,1
+Arizona Diamondbacks,San Francisco Giants,-1.44,-34,-0.034,-0.003,1
+Chicago Cubs,Pittsburgh Pirates,1.06,-71,-0.027,0.001,1
+Washington Nationals,New York Mets,0.06,-86,-0.009,-0.01,0
+St. Louis Cardinals,Milwaukee Brewers,0,-104,-0.035,-0.011,1
+Cincinnati Reds,Miami Marlins,-0.86,-52,-0.014,0.007,1
+San Diego Padres,Los Angeles Dodgers,-0.73,26,0.019,0.014,1
+Seattle Mariners,Kansas City Royals,0.21,-95,-0.03,0.002,0
+Oakland Athletics,Houston Astros,-0.45,55,0.022,0.001,1
+Philadelphia Phillies,Colorado Rockies,0.28,231,0.073,0.035,0
+New York Yankees,Cleveland Indians,-0.32,86,0.025,0.01,1
+Atlanta Braves,Chicago White Sox,-0.41,41,0.026,0.002,0
+Tampa Bay Rays,Boston Red Sox,-0.2,189,0.035,0.039,1
+Los Angeles Angels of Anaheim,Baltimore Orioles,-0.06,24,0.038,-0.004,0
+Detroit Tigers,Toronto Blue Jays,-0.46,9,-0.012,-0.019,1
+Minnesota Twins,Texas Rangers,-0.71,56,0.012,0.011,0
+Los Angeles Angels of Anaheim,Tampa Bay Rays,-0.08,-39,0.021,-0.017,0
+Pittsburgh Pirates,St. Louis Cardinals,-0.13,49,0.04,-0.002,1
+Washington Nationals,New York Mets,0.06,-86,-0.009,-0.01,1
+San Diego Padres,Los Angeles Dodgers,-0.73,26,0.019,0.014,0
+Seattle Mariners,Kansas City Royals,0.21,-95,-0.03,0.002,1
+Oakland Athletics,Houston Astros,-0.45,55,0.022,0.001,0
+Philadelphia Phillies,Colorado Rockies,0.28,231,0.073,0.035,1
+New York Yankees,Cleveland Indians,-0.32,86,0.025,0.01,0
+Atlanta Braves,Chicago Cubs,-1.36,152,0.045,0.001,0
+Milwaukee Brewers,Washington Nationals,-0.57,94,0.019,0.012,1
+Kansas City Royals,Toronto Blue Jays,-0.43,88,0.026,-0.013,1
+Los Angeles Angels of Anaheim,Tampa Bay Rays,-0.08,-39,0.021,-0.017,0
+Pittsburgh Pirates,St. Louis Cardinals,-0.13,49,0.04,-0.002,0
+Colorado Rockies,San Francisco Giants,-1.26,-130,-0.059,-0.017,1
+Atlanta Braves,Philadelphia Phillies,0.12,-41,0,-0.015,1
+Miami Marlins,New York Mets,-0.48,23,0.023,-0.017,1
+Colorado Rockies,San Francisco Giants,-1.26,-130,-0.059,-0.017,0
+Atlanta Braves,Philadelphia Phillies,0.12,-41,0,-0.015,1
+Miami Marlins,New York Mets,-0.48,23,0.023,-0.017,0
+Oakland Athletics,Minnesota Twins,0.57,56,0.026,0.005,1
+Baltimore Orioles,Los Angeles Dodgers,-0.52,-30,-0.034,-0.007,0
+Seattle Mariners,Houston Astros,0.06,-46,-0.013,-0.012,1
+Detroit Tigers,Cleveland Indians,-0.4,14,-0.008,-0.005,1
+Cincinnati Reds,Chicago Cubs,-1.76,89,0.021,0,0
+New York Yankees,Chicago White Sox,-0.06,9,0.005,0.005,0
+Texas Rangers,Boston Red Sox,-0.37,90,0.028,0.02,0
+San Diego Padres,Arizona Diamondbacks,0.66,55,0.042,0.026,1
+Milwaukee Brewers,Washington Nationals,-0.57,94,0.019,0.012,0
+Kansas City Royals,Toronto Blue Jays,-0.43,88,0.026,-0.013,1
+Los Angeles Angels of Anaheim,Tampa Bay Rays,-0.08,-39,0.021,-0.017,1
+Pittsburgh Pirates,St. Louis Cardinals,-0.13,49,0.04,-0.002,0
+Colorado Rockies,San Francisco Giants,-1.26,-130,-0.059,-0.017,1
+Atlanta Braves,Philadelphia Phillies,0.12,-41,0,-0.015,1
+Miami Marlins,New York Mets,-0.48,23,0.023,-0.017,1
+Oakland Athletics,Minnesota Twins,0.57,56,0.026,0.005,0
+Baltimore Orioles,Los Angeles Dodgers,-0.52,-30,-0.034,-0.007,1
+Seattle Mariners,Houston Astros,0.06,-46,-0.013,-0.012,1
+Detroit Tigers,Cleveland Indians,-0.4,14,-0.008,-0.005,1
+Cincinnati Reds,Chicago Cubs,-1.76,89,0.021,0,1
+New York Yankees,Chicago White Sox,-0.06,9,0.005,0.005,1
+Texas Rangers,Boston Red Sox,-0.37,90,0.028,0.02,1
+San Diego Padres,Arizona Diamondbacks,0.66,55,0.042,0.026,0
+Cincinnati Reds,Washington Nationals,-1.4,57,0.018,0,1
+Cleveland Indians,Toronto Blue Jays,-0.06,-5,-0.004,-0.014,1
+Detroit Tigers,Tampa Bay Rays,-0.04,-72,-0.012,-0.024,0
+Milwaukee Brewers,St. Louis Cardinals,0,104,0.035,0.011,1
+Baltimore Orioles,Seattle Mariners,-0.22,25,-0.013,0.003,1
+New York Yankees,San Diego Padres,0.27,7,-0.015,-0.017,0
+Kansas City Royals,Philadelphia Phillies,0.42,-66,-0.016,-0.021,1
+Pittsburgh Pirates,Oakland Athletics,0.3,-62,-0.007,-0.011,0
+Chicago Cubs,New York Mets,0.42,-118,-0.012,-0.01,1
+Texas Rangers,Minnesota Twins,0.71,-56,-0.012,-0.011,1
+Colorado Rockies,Los Angeles Dodgers,-1.21,-125,-0.048,-0.026,1
+Chicago White Sox,Houston Astros,-0.04,33,0.007,-0.01,0
+Los Angeles Angels of Anaheim,Boston Red Sox,-0.28,150,0.056,0.022,1
+Miami Marlins,Atlanta Braves,0.46,-11,-0.01,-0.008,0
+San Francisco Giants,Arizona Diamondbacks,1.44,34,0.034,0.003,0
+Cincinnati Reds,Washington Nationals,-1.4,57,0.018,0,0
+Cleveland Indians,Toronto Blue Jays,-0.06,-5,-0.004,-0.014,1
+Detroit Tigers,Tampa Bay Rays,-0.04,-72,-0.012,-0.024,0
+Milwaukee Brewers,St. Louis Cardinals,0,104,0.035,0.011,1
+Baltimore Orioles,Seattle Mariners,-0.22,25,-0.013,0.003,1
+New York Yankees,San Diego Padres,0.27,7,-0.015,-0.017,1
+Kansas City Royals,Philadelphia Phillies,0.42,-66,-0.016,-0.021,0
+Pittsburgh Pirates,Oakland Athletics,0.3,-62,-0.007,-0.011,0
+Chicago Cubs,New York Mets,0.42,-118,-0.012,-0.01,1
+Texas Rangers,Minnesota Twins,0.71,-56,-0.012,-0.011,1
+Chicago White Sox,Houston Astros,-0.04,33,0.007,-0.01,0
+Los Angeles Angels of Anaheim,Boston Red Sox,-0.28,150,0.056,0.022,0
+Miami Marlins,Atlanta Braves,0.46,-11,-0.01,-0.008,1
+San Francisco Giants,Arizona Diamondbacks,1.44,34,0.034,0.003,1
+Cincinnati Reds,Washington Nationals,-1.4,57,0.018,0,1
+Cleveland Indians,Toronto Blue Jays,-0.06,-5,-0.004,-0.014,0
+Detroit Tigers,Tampa Bay Rays,-0.04,-72,-0.012,-0.024,0
+Milwaukee Brewers,St. Louis Cardinals,0,104,0.035,0.011,1
+Baltimore Orioles,Seattle Mariners,-0.22,25,-0.013,0.003,1
+New York Yankees,San Diego Padres,0.27,7,-0.015,-0.017,1
+Kansas City Royals,Philadelphia Phillies,0.42,-66,-0.016,-0.021,1
+Pittsburgh Pirates,Oakland Athletics,0.3,-62,-0.007,-0.011,0
+Chicago Cubs,New York Mets,0.42,-118,-0.012,-0.01,1
+Texas Rangers,Minnesota Twins,0.71,-56,-0.012,-0.011,0
+Colorado Rockies,Los Angeles Dodgers,-1.21,-125,-0.048,-0.026,1
+Chicago White Sox,Houston Astros,-0.04,33,0.007,-0.01,1
+Los Angeles Angels of Anaheim,Boston Red Sox,-0.28,150,0.056,0.022,1
+Miami Marlins,Atlanta Braves,0.46,-11,-0.01,-0.008,0
+San Francisco Giants,Arizona Diamondbacks,1.44,34,0.034,0.003,0
+Cincinnati Reds,Washington Nationals,-1.4,57,0.018,0,1
+Cleveland Indians,Toronto Blue Jays,-0.06,-5,-0.004,-0.014,0
+Detroit Tigers,Tampa Bay Rays,-0.04,-72,-0.012,-0.024,0
+Kansas City Royals,St. Louis Cardinals,-0.13,105,0.042,-0.006,0
+Baltimore Orioles,Seattle Mariners,-0.22,25,-0.013,0.003,1
+San Francisco Giants,Oakland Athletics,0.86,-41,-0.003,-0.012,0
+Chicago Cubs,New York Mets,0.42,-118,-0.012,-0.01,1
+Texas Rangers,New York Yankees,-0.21,-99,-0.028,-0.01,1
+Los Angeles Dodgers,Milwaukee Brewers,0.38,-39,-0.002,-0.005,0
+Minnesota Twins,Chicago White Sox,-0.98,-34,-0.011,0.006,1
+Miami Marlins,Atlanta Braves,0.46,-11,-0.01,-0.008,1
+New York Mets,Washington Nationals,-0.06,86,0.009,0.01,1
+Boston Red Sox,Tampa Bay Rays,0.2,-189,-0.035,-0.039,1
+Houston Astros,Los Angeles Angels of Anaheim,0.22,-3,-0.012,0.013,0
+New York Mets,Washington Nationals,-0.06,86,0.009,0.01,1
+Boston Red Sox,Tampa Bay Rays,0.2,-189,-0.035,-0.039,0
+Oakland Athletics,San Francisco Giants,-0.86,41,0.003,0.012,0
+Pittsburgh Pirates,Seattle Mariners,-0.21,39,0.028,0.002,1
+Baltimore Orioles,San Diego Padres,0.21,-56,-0.053,-0.021,0
+Texas Rangers,New York Yankees,-0.21,-99,-0.028,-0.01,0
+Los Angeles Dodgers,Milwaukee Brewers,0.38,-39,-0.002,-0.005,0
+St. Louis Cardinals,Kansas City Royals,0.13,-105,-0.042,0.006,0
+Miami Marlins,Detroit Tigers,0.19,93,0.044,0.004,1
+Toronto Blue Jays,Colorado Rockies,1.13,77,0.031,0.027,0
+Chicago Cubs,Cincinnati Reds,1.76,-89,-0.021,0,0
+Minnesota Twins,Chicago White Sox,-0.98,-34,-0.011,0.006,0
+Cleveland Indians,Atlanta Braves,0.67,-118,-0.046,-0.007,0
+Philadelphia Phillies,Arizona Diamondbacks,0.46,135,0.048,0.021,0
+Houston Astros,Los Angeles Angels of Anaheim,0.22,-3,-0.012,0.013,0
+New York Mets,Washington Nationals,-0.06,86,0.009,0.01,1
+Boston Red Sox,Tampa Bay Rays,0.2,-189,-0.035,-0.039,1
+Oakland Athletics,San Francisco Giants,-0.86,41,0.003,0.012,0
+Los Angeles Dodgers,Pittsburgh Pirates,0.51,16,-0.007,0.008,0
+Texas Rangers,New York Yankees,-0.21,-99,-0.028,-0.01,0
+St. Louis Cardinals,Kansas City Royals,0.13,-105,-0.042,0.006,1
+Toronto Blue Jays,Colorado Rockies,1.13,77,0.031,0.027,1
+Chicago Cubs,Cincinnati Reds,1.76,-89,-0.021,0,0
+Cleveland Indians,Atlanta Braves,0.67,-118,-0.046,-0.007,0
+Philadelphia Phillies,Arizona Diamondbacks,0.46,135,0.048,0.021,0
+Houston Astros,Los Angeles Angels of Anaheim,0.22,-3,-0.012,0.013,0
+Boston Red Sox,Texas Rangers,0.37,-90,-0.028,-0.02,1
+Philadelphia Phillies,San Francisco Giants,-0.98,101,0.014,0.018,1
+St. Louis Cardinals,Seattle Mariners,-0.08,-10,-0.012,0.004,0
+Los Angeles Dodgers,Pittsburgh Pirates,0.51,16,-0.007,0.008,1
+Minnesota Twins,New York Yankees,-0.92,-43,-0.016,0.001,0
+Washington Nationals,Milwaukee Brewers,0.57,-94,-0.019,-0.012,0
+Chicago Cubs,Miami Marlins,0.9,-141,-0.035,0.007,1
+Houston Astros,Kansas City Royals,0.15,-49,-0.017,0.014,1
+Cleveland Indians,Detroit Tigers,0.4,-14,0.008,0.005,0
+Arizona Diamondbacks,Colorado Rockies,-0.18,96,0.025,0.014,1
+San Diego Padres,Cincinnati Reds,0.48,24,0.018,0.021,1
+Toronto Blue Jays,Chicago White Sox,0.32,-72,-0.016,0.009,1
+Tampa Bay Rays,Baltimore Orioles,0.02,63,0.017,0.013,1
+New York Mets,Atlanta Braves,0.94,-34,-0.033,0.009,1
+Oakland Athletics,Los Angeles Angels of Anaheim,-0.23,52,0.01,0.014,1
+Boston Red Sox,Texas Rangers,0.37,-90,-0.028,-0.02,1
+Philadelphia Phillies,San Francisco Giants,-0.98,101,0.014,0.018,0
+St. Louis Cardinals,Seattle Mariners,-0.08,-10,-0.012,0.004,1
+Los Angeles Dodgers,Pittsburgh Pirates,0.51,16,-0.007,0.008,1
+Minnesota Twins,New York Yankees,-0.92,-43,-0.016,0.001,1
+Washington Nationals,Milwaukee Brewers,0.57,-94,-0.019,-0.012,1
+Chicago Cubs,Miami Marlins,0.9,-141,-0.035,0.007,1
+Houston Astros,Kansas City Royals,0.15,-49,-0.017,0.014,0
+Cleveland Indians,Detroit Tigers,0.4,-14,0.008,0.005,0
+Arizona Diamondbacks,Colorado Rockies,-0.18,96,0.025,0.014,1
+San Diego Padres,Cincinnati Reds,0.48,24,0.018,0.021,0
+Toronto Blue Jays,Chicago White Sox,0.32,-72,-0.016,0.009,0
+Tampa Bay Rays,Baltimore Orioles,0.02,63,0.017,0.013,1
+New York Mets,Atlanta Braves,0.94,-34,-0.033,0.009,0
+Oakland Athletics,Los Angeles Angels of Anaheim,-0.23,52,0.01,0.014,0
+Boston Red Sox,Texas Rangers,0.37,-90,-0.028,-0.02,0
+Philadelphia Phillies,San Francisco Giants,-0.98,101,0.014,0.018,1
+St. Louis Cardinals,Seattle Mariners,-0.08,-10,-0.012,0.004,1
+Los Angeles Dodgers,Pittsburgh Pirates,0.51,16,-0.007,0.008,1
+Minnesota Twins,New York Yankees,-0.92,-43,-0.016,0.001,1
+Washington Nationals,Milwaukee Brewers,0.57,-94,-0.019,-0.012,1
+Chicago Cubs,Miami Marlins,0.9,-141,-0.035,0.007,0
+Houston Astros,Kansas City Royals,0.15,-49,-0.017,0.014,0
+Cleveland Indians,Detroit Tigers,0.4,-14,0.008,0.005,0
+Arizona Diamondbacks,Colorado Rockies,-0.18,96,0.025,0.014,0
+San Diego Padres,Cincinnati Reds,0.48,24,0.018,0.021,0
+Toronto Blue Jays,Chicago White Sox,0.32,-72,-0.016,0.009,1
+Tampa Bay Rays,Baltimore Orioles,0.02,63,0.017,0.013,1
+New York Mets,Atlanta Braves,0.94,-34,-0.033,0.009,0
+Oakland Athletics,Los Angeles Angels of Anaheim,-0.23,52,0.01,0.014,0
+San Francisco Giants,Pittsburgh Pirates,0.56,21,0.004,-0.001,0
+Philadelphia Phillies,Minnesota Twins,0.45,116,0.037,0.011,0
+Chicago Cubs,Miami Marlins,0.9,-141,-0.035,0.007,1
+Seattle Mariners,Detroit Tigers,0.24,-16,0.008,0.008,1
+Arizona Diamondbacks,Colorado Rockies,-0.18,96,0.025,0.014,0
+San Diego Padres,Cincinnati Reds,0.48,24,0.018,0.021,0
+Chicago White Sox,Boston Red Sox,-0.1,180,0.051,0.025,1
+New York Mets,Atlanta Braves,0.94,-34,-0.033,0.009,1
+Oakland Athletics,Los Angeles Angels of Anaheim,-0.23,52,0.01,0.014,0
+Arizona Diamondbacks,Toronto Blue Jays,-1.31,19,-0.006,-0.013,1
+Cincinnati Reds,Texas Rangers,-0.54,68,0.025,0.006,1
+San Francisco Giants,Pittsburgh Pirates,0.56,21,0.004,-0.001,0
+Milwaukee Brewers,Oakland Athletics,0.43,-7,-0.012,0.002,0
+Kansas City Royals,New York Mets,-0.64,9,0.017,-0.015,1
+San Francisco Giants,Pittsburgh Pirates,0.56,21,0.004,-0.001,0
+Milwaukee Brewers,Oakland Athletics,0.43,-7,-0.012,0.002,1
+Kansas City Royals,New York Mets,-0.64,9,0.017,-0.015,1
+Colorado Rockies,New York Yankees,-0.75,-158,-0.052,-0.023,0
+Philadelphia Phillies,Minnesota Twins,0.45,116,0.037,0.011,1
+Atlanta Braves,Miami Marlins,-0.46,11,0.01,0.008,0
+Washington Nationals,Los Angeles Dodgers,0.19,-55,-0.017,-0.007,1
+Los Angeles Angels of Anaheim,Houston Astros,-0.22,3,0.012,-0.013,1
+Seattle Mariners,Detroit Tigers,0.24,-16,0.008,0.008,1
+Tampa Bay Rays,Cleveland Indians,-0.36,86,0.004,0.019,1
+St. Louis Cardinals,Chicago Cubs,-0.93,22,-0.013,0.001,0
+Chicago White Sox,Boston Red Sox,-0.1,180,0.051,0.025,0
+San Diego Padres,Baltimore Orioles,-0.21,56,0.053,0.021,0
+Baltimore Orioles,Texas Rangers,0.15,36,-0.01,0.006,1
+San Francisco Giants,Pittsburgh Pirates,0.56,21,0.004,-0.001,1
+Arizona Diamondbacks,Philadelphia Phillies,-0.46,-135,-0.048,-0.021,0
+Colorado Rockies,Miami Marlins,-0.86,-179,-0.063,-0.012,0
+Washington Nationals,Los Angeles Dodgers,0.19,-55,-0.017,-0.007,1
+Los Angeles Angels of Anaheim,Houston Astros,-0.22,3,0.012,-0.013,1
+Seattle Mariners,Detroit Tigers,0.24,-16,0.008,0.008,1
+Tampa Bay Rays,Cleveland Indians,-0.36,86,0.004,0.019,1
+St. Louis Cardinals,Chicago Cubs,-0.93,22,-0.013,0.001,0
+Chicago White Sox,Boston Red Sox,-0.1,180,0.051,0.025,0
+San Francisco Giants,Tampa Bay Rays,0.55,-28,0.028,-0.015,0
+Texas Rangers,St. Louis Cardinals,-0.29,-1,0.009,-0.007,0
+Washington Nationals,San Diego Padres,0.92,-81,-0.036,-0.021,1
+Arizona Diamondbacks,Philadelphia Phillies,-0.46,-135,-0.048,-0.021,0
+Los Angeles Angels of Anaheim,Oakland Athletics,0.23,-52,-0.01,-0.014,0
+Atlanta Braves,New York Mets,-0.94,34,0.033,-0.009,0
+New York Yankees,Minnesota Twins,0.92,43,0.016,-0.001,1
+Colorado Rockies,Miami Marlins,-0.86,-179,-0.063,-0.012,1
+Milwaukee Brewers,Los Angeles Dodgers,-0.38,39,0.002,0.005,1
+Detroit Tigers,Kansas City Royals,-0.03,-79,-0.038,-0.006,1
+Cincinnati Reds,Houston Astros,-0.85,11,0.009,-0.009,1
+Chicago White Sox,Cleveland Indians,-0.26,77,0.02,0.005,1
+Pittsburgh Pirates,Chicago Cubs,-1.06,71,0.027,-0.001,1
+Seattle Mariners,Boston Red Sox,0,101,0.031,0.023,1
+Toronto Blue Jays,Baltimore Orioles,0.44,-18,0.017,0.008,1
+San Francisco Giants,Tampa Bay Rays,0.55,-28,0.028,-0.015,0
+Texas Rangers,St. Louis Cardinals,-0.29,-1,0.009,-0.007,0
+Washington Nationals,San Diego Padres,0.92,-81,-0.036,-0.021,1
+Arizona Diamondbacks,Philadelphia Phillies,-0.46,-135,-0.048,-0.021,0
+Atlanta Braves,New York Mets,-0.94,34,0.033,-0.009,0
+New York Yankees,Minnesota Twins,0.92,43,0.016,-0.001,0
+Colorado Rockies,Miami Marlins,-0.86,-179,-0.063,-0.012,1
+Milwaukee Brewers,Los Angeles Dodgers,-0.38,39,0.002,0.005,1
+Detroit Tigers,Kansas City Royals,-0.03,-79,-0.038,-0.006,1
+Cincinnati Reds,Houston Astros,-0.85,11,0.009,-0.009,1
+Chicago White Sox,Cleveland Indians,-0.26,77,0.02,0.005,1
+Pittsburgh Pirates,Chicago Cubs,-1.06,71,0.027,-0.001,1
+Seattle Mariners,Boston Red Sox,0,101,0.031,0.023,1
+Toronto Blue Jays,Baltimore Orioles,0.44,-18,0.017,0.008,1
+San Francisco Giants,Tampa Bay Rays,0.55,-28,0.028,-0.015,0
+Texas Rangers,St. Louis Cardinals,-0.29,-1,0.009,-0.007,0
+Washington Nationals,San Diego Padres,0.92,-81,-0.036,-0.021,0
+Arizona Diamondbacks,Philadelphia Phillies,-0.46,-135,-0.048,-0.021,0
+Los Angeles Angels of Anaheim,Oakland Athletics,0.23,-52,-0.01,-0.014,1
+Atlanta Braves,New York Mets,-0.94,34,0.033,-0.009,0
+New York Yankees,Minnesota Twins,0.92,43,0.016,-0.001,0
+Colorado Rockies,Miami Marlins,-0.86,-179,-0.063,-0.012,1
+Milwaukee Brewers,Los Angeles Dodgers,-0.38,39,0.002,0.005,1
+Detroit Tigers,Kansas City Royals,-0.03,-79,-0.038,-0.006,1
+Cincinnati Reds,Houston Astros,-0.85,11,0.009,-0.009,0
+Chicago White Sox,Cleveland Indians,-0.26,77,0.02,0.005,1
+Pittsburgh Pirates,Chicago Cubs,-1.06,71,0.027,-0.001,1
+Seattle Mariners,Boston Red Sox,0,101,0.031,0.023,0
+Toronto Blue Jays,Baltimore Orioles,0.44,-18,0.017,0.008,0
+Seattle Mariners,Tampa Bay Rays,0.2,-88,-0.004,-0.016,0
+Washington Nationals,San Diego Padres,0.92,-81,-0.036,-0.021,0
+Toronto Blue Jays,Philadelphia Phillies,0.85,-154,-0.042,-0.008,0
+Texas Rangers,Oakland Athletics,0.14,-112,-0.038,-0.016,0
+Pittsburgh Pirates,New York Mets,-0.64,-47,0.015,-0.011,1
+New York Yankees,Minnesota Twins,0.92,43,0.016,-0.001,0
+Milwaukee Brewers,Los Angeles Dodgers,-0.38,39,0.002,0.005,0
+New York Yankees,Colorado Rockies,0.75,158,0.052,0.023,1
+Detroit Tigers,Chicago White Sox,-0.14,-63,-0.028,-0.01,1
+Baltimore Orioles,Boston Red Sox,-0.22,126,0.018,0.026,1
+Cincinnati Reds,Atlanta Braves,-0.4,-63,-0.024,-0.001,1
+Los Angeles Dodgers,Arizona Diamondbacks,1.39,29,0.023,0.012,0
+Minnesota Twins,Los Angeles Angels of Anaheim,-0.8,-4,-0.016,0.009,1
+Chicago Cubs,Washington Nationals,0.36,-32,-0.003,0,0
+Philadelphia Phillies,Toronto Blue Jays,-0.85,154,0.042,0.008,1
+Seattle Mariners,Tampa Bay Rays,0.2,-88,-0.004,-0.016,1
+Houston Astros,St. Louis Cardinals,0.02,56,0.025,0.008,0
+Milwaukee Brewers,San Francisco Giants,-0.43,34,-0.009,0.014,1
+Miami Marlins,San Diego Padres,0.38,28,-0.004,-0.028,0
+Texas Rangers,Oakland Athletics,0.14,-112,-0.038,-0.016,0
+Pittsburgh Pirates,New York Mets,-0.64,-47,0.015,-0.011,0
+Cleveland Indians,Kansas City Royals,0.37,-93,-0.03,-0.001,1
+New York Yankees,Colorado Rockies,0.75,158,0.052,0.023,1
+Detroit Tigers,Chicago White Sox,-0.14,-63,-0.028,-0.01,0
+Baltimore Orioles,Boston Red Sox,-0.22,126,0.018,0.026,0
+Cincinnati Reds,Atlanta Braves,-0.4,-63,-0.024,-0.001,0
+Los Angeles Dodgers,Arizona Diamondbacks,1.39,29,0.023,0.012,0
+Minnesota Twins,Los Angeles Angels of Anaheim,-0.8,-4,-0.016,0.009,1
+Chicago Cubs,Washington Nationals,0.36,-32,-0.003,0,1
+Philadelphia Phillies,Toronto Blue Jays,-0.85,154,0.042,0.008,0
+Milwaukee Brewers,San Francisco Giants,-0.43,34,-0.009,0.014,1
+Miami Marlins,San Diego Padres,0.38,28,-0.004,-0.028,0
+Texas Rangers,Oakland Athletics,0.14,-112,-0.038,-0.016,1
+Cleveland Indians,Kansas City Royals,0.37,-93,-0.03,-0.001,1
+Detroit Tigers,Chicago White Sox,-0.14,-63,-0.028,-0.01,1
+Cincinnati Reds,Atlanta Braves,-0.4,-63,-0.024,-0.001,0
+Los Angeles Dodgers,Arizona Diamondbacks,1.39,29,0.023,0.012,1
+Minnesota Twins,Los Angeles Angels of Anaheim,-0.8,-4,-0.016,0.009,0
+Philadelphia Phillies,Washington Nationals,-1.12,161,0.042,0.016,1
+Baltimore Orioles,Toronto Blue Jays,-0.44,18,-0.017,-0.008,1
+Houston Astros,Tampa Bay Rays,0.14,-42,0.009,-0.004,1
+Los Angeles Dodgers,San Francisco Giants,-0.05,-5,-0.011,0.009,1
+Texas Rangers,Seattle Mariners,-0.37,-11,-0.003,-0.003,0
+St. Louis Cardinals,Pittsburgh Pirates,0.13,-49,-0.04,0.002,0
+Detroit Tigers,New York Yankees,-0.08,-72,-0.033,-0.015,0
+Boston Red Sox,Minnesota Twins,1.08,-146,-0.04,-0.031,1
+New York Mets,Milwaukee Brewers,0.51,-8,-0.01,-0.002,1
+San Diego Padres,Colorado Rockies,0.48,151,0.067,0.04,1
+Oakland Athletics,Cincinnati Reds,0.4,44,0.013,0.01,0
+Kansas City Royals,Chicago White Sox,-0.11,16,0.01,-0.004,0
+Miami Marlins,Arizona Diamondbacks,1.04,83,0.038,-0.002,1
+Cleveland Indians,Los Angeles Angels of Anaheim,0.44,-47,-0.025,-0.002,0
+Philadelphia Phillies,Washington Nationals,-1.12,161,0.042,0.016,1
+Baltimore Orioles,Toronto Blue Jays,-0.44,18,-0.017,-0.008,1
+Houston Astros,Tampa Bay Rays,0.14,-42,0.009,-0.004,0
+Los Angeles Dodgers,San Francisco Giants,-0.05,-5,-0.011,0.009,1
+Texas Rangers,Seattle Mariners,-0.37,-11,-0.003,-0.003,0
+St. Louis Cardinals,Pittsburgh Pirates,0.13,-49,-0.04,0.002,0
+Detroit Tigers,New York Yankees,-0.08,-72,-0.033,-0.015,0
+Boston Red Sox,Minnesota Twins,1.08,-146,-0.04,-0.031,0
+New York Mets,Milwaukee Brewers,0.51,-8,-0.01,-0.002,1
+San Diego Padres,Colorado Rockies,0.48,151,0.067,0.04,1
+Oakland Athletics,Cincinnati Reds,0.4,44,0.013,0.01,1
+Kansas City Royals,Chicago White Sox,-0.11,16,0.01,-0.004,0
+Chicago Cubs,Atlanta Braves,1.36,-152,-0.045,-0.001,0
+Miami Marlins,Arizona Diamondbacks,1.04,83,0.038,-0.002,1
+Cleveland Indians,Los Angeles Angels of Anaheim,0.44,-47,-0.025,-0.002,1
+Philadelphia Phillies,Washington Nationals,-1.12,161,0.042,0.016,1
+Baltimore Orioles,Toronto Blue Jays,-0.44,18,-0.017,-0.008,1
+Houston Astros,Tampa Bay Rays,0.14,-42,0.009,-0.004,1
+Los Angeles Dodgers,San Francisco Giants,-0.05,-5,-0.011,0.009,0
+Texas Rangers,Seattle Mariners,-0.37,-11,-0.003,-0.003,1
+St. Louis Cardinals,Pittsburgh Pirates,0.13,-49,-0.04,0.002,0
+Detroit Tigers,New York Yankees,-0.08,-72,-0.033,-0.015,1
+Boston Red Sox,Minnesota Twins,1.08,-146,-0.04,-0.031,0
+New York Mets,Milwaukee Brewers,0.51,-8,-0.01,-0.002,0
+San Diego Padres,Colorado Rockies,0.48,151,0.067,0.04,0
+Oakland Athletics,Cincinnati Reds,0.4,44,0.013,0.01,1
+Kansas City Royals,Chicago White Sox,-0.11,16,0.01,-0.004,1
+Chicago Cubs,Atlanta Braves,1.36,-152,-0.045,-0.001,1
+Miami Marlins,Arizona Diamondbacks,1.04,83,0.038,-0.002,0
+Cleveland Indians,Los Angeles Angels of Anaheim,0.44,-47,-0.025,-0.002,0
+Atlanta Braves,San Diego Padres,-0.08,39,0.006,-0.02,0
+New York Mets,Pittsburgh Pirates,0.64,47,-0.015,0.011,0
+Chicago Cubs,Philadelphia Phillies,1.48,-193,-0.045,-0.016,0
+Los Angeles Angels of Anaheim,New York Yankees,-0.12,-39,0,-0.008,1
+Miami Marlins,Minnesota Twins,1.03,64,0.027,-0.012,1
+Oakland Athletics,Milwaukee Brewers,-0.43,7,0.012,-0.002,1
+Colorado Rockies,Los Angeles Dodgers,-1.21,-125,-0.048,-0.026,0
+Toronto Blue Jays,Detroit Tigers,0.46,-9,0.012,0.019,0
+St. Louis Cardinals,Cincinnati Reds,0.83,-67,-0.034,0.001,0
+Washington Nationals,Chicago White Sox,0.59,-79,-0.016,0.001,0
+Kansas City Royals,Baltimore Orioles,0.01,70,0.043,-0.005,1
+Tampa Bay Rays,Arizona Diamondbacks,0.89,62,0.006,0.018,0
+Houston Astros,Texas Rangers,0.31,57,0.016,0.015,1
+Boston Red Sox,San Francisco Giants,-0.35,-161,-0.063,-0.024,0
+Cleveland Indians,Seattle Mariners,0.16,2,0,-0.003,1
+Atlanta Braves,San Diego Padres,-0.08,39,0.006,-0.02,1
+New York Mets,Pittsburgh Pirates,0.64,47,-0.015,0.011,1
+New York Mets,Pittsburgh Pirates,0.64,47,-0.015,0.011,1
+Chicago Cubs,Philadelphia Phillies,1.48,-193,-0.045,-0.016,1
+Los Angeles Angels of Anaheim,New York Yankees,-0.12,-39,0,-0.008,1
+Miami Marlins,Minnesota Twins,1.03,64,0.027,-0.012,1
+Oakland Athletics,Milwaukee Brewers,-0.43,7,0.012,-0.002,1
+Colorado Rockies,Los Angeles Dodgers,-1.21,-125,-0.048,-0.026,1
+Toronto Blue Jays,Detroit Tigers,0.46,-9,0.012,0.019,1
+St. Louis Cardinals,Cincinnati Reds,0.83,-67,-0.034,0.001,1
+Washington Nationals,Chicago White Sox,0.59,-79,-0.016,0.001,0
+Kansas City Royals,Baltimore Orioles,0.01,70,0.043,-0.005,1
+Tampa Bay Rays,Arizona Diamondbacks,0.89,62,0.006,0.018,1
+Houston Astros,Texas Rangers,0.31,57,0.016,0.015,1
+Cleveland Indians,Seattle Mariners,0.16,2,0,-0.003,0
+Atlanta Braves,San Diego Padres,-0.08,39,0.006,-0.02,1
+Chicago Cubs,Philadelphia Phillies,1.48,-193,-0.045,-0.016,0
+Los Angeles Angels of Anaheim,New York Yankees,-0.12,-39,0,-0.008,1
+Colorado Rockies,Los Angeles Dodgers,-1.21,-125,-0.048,-0.026,0
+Toronto Blue Jays,Detroit Tigers,0.46,-9,0.012,0.019,1
+Kansas City Royals,Baltimore Orioles,0.01,70,0.043,-0.005,1
+Tampa Bay Rays,Arizona Diamondbacks,0.89,62,0.006,0.018,0
+Seattle Mariners,Texas Rangers,0.37,11,0.003,0.003,1
+San Francisco Giants,St. Louis Cardinals,0.43,70,0.044,-0.003,1
+Colorado Rockies,San Diego Padres,-0.48,-151,-0.067,-0.04,0
+Los Angeles Angels of Anaheim,Pittsburgh Pirates,-0.07,10,-0.003,-0.003,0
+Milwaukee Brewers,Philadelphia Phillies,0.55,-67,-0.023,-0.004,1
+Tampa Bay Rays,Minnesota Twins,0.88,43,-0.005,0.008,0
+New York Mets,Miami Marlins,0.48,-23,-0.023,0.017,1
+Atlanta Braves,Los Angeles Dodgers,-0.81,65,0.025,-0.006,1
+Oakland Athletics,Houston Astros,-0.45,55,0.022,0.001,1
+Chicago White Sox,Detroit Tigers,0.14,63,0.028,0.01,1
+Kansas City Royals,Cleveland Indians,-0.37,93,0.03,0.001,1
+Washington Nationals,Cincinnati Reds,1.4,-57,-0.018,0,0
+Arizona Diamondbacks,Chicago Cubs,-1.94,58,-0.003,-0.005,0
+Toronto Blue Jays,Boston Red Sox,0.22,108,0.035,0.034,0
+New York Yankees,Baltimore Orioles,0.06,63,0.038,0.004,1
+Seattle Mariners,Texas Rangers,0.37,11,0.003,0.003,1
+Colorado Rockies,San Diego Padres,-0.48,-151,-0.067,-0.04,1
+Los Angeles Angels of Anaheim,Pittsburgh Pirates,-0.07,10,-0.003,-0.003,1
+Milwaukee Brewers,Philadelphia Phillies,0.55,-67,-0.023,-0.004,0
+Tampa Bay Rays,Minnesota Twins,0.88,43,-0.005,0.008,0
+New York Mets,Miami Marlins,0.48,-23,-0.023,0.017,0
+Atlanta Braves,Los Angeles Dodgers,-0.81,65,0.025,-0.006,1
+Oakland Athletics,Houston Astros,-0.45,55,0.022,0.001,1
+Chicago White Sox,Detroit Tigers,0.14,63,0.028,0.01,1
+Kansas City Royals,Cleveland Indians,-0.37,93,0.03,0.001,1
+Washington Nationals,Cincinnati Reds,1.4,-57,-0.018,0,1
+Arizona Diamondbacks,Chicago Cubs,-1.94,58,-0.003,-0.005,1
+Toronto Blue Jays,Boston Red Sox,0.22,108,0.035,0.034,1
+New York Yankees,Baltimore Orioles,0.06,63,0.038,0.004,0
+Seattle Mariners,Texas Rangers,0.37,11,0.003,0.003,1
+San Francisco Giants,St. Louis Cardinals,0.43,70,0.044,-0.003,0
+Colorado Rockies,San Diego Padres,-0.48,-151,-0.067,-0.04,1
+Los Angeles Angels of Anaheim,Pittsburgh Pirates,-0.07,10,-0.003,-0.003,0
+Milwaukee Brewers,Philadelphia Phillies,0.55,-67,-0.023,-0.004,1
+Tampa Bay Rays,Minnesota Twins,0.88,43,-0.005,0.008,0
+New York Mets,Miami Marlins,0.48,-23,-0.023,0.017,0
+Atlanta Braves,Los Angeles Dodgers,-0.81,65,0.025,-0.006,1
+Oakland Athletics,Houston Astros,-0.45,55,0.022,0.001,1
+Chicago White Sox,Detroit Tigers,0.14,63,0.028,0.01,1
+Kansas City Royals,Cleveland Indians,-0.37,93,0.03,0.001,1
+Washington Nationals,Cincinnati Reds,1.4,-57,-0.018,0,1
+Arizona Diamondbacks,Chicago Cubs,-1.94,58,-0.003,-0.005,1
+Toronto Blue Jays,Boston Red Sox,0.22,108,0.035,0.034,0
+New York Yankees,Baltimore Orioles,0.06,63,0.038,0.004,1
+Seattle Mariners,San Diego Padres,0.43,-81,-0.04,-0.024,0
+Milwaukee Brewers,Philadelphia Phillies,0.55,-67,-0.023,-0.004,0
+Tampa Bay Rays,Minnesota Twins,0.88,43,-0.005,0.008,1
+Pittsburgh Pirates,Miami Marlins,-0.16,-70,-0.008,0.006,1
+St. Louis Cardinals,Milwaukee Brewers,0,-104,-0.035,-0.011,1
+Pittsburgh Pirates,Miami Marlins,-0.16,-70,-0.008,0.006,1
+Tampa Bay Rays,Kansas City Royals,0.01,-7,-0.026,0.018,1
+Arizona Diamondbacks,Houston Astros,-1.03,-20,-0.015,-0.014,1
+Cincinnati Reds,Colorado Rockies,0,127,0.049,0.019,0
+Texas Rangers,Cleveland Indians,-0.53,-13,-0.003,0,1
+Los Angeles Dodgers,Chicago Cubs,-0.55,87,0.02,0.007,1
+Boston Red Sox,Baltimore Orioles,0.22,-126,-0.018,-0.026,1
+San Francisco Giants,Atlanta Braves,0.86,-60,-0.014,-0.003,1
+Detroit Tigers,Los Angeles Angels of Anaheim,0.04,-33,-0.033,-0.007,0
+New York Yankees,Toronto Blue Jays,-0.38,81,0.021,-0.004,1
+San Diego Padres,Seattle Mariners,-0.43,81,0.04,0.024,1
+Washington Nationals,Philadelphia Phillies,1.12,-161,-0.042,-0.016,0
+Minnesota Twins,Oakland Athletics,-0.57,-56,-0.026,-0.005,1
+Chicago White Sox,New York Mets,-0.53,-7,0.007,-0.011,0
+St. Louis Cardinals,Milwaukee Brewers,0,-104,-0.035,-0.011,0
+Pittsburgh Pirates,Miami Marlins,-0.16,-70,-0.008,0.006,1
+Tampa Bay Rays,Kansas City Royals,0.01,-7,-0.026,0.018,1
+Cincinnati Reds,Colorado Rockies,0,127,0.049,0.019,1
+Texas Rangers,Cleveland Indians,-0.53,-13,-0.003,0,0
+Los Angeles Dodgers,Chicago Cubs,-0.55,87,0.02,0.007,0
+Boston Red Sox,Baltimore Orioles,0.22,-126,-0.018,-0.026,0
+San Francisco Giants,Atlanta Braves,0.86,-60,-0.014,-0.003,0
+Houston Astros,Arizona Diamondbacks,1.03,20,0.015,0.014,0
+Detroit Tigers,Los Angeles Angels of Anaheim,0.04,-33,-0.033,-0.007,1
+New York Yankees,Toronto Blue Jays,-0.38,81,0.021,-0.004,1
+San Diego Padres,Seattle Mariners,-0.43,81,0.04,0.024,1
+Washington Nationals,Philadelphia Phillies,1.12,-161,-0.042,-0.016,0
+Minnesota Twins,Oakland Athletics,-0.57,-56,-0.026,-0.005,1
+Chicago White Sox,New York Mets,-0.53,-7,0.007,-0.011,1
+St. Louis Cardinals,Milwaukee Brewers,0,-104,-0.035,-0.011,0
+Pittsburgh Pirates,Miami Marlins,-0.16,-70,-0.008,0.006,0
+Tampa Bay Rays,Kansas City Royals,0.01,-7,-0.026,0.018,1
+Cincinnati Reds,Colorado Rockies,0,127,0.049,0.019,0
+Texas Rangers,Cleveland Indians,-0.53,-13,-0.003,0,0
+Los Angeles Dodgers,Chicago Cubs,-0.55,87,0.02,0.007,1
+Boston Red Sox,Baltimore Orioles,0.22,-126,-0.018,-0.026,0
+San Francisco Giants,Atlanta Braves,0.86,-60,-0.014,-0.003,1
+Houston Astros,Arizona Diamondbacks,1.03,20,0.015,0.014,0
+Detroit Tigers,Los Angeles Angels of Anaheim,0.04,-33,-0.033,-0.007,1
+St. Louis Cardinals,Washington Nationals,-0.57,-10,-0.016,0.001,1
+Boston Red Sox,Toronto Blue Jays,-0.22,-108,-0.035,-0.034,0
+Pittsburgh Pirates,Texas Rangers,0.16,50,0.031,0.005,1
+New York Yankees,Tampa Bay Rays,0.04,0,0.021,-0.009,0
+Minnesota Twins,Seattle Mariners,-1.08,45,0.009,0.008,0
+Detroit Tigers,Oakland Athletics,0.27,-85,-0.043,-0.021,1
+Los Angeles Dodgers,New York Mets,-0.13,-31,0.008,-0.003,0
+Cincinnati Reds,Milwaukee Brewers,-0.83,-37,-0.001,-0.012,1
+Chicago White Sox,Kansas City Royals,0.11,-16,-0.01,0.004,1
+San Francisco Giants,Colorado Rockies,1.26,130,0.059,0.017,0
+Baltimore Orioles,Cleveland Indians,-0.38,23,-0.013,0.006,0
+Philadelphia Phillies,Chicago Cubs,-1.48,193,0.045,0.016,1
+Miami Marlins,Atlanta Braves,0.46,-11,-0.01,-0.008,0
+San Diego Padres,Arizona Diamondbacks,0.66,55,0.042,0.026,1
+St. Louis Cardinals,Washington Nationals,-0.57,-10,-0.016,0.001,0
+Boston Red Sox,Toronto Blue Jays,-0.22,-108,-0.035,-0.034,1
+Pittsburgh Pirates,Texas Rangers,0.16,50,0.031,0.005,1
+New York Yankees,Tampa Bay Rays,0.04,0,0.021,-0.009,1
+Minnesota Twins,Seattle Mariners,-1.08,45,0.009,0.008,0
+Detroit Tigers,Oakland Athletics,0.27,-85,-0.043,-0.021,1
+Los Angeles Dodgers,New York Mets,-0.13,-31,0.008,-0.003,0
+Cincinnati Reds,Milwaukee Brewers,-0.83,-37,-0.001,-0.012,0
+Chicago White Sox,Kansas City Royals,0.11,-16,-0.01,0.004,1
+San Francisco Giants,Colorado Rockies,1.26,130,0.059,0.017,0
+Baltimore Orioles,Cleveland Indians,-0.38,23,-0.013,0.006,1
+Philadelphia Phillies,Chicago Cubs,-1.48,193,0.045,0.016,1
+Miami Marlins,Atlanta Braves,0.46,-11,-0.01,-0.008,1
+San Diego Padres,Arizona Diamondbacks,0.66,55,0.042,0.026,1
+Houston Astros,Los Angeles Angels of Anaheim,0.22,-3,-0.012,0.013,0
+St. Louis Cardinals,Washington Nationals,-0.57,-10,-0.016,0.001,0
+Boston Red Sox,Toronto Blue Jays,-0.22,-108,-0.035,-0.034,1
+Pittsburgh Pirates,Texas Rangers,0.16,50,0.031,0.005,0
+New York Yankees,Tampa Bay Rays,0.04,0,0.021,-0.009,0
+Minnesota Twins,Seattle Mariners,-1.08,45,0.009,0.008,0
+Detroit Tigers,Oakland Athletics,0.27,-85,-0.043,-0.021,0
+Los Angeles Dodgers,New York Mets,-0.13,-31,0.008,-0.003,1
+Cincinnati Reds,Milwaukee Brewers,-0.83,-37,-0.001,-0.012,1
+Chicago White Sox,Kansas City Royals,0.11,-16,-0.01,0.004,1
+San Francisco Giants,Colorado Rockies,1.26,130,0.059,0.017,1
+Baltimore Orioles,Cleveland Indians,-0.38,23,-0.013,0.006,0
+Philadelphia Phillies,Chicago Cubs,-1.48,193,0.045,0.016,1
+Miami Marlins,Atlanta Braves,0.46,-11,-0.01,-0.008,1
+San Diego Padres,Arizona Diamondbacks,0.66,55,0.042,0.026,0
+Houston Astros,Los Angeles Angels of Anaheim,0.22,-3,-0.012,0.013,1
+Oakland Athletics,Seattle Mariners,-0.51,101,0.035,0.013,1
+Arizona Diamondbacks,Pittsburgh Pirates,-0.88,-13,-0.03,-0.004,1
+Toronto Blue Jays,New York Yankees,0.38,-81,-0.021,0.004,0
+Kansas City Royals,Minnesota Twins,0.87,50,0.021,-0.01,1
+Cincinnati Reds,Los Angeles Dodgers,-1.21,2,0.001,-0.007,1
+Baltimore Orioles,Houston Astros,-0.16,-21,-0.026,-0.009,1
+Philadelphia Phillies,Detroit Tigers,-0.39,145,0.054,0.027,0
+Cleveland Indians,Chicago White Sox,0.26,-77,-0.02,-0.005,0
+Colorado Rockies,Boston Red Sox,-0.91,31,0.004,0.007,1
+Milwaukee Brewers,Atlanta Braves,0.43,-26,-0.023,0.011,0
+New York Mets,Washington Nationals,-0.06,86,0.009,0.01,1
+Los Angeles Angels of Anaheim,Texas Rangers,0.09,60,0.028,0.002,1
+Chicago Cubs,St. Louis Cardinals,0.93,-22,0.013,-0.001,0
+San Diego Padres,San Francisco Giants,-0.78,21,0.008,0.023,1
+Oakland Athletics,Seattle Mariners,-0.51,101,0.035,0.013,1
+Arizona Diamondbacks,Pittsburgh Pirates,-0.88,-13,-0.03,-0.004,1
+Toronto Blue Jays,New York Yankees,0.38,-81,-0.021,0.004,1
+Kansas City Royals,Minnesota Twins,0.87,50,0.021,-0.01,0
+Tampa Bay Rays,Miami Marlins,-0.15,-21,-0.032,0.02,0
+Cincinnati Reds,Los Angeles Dodgers,-1.21,2,0.001,-0.007,1
+Baltimore Orioles,Houston Astros,-0.16,-21,-0.026,-0.009,1
+Philadelphia Phillies,Detroit Tigers,-0.39,145,0.054,0.027,1
+Cleveland Indians,Chicago White Sox,0.26,-77,-0.02,-0.005,0
+Colorado Rockies,Boston Red Sox,-0.91,31,0.004,0.007,1
+Milwaukee Brewers,Atlanta Braves,0.43,-26,-0.023,0.011,0
+New York Mets,Washington Nationals,-0.06,86,0.009,0.01,0
+Los Angeles Angels of Anaheim,Texas Rangers,0.09,60,0.028,0.002,0
+Chicago Cubs,St. Louis Cardinals,0.93,-22,0.013,-0.001,1
+San Diego Padres,San Francisco Giants,-0.78,21,0.008,0.023,1
+Oakland Athletics,Seattle Mariners,-0.51,101,0.035,0.013,0
+Colorado Rockies,Pittsburgh Pirates,-0.7,-109,-0.055,-0.018,1
+Kansas City Royals,Minnesota Twins,0.87,50,0.021,-0.01,0
+Tampa Bay Rays,Miami Marlins,-0.15,-21,-0.032,0.02,1
+Cincinnati Reds,Los Angeles Dodgers,-1.21,2,0.001,-0.007,1
+Philadelphia Phillies,Detroit Tigers,-0.39,145,0.054,0.027,1
+Cleveland Indians,Chicago White Sox,0.26,-77,-0.02,-0.005,0
+Cleveland Indians,Chicago White Sox,0.26,-77,-0.02,-0.005,1
+Arizona Diamondbacks,St. Louis Cardinals,-1.01,36,0.01,-0.006,0
+Chicago Cubs,San Francisco Giants,0.5,-92,-0.031,0.002,1
+Los Angeles Dodgers,San Diego Padres,0.73,-26,-0.019,-0.014,0
+Atlanta Braves,Philadelphia Phillies,0.12,-41,0,-0.015,1
+New York Yankees,Oakland Athletics,0.35,-13,-0.01,-0.006,0
+Milwaukee Brewers,New York Mets,-0.51,8,0.01,0.002,1
+Toronto Blue Jays,Minnesota Twins,1.3,-38,-0.005,0.003,0
+Washington Nationals,Miami Marlins,0.54,-109,-0.032,0.007,0
+Texas Rangers,Houston Astros,-0.31,-57,-0.016,-0.015,0
+Tampa Bay Rays,Detroit Tigers,0.04,72,0.012,0.024,1
+Seattle Mariners,Cincinnati Reds,0.91,-57,-0.022,-0.003,0
+Kansas City Royals,Chicago White Sox,-0.11,16,0.01,-0.004,1
+Cleveland Indians,Boston Red Sox,0.16,103,0.031,0.02,1
+Arizona Diamondbacks,St. Louis Cardinals,-1.01,36,0.01,-0.006,1
+Chicago Cubs,San Francisco Giants,0.5,-92,-0.031,0.002,1
+Los Angeles Dodgers,San Diego Padres,0.73,-26,-0.019,-0.014,1
+Colorado Rockies,Pittsburgh Pirates,-0.7,-109,-0.055,-0.018,0
+Atlanta Braves,Philadelphia Phillies,0.12,-41,0,-0.015,0
+New York Yankees,Oakland Athletics,0.35,-13,-0.01,-0.006,0
+Milwaukee Brewers,New York Mets,-0.51,8,0.01,0.002,1
+Toronto Blue Jays,Minnesota Twins,1.3,-38,-0.005,0.003,1
+Washington Nationals,Miami Marlins,0.54,-109,-0.032,0.007,1
+Texas Rangers,Houston Astros,-0.31,-57,-0.016,-0.015,0
+Tampa Bay Rays,Detroit Tigers,0.04,72,0.012,0.024,1
+Seattle Mariners,Cincinnati Reds,0.91,-57,-0.022,-0.003,0
+Kansas City Royals,Chicago White Sox,-0.11,16,0.01,-0.004,0
+Cleveland Indians,Boston Red Sox,0.16,103,0.031,0.02,1
+Baltimore Orioles,Los Angeles Angels of Anaheim,0.06,-24,-0.038,0.004,0
+Arizona Diamondbacks,St. Louis Cardinals,-1.01,36,0.01,-0.006,0
+Chicago Cubs,San Francisco Giants,0.5,-92,-0.031,0.002,0
+Los Angeles Dodgers,San Diego Padres,0.73,-26,-0.019,-0.014,1
+Colorado Rockies,Pittsburgh Pirates,-0.7,-109,-0.055,-0.018,1
+San Francisco Giants,San Diego Padres,0.78,-21,-0.008,-0.023,0
+Atlanta Braves,Pittsburgh Pirates,-0.3,81,0.018,0.002,1
+New York Yankees,Oakland Athletics,0.35,-13,-0.01,-0.006,0
+Washington Nationals,New York Mets,0.06,-86,-0.009,-0.01,0
+Toronto Blue Jays,Minnesota Twins,1.3,-38,-0.005,0.003,0
+Chicago Cubs,Milwaukee Brewers,0.93,-126,-0.022,-0.012,1
+Cleveland Indians,Cincinnati Reds,1.07,-55,-0.022,-0.006,0
+Houston Astros,Chicago White Sox,0.04,-33,-0.007,0.01,1
+Seattle Mariners,Baltimore Orioles,0.22,-25,0.013,-0.003,0
+Los Angeles Dodgers,Los Angeles Angels of Anaheim,0.58,6,-0.004,0.011,1
+Tampa Bay Rays,Toronto Blue Jays,-0.42,81,0,0.005,0
+Colorado Rockies,St. Louis Cardinals,-0.83,-60,-0.015,-0.02,1
+San Francisco Giants,San Diego Padres,0.78,-21,-0.008,-0.023,0
+Atlanta Braves,Pittsburgh Pirates,-0.3,81,0.018,0.002,0
+Miami Marlins,Philadelphia Phillies,0.58,-52,-0.01,-0.023,1
+Texas Rangers,Oakland Athletics,0.14,-112,-0.038,-0.016,1
+Washington Nationals,New York Mets,0.06,-86,-0.009,-0.01,0
+Chicago Cubs,Milwaukee Brewers,0.93,-126,-0.022,-0.012,0
+Boston Red Sox,Kansas City Royals,0.21,-196,-0.061,-0.021,0
+Boston Red Sox,Kansas City Royals,0.21,-196,-0.061,-0.021,1
+Minnesota Twins,Detroit Tigers,-0.84,29,0.017,0.016,1
+Cleveland Indians,Cincinnati Reds,1.07,-55,-0.022,-0.006,0
+Houston Astros,Chicago White Sox,0.04,-33,-0.007,0.01,0
+Seattle Mariners,Baltimore Orioles,0.22,-25,0.013,-0.003,1
+New York Yankees,Arizona Diamondbacks,0.93,62,0.027,0.009,0
+Los Angeles Dodgers,Los Angeles Angels of Anaheim,0.58,6,-0.004,0.011,1
+Tampa Bay Rays,Toronto Blue Jays,-0.42,81,0,0.005,0
+Colorado Rockies,St. Louis Cardinals,-0.83,-60,-0.015,-0.02,0
+San Francisco Giants,San Diego Padres,0.78,-21,-0.008,-0.023,0
+Atlanta Braves,Pittsburgh Pirates,-0.3,81,0.018,0.002,1
+Miami Marlins,Philadelphia Phillies,0.58,-52,-0.01,-0.023,1
+Texas Rangers,Oakland Athletics,0.14,-112,-0.038,-0.016,1
+Washington Nationals,New York Mets,0.06,-86,-0.009,-0.01,1
+Chicago Cubs,Milwaukee Brewers,0.93,-126,-0.022,-0.012,1
+Los Angeles Angels of Anaheim,Los Angeles Dodgers,-0.58,-6,0.004,-0.011,1
+Boston Red Sox,Kansas City Royals,0.21,-196,-0.061,-0.021,1
+Minnesota Twins,Detroit Tigers,-0.84,29,0.017,0.016,1
+Cincinnati Reds,Cleveland Indians,-1.07,55,0.022,0.006,1
+Houston Astros,Chicago White Sox,0.04,-33,-0.007,0.01,0
+Seattle Mariners,Baltimore Orioles,0.22,-25,0.013,-0.003,0
+New York Yankees,Arizona Diamondbacks,0.93,62,0.027,0.009,1
+Tampa Bay Rays,Toronto Blue Jays,-0.42,81,0,0.005,0
+Atlanta Braves,Pittsburgh Pirates,-0.3,81,0.018,0.002,1
+Miami Marlins,Philadelphia Phillies,0.58,-52,-0.01,-0.023,0
+Texas Rangers,Oakland Athletics,0.14,-112,-0.038,-0.016,1
+Los Angeles Angels of Anaheim,Los Angeles Dodgers,-0.58,-6,0.004,-0.011,0
+Minnesota Twins,Detroit Tigers,-0.84,29,0.017,0.016,1
+Cincinnati Reds,Cleveland Indians,-1.07,55,0.022,0.006,1
+New York Yankees,Arizona Diamondbacks,0.93,62,0.027,0.009,1
+Miami Marlins,Washington Nationals,-0.54,109,0.032,-0.007,0
+Toronto Blue Jays,Texas Rangers,0.59,18,0.007,0.014,1
+Oakland Athletics,Tampa Bay Rays,-0.31,13,0.031,-0.003,0
+Los Angeles Angels of Anaheim,Seattle Mariners,-0.28,49,0.025,-0.001,0
+Chicago White Sox,New York Yankees,0.06,-9,-0.005,-0.005,1
+San Diego Padres,Milwaukee Brewers,-0.35,-13,0.017,0.009,1
+St. Louis Cardinals,Los Angeles Dodgers,-0.38,-65,-0.033,-0.006,0
+Atlanta Braves,Kansas City Royals,-0.3,25,0.016,0.006,1
+New York Mets,Colorado Rockies,1.34,156,0.04,0.029,1
+Minnesota Twins,Cleveland Indians,-1.24,43,0.009,0.011,0
+Pittsburgh Pirates,Chicago Cubs,-1.06,71,0.027,-0.001,0
+Houston Astros,Boston Red Sox,-0.06,147,0.044,0.035,1
+Detroit Tigers,Baltimore Orioles,-0.02,-9,0.005,-0.011,0
+San Francisco Giants,Arizona Diamondbacks,1.44,34,0.034,0.003,0
+Miami Marlins,Washington Nationals,-0.54,109,0.032,-0.007,0
+Miami Marlins,Washington Nationals,-0.54,109,0.032,-0.007,1
+Toronto Blue Jays,Texas Rangers,0.59,18,0.007,0.014,1
+Oakland Athletics,Tampa Bay Rays,-0.31,13,0.031,-0.003,1
+Los Angeles Angels of Anaheim,Seattle Mariners,-0.28,49,0.025,-0.001,0
+Cincinnati Reds,Philadelphia Phillies,-0.28,-104,-0.024,-0.016,1
+Chicago White Sox,New York Yankees,0.06,-9,-0.005,-0.005,1
+San Diego Padres,Milwaukee Brewers,-0.35,-13,0.017,0.009,0
+St. Louis Cardinals,Los Angeles Dodgers,-0.38,-65,-0.033,-0.006,1
+Atlanta Braves,Kansas City Royals,-0.3,25,0.016,0.006,0
+New York Mets,Colorado Rockies,1.34,156,0.04,0.029,1
+Minnesota Twins,Cleveland Indians,-1.24,43,0.009,0.011,0
+Pittsburgh Pirates,Chicago Cubs,-1.06,71,0.027,-0.001,1
+Houston Astros,Boston Red Sox,-0.06,147,0.044,0.035,1
+Detroit Tigers,Baltimore Orioles,-0.02,-9,0.005,-0.011,1
+San Francisco Giants,Arizona Diamondbacks,1.44,34,0.034,0.003,0
+Miami Marlins,Washington Nationals,-0.54,109,0.032,-0.007,1
+Toronto Blue Jays,Texas Rangers,0.59,18,0.007,0.014,0
+San Francisco Giants,Arizona Diamondbacks,1.44,34,0.034,0.003,0
+Kansas City Royals,New York Yankees,-0.05,7,0.005,-0.009,1
+San Diego Padres,Milwaukee Brewers,-0.35,-13,0.017,0.009,0
+New York Mets,Los Angeles Dodgers,0.13,31,-0.008,0.003,1
+Houston Astros,Boston Red Sox,-0.06,147,0.044,0.035,1
+Detroit Tigers,Baltimore Orioles,-0.02,-9,0.005,-0.011,1
+Philadelphia Phillies,Atlanta Braves,-0.12,41,0,0.015,0
+San Francisco Giants,Arizona Diamondbacks,1.44,34,0.034,0.003,0
+St. Louis Cardinals,Los Angeles Angels of Anaheim,0.2,-59,-0.037,0.005,0
+Detroit Tigers,Washington Nationals,-0.73,16,-0.012,-0.011,1
+Chicago White Sox,Texas Rangers,0.27,90,0.023,0.005,1
+Toronto Blue Jays,San Francisco Giants,-0.13,-53,-0.028,0.01,1
+Tampa Bay Rays,Seattle Mariners,-0.2,88,0.004,0.016,1
+Kansas City Royals,New York Yankees,-0.05,7,0.005,-0.009,0
+Baltimore Orioles,Minnesota Twins,0.86,-20,-0.022,-0.005,0
+Milwaukee Brewers,Miami Marlins,-0.03,-15,-0.013,0.019,1
+New York Mets,Los Angeles Dodgers,0.13,31,-0.008,0.003,0
+Cleveland Indians,Houston Astros,0.22,-44,-0.013,-0.015,1
+Arizona Diamondbacks,Colorado Rockies,-0.18,96,0.025,0.014,1
+Pittsburgh Pirates,Cincinnati Reds,0.7,-18,0.006,-0.001,0
+San Diego Padres,Chicago Cubs,-1.28,113,0.039,0.021,0
+San Diego Padres,Chicago Cubs,-1.28,113,0.039,0.021,0
+Oakland Athletics,Boston Red Sox,-0.51,202,0.066,0.036,1
+Philadelphia Phillies,Atlanta Braves,-0.12,41,0,0.015,1
+St. Louis Cardinals,Los Angeles Angels of Anaheim,0.2,-59,-0.037,0.005,0
+Detroit Tigers,Washington Nationals,-0.73,16,-0.012,-0.011,0
+Chicago White Sox,Texas Rangers,0.27,90,0.023,0.005,1
+Toronto Blue Jays,San Francisco Giants,-0.13,-53,-0.028,0.01,0
+Tampa Bay Rays,Seattle Mariners,-0.2,88,0.004,0.016,1
+Kansas City Royals,New York Yankees,-0.05,7,0.005,-0.009,1
+Baltimore Orioles,Minnesota Twins,0.86,-20,-0.022,-0.005,0
+Milwaukee Brewers,Miami Marlins,-0.03,-15,-0.013,0.019,0
+New York Mets,Los Angeles Dodgers,0.13,31,-0.008,0.003,1
+Cleveland Indians,Houston Astros,0.22,-44,-0.013,-0.015,0
+Arizona Diamondbacks,Colorado Rockies,-0.18,96,0.025,0.014,0
+San Diego Padres,Chicago Cubs,-1.28,113,0.039,0.021,1
+Oakland Athletics,Boston Red Sox,-0.51,202,0.066,0.036,1
+Philadelphia Phillies,Atlanta Braves,-0.12,41,0,0.015,0
+St. Louis Cardinals,Los Angeles Angels of Anaheim,0.2,-59,-0.037,0.005,0
+Detroit Tigers,Washington Nationals,-0.73,16,-0.012,-0.011,1
+Chicago White Sox,Texas Rangers,0.27,90,0.023,0.005,0
+Toronto Blue Jays,San Francisco Giants,-0.13,-53,-0.028,0.01,0
+Kansas City Royals,New York Yankees,-0.05,7,0.005,-0.009,1
+Milwaukee Brewers,Miami Marlins,-0.03,-15,-0.013,0.019,1
+New York Mets,Los Angeles Dodgers,0.13,31,-0.008,0.003,0
+Cleveland Indians,Houston Astros,0.22,-44,-0.013,-0.015,1
+Arizona Diamondbacks,Colorado Rockies,-0.18,96,0.025,0.014,0
+Pittsburgh Pirates,Cincinnati Reds,0.7,-18,0.006,-0.001,1
+Oakland Athletics,Boston Red Sox,-0.51,202,0.066,0.036,1
+Los Angeles Dodgers,Toronto Blue Jays,0.08,48,0.017,-0.001,0
+Pittsburgh Pirates,St. Louis Cardinals,-0.13,49,0.04,-0.002,0
+Colorado Rockies,San Francisco Giants,-1.26,-130,-0.059,-0.017,0
+New York Mets,San Diego Padres,0.86,5,-0.027,-0.011,0
+Boston Red Sox,New York Yankees,0.16,-189,-0.056,-0.03,0
+Philadelphia Phillies,Miami Marlins,-0.58,52,0.01,0.023,0
+Seattle Mariners,Houston Astros,0.06,-46,-0.013,-0.012,1
+Texas Rangers,Detroit Tigers,-0.13,-27,0.005,0.005,0
+Kansas City Royals,Cleveland Indians,-0.37,93,0.03,0.001,1
+Milwaukee Brewers,Cincinnati Reds,0.83,37,0.001,0.012,0
+Washington Nationals,Chicago Cubs,-0.36,32,0.003,0,1
+Minnesota Twins,Chicago White Sox,-0.98,-34,-0.011,0.006,1
+Oakland Athletics,Baltimore Orioles,-0.29,76,0.048,0.01,1
+Arizona Diamondbacks,Atlanta Braves,-0.58,-94,-0.048,-0.006,0
+Tampa Bay Rays,Los Angeles Angels of Anaheim,0.08,39,-0.021,0.017,0
+Los Angeles Dodgers,Toronto Blue Jays,0.08,48,0.017,-0.001,0
+Oakland Athletics,Baltimore Orioles,-0.29,76,0.048,0.01,0
+Arizona Diamondbacks,Atlanta Braves,-0.58,-94,-0.048,-0.006,0
+Tampa Bay Rays,Los Angeles Angels of Anaheim,0.08,39,-0.021,0.017,0
+Los Angeles Dodgers,Toronto Blue Jays,0.08,48,0.017,-0.001,1
+Pittsburgh Pirates,St. Louis Cardinals,-0.13,49,0.04,-0.002,0
+Colorado Rockies,San Francisco Giants,-1.26,-130,-0.059,-0.017,1
+New York Mets,San Diego Padres,0.86,5,-0.027,-0.011,1
+Boston Red Sox,New York Yankees,0.16,-189,-0.056,-0.03,1
+Philadelphia Phillies,Miami Marlins,-0.58,52,0.01,0.023,1
+Seattle Mariners,Houston Astros,0.06,-46,-0.013,-0.012,1
+Texas Rangers,Detroit Tigers,-0.13,-27,0.005,0.005,0
+Kansas City Royals,Cleveland Indians,-0.37,93,0.03,0.001,1
+Milwaukee Brewers,Cincinnati Reds,0.83,37,0.001,0.012,1
+Washington Nationals,Chicago Cubs,-0.36,32,0.003,0,1
+Minnesota Twins,Chicago White Sox,-0.98,-34,-0.011,0.006,1
+Arizona Diamondbacks,Atlanta Braves,-0.58,-94,-0.048,-0.006,0
+Tampa Bay Rays,Los Angeles Angels of Anaheim,0.08,39,-0.021,0.017,0
+Texas Rangers,Toronto Blue Jays,-0.59,-18,-0.007,-0.014,1
+Philadelphia Phillies,St. Louis Cardinals,-0.55,171,0.058,0.015,1
+Colorado Rockies,San Francisco Giants,-1.26,-130,-0.059,-0.017,0
+New York Mets,San Diego Padres,0.86,5,-0.027,-0.011,1
+Arizona Diamondbacks,Miami Marlins,-1.04,-83,-0.038,0.002,1
+Seattle Mariners,Houston Astros,0.06,-46,-0.013,-0.012,0
+Detroit Tigers,Cleveland Indians,-0.4,14,-0.008,-0.005,1
+Milwaukee Brewers,Cincinnati Reds,0.83,37,0.001,0.012,1
+Washington Nationals,Chicago Cubs,-0.36,32,0.003,0,1
+Boston Red Sox,Chicago White Sox,0.1,-180,-0.051,-0.025,0
+New York Yankees,Baltimore Orioles,0.06,63,0.038,0.004,1
+Texas Rangers,Toronto Blue Jays,-0.59,-18,-0.007,-0.014,1
+Los Angeles Dodgers,Tampa Bay Rays,0.5,-33,0.017,-0.006,1
+Philadelphia Phillies,St. Louis Cardinals,-0.55,171,0.058,0.015,1
+Colorado Rockies,San Diego Padres,-0.48,-151,-0.067,-0.04,0
+Chicago Cubs,Pittsburgh Pirates,1.06,-71,-0.027,0.001,0
+Seattle Mariners,Oakland Athletics,0.51,-101,-0.035,-0.013,0
+Atlanta Braves,New York Mets,-0.94,34,0.033,-0.009,1
+Los Angeles Angels of Anaheim,Milwaukee Brewers,-0.2,-45,0.002,-0.016,0
+Arizona Diamondbacks,Miami Marlins,-1.04,-83,-0.038,0.002,1
+Washington Nationals,Kansas City Royals,0.7,-95,-0.026,0.005,0
+Minnesota Twins,Houston Astros,-1.02,-1,-0.004,-0.004,1
+Detroit Tigers,Cleveland Indians,-0.4,14,-0.008,-0.005,1
+San Francisco Giants,Cincinnati Reds,1.26,3,0.01,-0.002,1
+Boston Red Sox,Chicago White Sox,0.1,-180,-0.051,-0.025,0
+New York Yankees,Baltimore Orioles,0.06,63,0.038,0.004,0
+Texas Rangers,Toronto Blue Jays,-0.59,-18,-0.007,-0.014,1
+Los Angeles Dodgers,Tampa Bay Rays,0.5,-33,0.017,-0.006,0
+Colorado Rockies,San Diego Padres,-0.48,-151,-0.067,-0.04,1
+Chicago Cubs,Pittsburgh Pirates,1.06,-71,-0.027,0.001,0
+Seattle Mariners,Oakland Athletics,0.51,-101,-0.035,-0.013,0
+Atlanta Braves,New York Mets,-0.94,34,0.033,-0.009,0
+Los Angeles Angels of Anaheim,Milwaukee Brewers,-0.2,-45,0.002,-0.016,1
+Arizona Diamondbacks,Miami Marlins,-1.04,-83,-0.038,0.002,1
+Washington Nationals,Kansas City Royals,0.7,-95,-0.026,0.005,1
+Minnesota Twins,Houston Astros,-1.02,-1,-0.004,-0.004,1
+Detroit Tigers,Cleveland Indians,-0.4,14,-0.008,-0.005,1
+San Francisco Giants,Cincinnati Reds,1.26,3,0.01,-0.002,0
+Boston Red Sox,Chicago White Sox,0.1,-180,-0.051,-0.025,1
+New York Yankees,Baltimore Orioles,0.06,63,0.038,0.004,1
+Texas Rangers,Toronto Blue Jays,-0.59,-18,-0.007,-0.014,0
+Philadelphia Phillies,St. Louis Cardinals,-0.55,171,0.058,0.015,1
+Colorado Rockies,San Diego Padres,-0.48,-151,-0.067,-0.04,1
+Chicago Cubs,Pittsburgh Pirates,1.06,-71,-0.027,0.001,0
+Seattle Mariners,Oakland Athletics,0.51,-101,-0.035,-0.013,0
+Atlanta Braves,New York Mets,-0.94,34,0.033,-0.009,1
+Los Angeles Angels of Anaheim,Milwaukee Brewers,-0.2,-45,0.002,-0.016,1
+Washington Nationals,Kansas City Royals,0.7,-95,-0.026,0.005,0
+Minnesota Twins,Houston Astros,-1.02,-1,-0.004,-0.004,0
+San Francisco Giants,Cincinnati Reds,1.26,3,0.01,-0.002,0
+Los Angeles Angels of Anaheim,Texas Rangers,0.09,60,0.028,0.002,0
+Chicago White Sox,Baltimore Orioles,0.12,54,0.033,-0.001,0
+Colorado Rockies,Arizona Diamondbacks,0.18,-96,-0.025,-0.014,0
+Los Angeles Angels of Anaheim,Texas Rangers,0.09,60,0.028,0.002,1
+Toronto Blue Jays,Tampa Bay Rays,0.42,-81,0,-0.005,1
+Washington Nationals,St. Louis Cardinals,0.57,10,0.016,-0.001,0
+Kansas City Royals,Seattle Mariners,-0.21,95,0.03,-0.002,1
+Cincinnati Reds,Pittsburgh Pirates,-0.7,18,-0.006,0.001,1
+Cleveland Indians,Philadelphia Phillies,0.79,-159,-0.046,-0.022,1
+Houston Astros,Oakland Athletics,0.45,-55,-0.022,-0.001,1
+San Francisco Giants,New York Mets,-0.08,-26,0.019,-0.012,1
+Detroit Tigers,Minnesota Twins,0.84,-29,-0.017,-0.016,0
+Miami Marlins,Milwaukee Brewers,0.03,15,0.013,-0.019,0
+San Diego Padres,Los Angeles Dodgers,-0.73,26,0.019,0.014,0
+New York Yankees,Boston Red Sox,-0.16,189,0.056,0.03,1
+Chicago White Sox,Baltimore Orioles,0.12,54,0.033,-0.001,0
+Colorado Rockies,Arizona Diamondbacks,0.18,-96,-0.025,-0.014,0
+Los Angeles Angels of Anaheim,Texas Rangers,0.09,60,0.028,0.002,1
+Toronto Blue Jays,Tampa Bay Rays,0.42,-81,0,-0.005,0
+Washington Nationals,St. Louis Cardinals,0.57,10,0.016,-0.001,0
+Kansas City Royals,Seattle Mariners,-0.21,95,0.03,-0.002,1
+Cincinnati Reds,Pittsburgh Pirates,-0.7,18,-0.006,0.001,1
+Cleveland Indians,Philadelphia Phillies,0.79,-159,-0.046,-0.022,1
+Houston Astros,Oakland Athletics,0.45,-55,-0.022,-0.001,1
+San Francisco Giants,New York Mets,-0.08,-26,0.019,-0.012,1
+Detroit Tigers,Minnesota Twins,0.84,-29,-0.017,-0.016,0
+Miami Marlins,Milwaukee Brewers,0.03,15,0.013,-0.019,0
+San Diego Padres,Los Angeles Dodgers,-0.73,26,0.019,0.014,0
+Atlanta Braves,Chicago Cubs,-1.36,152,0.045,0.001,1
+New York Yankees,Boston Red Sox,-0.16,189,0.056,0.03,1
+Chicago White Sox,Baltimore Orioles,0.12,54,0.033,-0.001,1
+Colorado Rockies,Arizona Diamondbacks,0.18,-96,-0.025,-0.014,0
+Philadelphia Phillies,Washington Nationals,-1.12,161,0.042,0.016,0
+Miami Marlins,Los Angeles Dodgers,-0.35,54,0.015,-0.014,0
+Oakland Athletics,Detroit Tigers,-0.27,85,0.043,0.021,1
+Milwaukee Brewers,Chicago Cubs,-0.93,126,0.022,0.012,1
+Atlanta Braves,Boston Red Sox,-0.51,221,0.077,0.027,0
+Chicago White Sox,Baltimore Orioles,0.12,54,0.033,-0.001,1
+St. Louis Cardinals,Arizona Diamondbacks,1.01,-36,-0.01,0.006,1
+Philadelphia Phillies,Washington Nationals,-1.12,161,0.042,0.016,0
+Chicago White Sox,Toronto Blue Jays,-0.32,72,0.016,-0.009,0
+New York Yankees,Texas Rangers,0.21,99,0.028,0.01,1
+Baltimore Orioles,Tampa Bay Rays,-0.02,-63,-0.017,-0.013,0
+Houston Astros,Seattle Mariners,-0.06,46,0.013,0.012,0
+Cincinnati Reds,New York Mets,-1.34,-29,0.009,-0.01,1
+Cleveland Indians,Minnesota Twins,1.24,-43,-0.009,-0.011,0
+Miami Marlins,Los Angeles Dodgers,-0.35,54,0.015,-0.014,0
+Oakland Athletics,Detroit Tigers,-0.27,85,0.043,0.021,1
+Pittsburgh Pirates,Colorado Rockies,0.7,109,0.055,0.018,0
+Atlanta Braves,Boston Red Sox,-0.51,221,0.077,0.027,1
+St. Louis Cardinals,Arizona Diamondbacks,1.01,-36,-0.01,0.006,0
+Kansas City Royals,Los Angeles Angels of Anaheim,0.07,46,0.005,-0.001,1
+Philadelphia Phillies,Washington Nationals,-1.12,161,0.042,0.016,0
+Chicago White Sox,Toronto Blue Jays,-0.32,72,0.016,-0.009,0
+New York Yankees,Texas Rangers,0.21,99,0.028,0.01,1
+Baltimore Orioles,Tampa Bay Rays,-0.02,-63,-0.017,-0.013,1
+San Diego Padres,San Francisco Giants,-0.78,21,0.008,0.023,1
+Houston Astros,Seattle Mariners,-0.06,46,0.013,0.012,1
+Cincinnati Reds,New York Mets,-1.34,-29,0.009,-0.01,1
+Cleveland Indians,Minnesota Twins,1.24,-43,-0.009,-0.011,1
+Miami Marlins,Los Angeles Dodgers,-0.35,54,0.015,-0.014,0
+Oakland Athletics,Detroit Tigers,-0.27,85,0.043,0.021,0
+Pittsburgh Pirates,Colorado Rockies,0.7,109,0.055,0.018,0
+Milwaukee Brewers,Chicago Cubs,-0.93,126,0.022,0.012,1
+Boston Red Sox,Atlanta Braves,0.51,-221,-0.077,-0.027,0
+St. Louis Cardinals,Arizona Diamondbacks,1.01,-36,-0.01,0.006,0
+Kansas City Royals,Los Angeles Angels of Anaheim,0.07,46,0.005,-0.001,1
+Kansas City Royals,Los Angeles Angels of Anaheim,0.07,46,0.005,-0.001,1
+Minnesota Twins,Washington Nationals,-1.57,45,0.005,0.005,1
+Oakland Athletics,Toronto Blue Jays,-0.73,94,0.031,0.002,1
+Miami Marlins,San Francisco Giants,-0.4,49,0.004,-0.005,0
+St. Louis Cardinals,San Diego Padres,0.35,-91,-0.052,-0.02,0
+Tampa Bay Rays,New York Yankees,-0.04,0,-0.021,0.009,0
+Philadelphia Phillies,Milwaukee Brewers,-0.55,67,0.023,0.004,1
+Baltimore Orioles,Kansas City Royals,-0.01,-70,-0.043,0.005,1
+Boston Red Sox,Houston Astros,0.06,-147,-0.044,-0.035,0
+Cleveland Indians,Detroit Tigers,0.4,-14,0.008,0.005,0
+Los Angeles Dodgers,Colorado Rockies,1.21,125,0.048,0.026,0
+Chicago Cubs,Cincinnati Reds,1.76,-89,-0.021,0,0
+Texas Rangers,Chicago White Sox,-0.27,-90,-0.023,-0.005,1
+New York Mets,Atlanta Braves,0.94,-34,-0.033,0.009,0
+Pittsburgh Pirates,Arizona Diamondbacks,0.88,13,0.03,0.004,0
+Seattle Mariners,Los Angeles Angels of Anaheim,0.28,-49,-0.025,0.001,0
+Minnesota Twins,Washington Nationals,-1.57,45,0.005,0.005,1
+Oakland Athletics,Toronto Blue Jays,-0.73,94,0.031,0.002,1
+Miami Marlins,San Francisco Giants,-0.4,49,0.004,-0.005,1
+St. Louis Cardinals,San Diego Padres,0.35,-91,-0.052,-0.02,0
+Tampa Bay Rays,New York Yankees,-0.04,0,-0.021,0.009,1
+Philadelphia Phillies,Milwaukee Brewers,-0.55,67,0.023,0.004,0
+Baltimore Orioles,Kansas City Royals,-0.01,-70,-0.043,0.005,0
+Boston Red Sox,Houston Astros,0.06,-147,-0.044,-0.035,1
+Cleveland Indians,Detroit Tigers,0.4,-14,0.008,0.005,0
+Los Angeles Dodgers,Colorado Rockies,1.21,125,0.048,0.026,0
+Chicago Cubs,Cincinnati Reds,1.76,-89,-0.021,0,1
+Texas Rangers,Chicago White Sox,-0.27,-90,-0.023,-0.005,1
+New York Mets,Atlanta Braves,0.94,-34,-0.033,0.009,0
+Pittsburgh Pirates,Arizona Diamondbacks,0.88,13,0.03,0.004,1
+Seattle Mariners,Los Angeles Angels of Anaheim,0.28,-49,-0.025,0.001,1
+Minnesota Twins,Washington Nationals,-1.57,45,0.005,0.005,1
+Oakland Athletics,Toronto Blue Jays,-0.73,94,0.031,0.002,0
+Miami Marlins,San Francisco Giants,-0.4,49,0.004,-0.005,1
+St. Louis Cardinals,San Diego Padres,0.35,-91,-0.052,-0.02,1
+Tampa Bay Rays,New York Yankees,-0.04,0,-0.021,0.009,1
+Philadelphia Phillies,Milwaukee Brewers,-0.55,67,0.023,0.004,0
+Baltimore Orioles,Kansas City Royals,-0.01,-70,-0.043,0.005,1
+Boston Red Sox,Houston Astros,0.06,-147,-0.044,-0.035,0
+Cleveland Indians,Detroit Tigers,0.4,-14,0.008,0.005,0
+Los Angeles Dodgers,Colorado Rockies,1.21,125,0.048,0.026,1
+Chicago Cubs,Cincinnati Reds,1.76,-89,-0.021,0,0
+Texas Rangers,Chicago White Sox,-0.27,-90,-0.023,-0.005,1
+New York Mets,Atlanta Braves,0.94,-34,-0.033,0.009,0
+Pittsburgh Pirates,Arizona Diamondbacks,0.88,13,0.03,0.004,0
+Seattle Mariners,Los Angeles Angels of Anaheim,0.28,-49,-0.025,0.001,0
+Houston Astros,Texas Rangers,0.31,57,0.016,0.015,1
+Arizona Diamondbacks,San Francisco Giants,-1.44,-34,-0.034,-0.003,0
+Pittsburgh Pirates,San Diego Padres,0.22,-42,-0.012,-0.022,0
+Oakland Athletics,New York Yankees,-0.35,13,0.01,0.006,0
+Minnesota Twins,Milwaukee Brewers,-1,-49,-0.014,-0.007,0
+Washington Nationals,Miami Marlins,0.54,-109,-0.032,0.007,1
+Detroit Tigers,Kansas City Royals,-0.03,-79,-0.038,-0.006,1
+Seattle Mariners,Cleveland Indians,-0.16,-2,0,0.003,0
+Los Angeles Angels of Anaheim,Chicago White Sox,-0.18,-30,0.005,-0.003,0
+Tampa Bay Rays,Boston Red Sox,-0.2,189,0.035,0.039,0
+Toronto Blue Jays,Baltimore Orioles,0.44,-18,0.017,0.008,1
+Los Angeles Dodgers,Atlanta Braves,0.81,-65,-0.025,0.006,0
+Houston Astros,Texas Rangers,0.31,57,0.016,0.015,1
+Chicago Cubs,St. Louis Cardinals,0.93,-22,0.013,-0.001,1
+Arizona Diamondbacks,San Francisco Giants,-1.44,-34,-0.034,-0.003,0
+Pittsburgh Pirates,San Diego Padres,0.22,-42,-0.012,-0.022,1
+New York Mets,Philadelphia Phillies,1.06,-75,-0.033,-0.006,1
+Oakland Athletics,New York Yankees,-0.35,13,0.01,0.006,0
+Minnesota Twins,Milwaukee Brewers,-1,-49,-0.014,-0.007,1
+Washington Nationals,Miami Marlins,0.54,-109,-0.032,0.007,0
+Detroit Tigers,Kansas City Royals,-0.03,-79,-0.038,-0.006,0
+Seattle Mariners,Cleveland Indians,-0.16,-2,0,0.003,0
+Colorado Rockies,Cincinnati Reds,0,-127,-0.049,-0.019,1
+Los Angeles Angels of Anaheim,Chicago White Sox,-0.18,-30,0.005,-0.003,1
+Tampa Bay Rays,Boston Red Sox,-0.2,189,0.035,0.039,1
+Toronto Blue Jays,Baltimore Orioles,0.44,-18,0.017,0.008,1
+Los Angeles Dodgers,Atlanta Braves,0.81,-65,-0.025,0.006,0
+Houston Astros,Texas Rangers,0.31,57,0.016,0.015,1
+Chicago Cubs,St. Louis Cardinals,0.93,-22,0.013,-0.001,0
+Arizona Diamondbacks,San Francisco Giants,-1.44,-34,-0.034,-0.003,0
+Pittsburgh Pirates,San Diego Padres,0.22,-42,-0.012,-0.022,1
+New York Mets,Philadelphia Phillies,1.06,-75,-0.033,-0.006,0
+Oakland Athletics,New York Yankees,-0.35,13,0.01,0.006,0
+Milwaukee Brewers,Minnesota Twins,1,49,0.014,0.007,0
+Washington Nationals,Miami Marlins,0.54,-109,-0.032,0.007,0
+Detroit Tigers,Kansas City Royals,-0.03,-79,-0.038,-0.006,1
+Seattle Mariners,Cleveland Indians,-0.16,-2,0,0.003,1
+Colorado Rockies,Cincinnati Reds,0,-127,-0.049,-0.019,1
+Los Angeles Angels of Anaheim,Chicago White Sox,-0.18,-30,0.005,-0.003,1
+Tampa Bay Rays,Boston Red Sox,-0.2,189,0.035,0.039,0
+Arizona Diamondbacks,San Diego Padres,-0.66,-55,-0.042,-0.026,0
+Milwaukee Brewers,Pittsburgh Pirates,0.13,55,-0.005,0.013,1
+Washington Nationals,Philadelphia Phillies,1.12,-161,-0.042,-0.016,1
+Kansas City Royals,Oakland Athletics,0.3,-6,-0.005,-0.015,1
+Seattle Mariners,New York Yankees,0.16,-88,-0.025,-0.007,1
+Los Angeles Angels of Anaheim,Minnesota Twins,0.8,4,0.016,-0.009,1
+Atlanta Braves,Miami Marlins,-0.46,11,0.01,0.008,0
+San Francisco Giants,Los Angeles Dodgers,0.05,5,0.011,-0.009,1
+Detroit Tigers,Houston Astros,-0.18,-30,-0.021,-0.02,1
+New York Mets,Cleveland Indians,0.27,84,0.013,0.016,0
+Colorado Rockies,Chicago Cubs,-1.76,-38,-0.028,-0.019,0
+Toronto Blue Jays,Boston Red Sox,0.22,108,0.035,0.034,0
+Baltimore Orioles,Texas Rangers,0.15,36,-0.01,0.006,1
+Chicago White Sox,Tampa Bay Rays,0.1,-9,0.016,-0.014,1
+Cincinnati Reds,St. Louis Cardinals,-0.83,67,0.034,-0.001,0
+Arizona Diamondbacks,San Diego Padres,-0.66,-55,-0.042,-0.026,1
+Milwaukee Brewers,Pittsburgh Pirates,0.13,55,-0.005,0.013,1
+Washington Nationals,Philadelphia Phillies,1.12,-161,-0.042,-0.016,0
+Kansas City Royals,Oakland Athletics,0.3,-6,-0.005,-0.015,1
+Seattle Mariners,New York Yankees,0.16,-88,-0.025,-0.007,0
+Los Angeles Angels of Anaheim,Minnesota Twins,0.8,4,0.016,-0.009,1
+Atlanta Braves,Miami Marlins,-0.46,11,0.01,0.008,0
+San Francisco Giants,Los Angeles Dodgers,0.05,5,0.011,-0.009,0
+Detroit Tigers,Houston Astros,-0.18,-30,-0.021,-0.02,0
+New York Mets,Cleveland Indians,0.27,84,0.013,0.016,1
+Colorado Rockies,Chicago Cubs,-1.76,-38,-0.028,-0.019,1
+Toronto Blue Jays,Boston Red Sox,0.22,108,0.035,0.034,1
+Baltimore Orioles,Texas Rangers,0.15,36,-0.01,0.006,0
+Chicago White Sox,Tampa Bay Rays,0.1,-9,0.016,-0.014,0
+Cincinnati Reds,St. Louis Cardinals,-0.83,67,0.034,-0.001,1
+Arizona Diamondbacks,San Diego Padres,-0.66,-55,-0.042,-0.026,0
+Milwaukee Brewers,Pittsburgh Pirates,0.13,55,-0.005,0.013,0
+Washington Nationals,Philadelphia Phillies,1.12,-161,-0.042,-0.016,0
+Kansas City Royals,Oakland Athletics,0.3,-6,-0.005,-0.015,0
+Seattle Mariners,New York Yankees,0.16,-88,-0.025,-0.007,0
+Los Angeles Angels of Anaheim,Minnesota Twins,0.8,4,0.016,-0.009,1
+Atlanta Braves,Miami Marlins,-0.46,11,0.01,0.008,0
+San Francisco Giants,Los Angeles Dodgers,0.05,5,0.011,-0.009,1
+Detroit Tigers,Houston Astros,-0.18,-30,-0.021,-0.02,1
+New York Mets,Cleveland Indians,0.27,84,0.013,0.016,0
+Colorado Rockies,Chicago Cubs,-1.76,-38,-0.028,-0.019,0
+Toronto Blue Jays,Boston Red Sox,0.22,108,0.035,0.034,1
+Atlanta Braves,Washington Nationals,-1,120,0.042,0.001,1
+New York Yankees,Toronto Blue Jays,-0.38,81,0.021,-0.004,1
+Baltimore Orioles,Texas Rangers,0.15,36,-0.01,0.006,1
+Cleveland Indians,Tampa Bay Rays,0.36,-86,-0.004,-0.019,0
+Milwaukee Brewers,St. Louis Cardinals,0,104,0.035,0.011,1
+Detroit Tigers,Pittsburgh Pirates,-0.03,-23,-0.036,-0.01,0
+San Diego Padres,Philadelphia Phillies,0.2,-80,-0.006,0.005,1
+Chicago White Sox,Minnesota Twins,0.98,34,0.011,-0.006,0
+Arizona Diamondbacks,Los Angeles Dodgers,-1.39,-29,-0.023,-0.012,1
+Cleveland Indians,Tampa Bay Rays,0.36,-86,-0.004,-0.019,0
+Milwaukee Brewers,St. Louis Cardinals,0,104,0.035,0.011,0
+Texas Rangers,Seattle Mariners,-0.37,-11,-0.003,-0.003,1
+Detroit Tigers,Pittsburgh Pirates,-0.03,-23,-0.036,-0.01,0
+San Diego Padres,Philadelphia Phillies,0.2,-80,-0.006,0.005,1
+Los Angeles Angels of Anaheim,Oakland Athletics,0.23,-52,-0.01,-0.014,0
+Miami Marlins,New York Mets,-0.48,23,0.023,-0.017,1
+Chicago White Sox,Minnesota Twins,0.98,34,0.011,-0.006,0
+Arizona Diamondbacks,Los Angeles Dodgers,-1.39,-29,-0.023,-0.012,1
+Kansas City Royals,Houston Astros,-0.15,49,0.017,-0.014,0
+San Francisco Giants,Colorado Rockies,1.26,130,0.059,0.017,1
+Cincinnati Reds,Chicago Cubs,-1.76,89,0.021,0,1
+Baltimore Orioles,Boston Red Sox,-0.22,126,0.018,0.026,1
+Atlanta Braves,Washington Nationals,-1,120,0.042,0.001,1
+New York Yankees,Toronto Blue Jays,-0.38,81,0.021,-0.004,0
+Cleveland Indians,Tampa Bay Rays,0.36,-86,-0.004,-0.019,1
+Texas Rangers,Seattle Mariners,-0.37,-11,-0.003,-0.003,0
+San Diego Padres,Philadelphia Phillies,0.2,-80,-0.006,0.005,1
+Los Angeles Angels of Anaheim,Oakland Athletics,0.23,-52,-0.01,-0.014,0
+Miami Marlins,New York Mets,-0.48,23,0.023,-0.017,0
+Arizona Diamondbacks,Los Angeles Dodgers,-1.39,-29,-0.023,-0.012,0
+Kansas City Royals,Houston Astros,-0.15,49,0.017,-0.014,0
+Pittsburgh Pirates,Detroit Tigers,0.03,23,0.036,0.01,1
+San Francisco Giants,Colorado Rockies,1.26,130,0.059,0.017,0
+Baltimore Orioles,Boston Red Sox,-0.22,126,0.018,0.026,0
+Atlanta Braves,Washington Nationals,-1,120,0.042,0.001,1
+Milwaukee Brewers,St. Louis Cardinals,0,104,0.035,0.011,1
+Baltimore Orioles,Boston Red Sox,-0.22,126,0.018,0.026,0
+Miami Marlins,Washington Nationals,-0.54,109,0.032,-0.007,1
+Boston Red Sox,Toronto Blue Jays,-0.22,-108,-0.035,-0.034,1
+Los Angeles Dodgers,San Francisco Giants,-0.05,-5,-0.011,0.009,1
+Oakland Athletics,Seattle Mariners,-0.51,101,0.035,0.013,0
+Philadelphia Phillies,New York Mets,-1.06,75,0.033,0.006,0
+Houston Astros,Milwaukee Brewers,0.02,-48,-0.01,-0.003,1
+Minnesota Twins,Kansas City Royals,-0.87,-50,-0.021,0.01,1
+San Diego Padres,Colorado Rockies,0.48,151,0.067,0.04,1
+Pittsburgh Pirates,Cincinnati Reds,0.7,-18,0.006,-0.001,1
+Tampa Bay Rays,Baltimore Orioles,0.02,63,0.017,0.013,1
+St. Louis Cardinals,Atlanta Braves,0.43,-130,-0.058,0,0
+Chicago Cubs,Arizona Diamondbacks,1.94,-58,0.003,0.005,0
+Texas Rangers,Los Angeles Angels of Anaheim,-0.09,-60,-0.028,-0.002,1
+Boston Red Sox,Toronto Blue Jays,-0.22,-108,-0.035,-0.034,0
+Los Angeles Dodgers,San Francisco Giants,-0.05,-5,-0.011,0.009,0
+Oakland Athletics,Seattle Mariners,-0.51,101,0.035,0.013,0
+Philadelphia Phillies,New York Mets,-1.06,75,0.033,0.006,0
+Houston Astros,Milwaukee Brewers,0.02,-48,-0.01,-0.003,0
+Minnesota Twins,Kansas City Royals,-0.87,-50,-0.021,0.01,1
+New York Yankees,Detroit Tigers,0.08,72,0.033,0.015,0
+San Diego Padres,Colorado Rockies,0.48,151,0.067,0.04,0
+Pittsburgh Pirates,Cincinnati Reds,0.7,-18,0.006,-0.001,1
+Cleveland Indians,Chicago White Sox,0.26,-77,-0.02,-0.005,1
+St. Louis Cardinals,Atlanta Braves,0.43,-130,-0.058,0,0
+Chicago Cubs,Arizona Diamondbacks,1.94,-58,0.003,0.005,0
+Texas Rangers,Los Angeles Angels of Anaheim,-0.09,-60,-0.028,-0.002,0
+Boston Red Sox,Toronto Blue Jays,-0.22,-108,-0.035,-0.034,0
+Los Angeles Dodgers,San Francisco Giants,-0.05,-5,-0.011,0.009,1
+Oakland Athletics,Seattle Mariners,-0.51,101,0.035,0.013,0
+Philadelphia Phillies,New York Mets,-1.06,75,0.033,0.006,1
+Houston Astros,Milwaukee Brewers,0.02,-48,-0.01,-0.003,1
+Minnesota Twins,Kansas City Royals,-0.87,-50,-0.021,0.01,1
+New York Yankees,Detroit Tigers,0.08,72,0.033,0.015,1
+San Diego Padres,Colorado Rockies,0.48,151,0.067,0.04,0
+Pittsburgh Pirates,Cincinnati Reds,0.7,-18,0.006,-0.001,0
+Cleveland Indians,Chicago White Sox,0.26,-77,-0.02,-0.005,0
+Tampa Bay Rays,Baltimore Orioles,0.02,63,0.017,0.013,1
+St. Louis Cardinals,Atlanta Braves,0.43,-130,-0.058,0,0
+Chicago Cubs,Arizona Diamondbacks,1.94,-58,0.003,0.005,1
+Texas Rangers,Los Angeles Angels of Anaheim,-0.09,-60,-0.028,-0.002,0
+Miami Marlins,Washington Nationals,-0.54,109,0.032,-0.007,0
+Los Angeles Dodgers,San Francisco Giants,-0.05,-5,-0.011,0.009,1
+Chicago White Sox,Oakland Athletics,0.41,-22,-0.015,-0.011,0
+Houston Astros,New York Yankees,0.1,-42,-0.012,0.005,1
+Philadelphia Phillies,Cincinnati Reds,0.28,104,0.024,0.016,1
+Minnesota Twins,Baltimore Orioles,-0.86,20,0.022,0.005,1
+Chicago Cubs,Arizona Diamondbacks,1.94,-58,0.003,0.005,0
+Texas Rangers,Los Angeles Angels of Anaheim,-0.09,-60,-0.028,-0.002,1
+Seattle Mariners,Texas Rangers,0.37,11,0.003,0.003,0
+Toronto Blue Jays,Tampa Bay Rays,0.42,-81,0,-0.005,1
+Los Angeles Dodgers,San Diego Padres,0.73,-26,-0.019,-0.014,0
+St. Louis Cardinals,Pittsburgh Pirates,0.13,-49,-0.04,0.002,1
+Chicago White Sox,Oakland Athletics,0.41,-22,-0.015,-0.011,1
+Houston Astros,New York Yankees,0.1,-42,-0.012,0.005,1
+New York Mets,Kansas City Royals,0.64,-9,-0.017,0.015,0
+Boston Red Sox,Cleveland Indians,-0.16,-103,-0.031,-0.02,0
+Colorado Rockies,Arizona Diamondbacks,0.18,-96,-0.025,-0.014,1
+Chicago Cubs,Los Angeles Angels of Anaheim,1.13,-81,-0.024,0.004,0
+Seattle Mariners,Texas Rangers,0.37,11,0.003,0.003,1
+Toronto Blue Jays,Tampa Bay Rays,0.42,-81,0,-0.005,0
+Los Angeles Dodgers,San Diego Padres,0.73,-26,-0.019,-0.014,0
+Chicago White Sox,Oakland Athletics,0.41,-22,-0.015,-0.011,0
+San Francisco Giants,Milwaukee Brewers,0.43,-34,0.009,-0.014,0
+Philadelphia Phillies,Cincinnati Reds,0.28,104,0.024,0.016,1
+Minnesota Twins,Baltimore Orioles,-0.86,20,0.022,0.005,1
+Washington Nationals,Atlanta Braves,1,-120,-0.042,-0.001,0
+Colorado Rockies,Arizona Diamondbacks,0.18,-96,-0.025,-0.014,0
+Chicago Cubs,Los Angeles Angels of Anaheim,1.13,-81,-0.024,0.004,0
+Toronto Blue Jays,Tampa Bay Rays,0.42,-81,0,-0.005,0
+St. Louis Cardinals,Pittsburgh Pirates,0.13,-49,-0.04,0.002,1
+San Francisco Giants,Milwaukee Brewers,0.43,-34,0.009,-0.014,1
+Detroit Tigers,Miami Marlins,-0.19,-93,-0.044,-0.004,0
+Boston Red Sox,Cleveland Indians,-0.16,-103,-0.031,-0.02,1
