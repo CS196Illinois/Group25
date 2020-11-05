@@ -1,6 +1,94 @@
 <!-- extends Bootstrap, header, and footer from base -->
 {% extends "base.html" %}
+{% load static %}
 
 {% block content %}
-<h1>This is the homepage</h1>
+<!-- Search functionality (by team) -->
+<div class="container text-center" style="margin-bottom: 25px">
+    <h2>Pick A Team</h2>
+    <p>Select a team below to display their games.</p>
+</div>
+
+<div class="container">
+    <div class="dropdown" style="margin-bottom: 25px" align="center">
+        <a class="btn btn-secondary btn-lg dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="width:300px">
+        Select a team
+        </a>
+    
+        <div class="dropdown-menu" aria-labelledby="dropdownMenuLink" style="padding:20px">
+            <div class="row">
+                <div class="col-sm-6">
+                    <span class="dropdown-item-text"><b>American League</b></span>
+                    <h6 class="dropdown-header">East</h6>
+                        <a class="dropdown-item" href="/Blue Jays/">Toronto Blue Jays</a>
+                        <a class="dropdown-item" href="/Orioles/">Baltimore Orioles</a>
+                        <a class="dropdown-item" href="/Rays/">Tampa Bay Rays</a>
+                        <a class="dropdown-item" href="/Red Sox/">Boston Red Sox</a>
+                        <a class="dropdown-item" href="/Yankees/">New York Yankees</a>
+                    <h6 class="dropdown-header">Central</h6>
+                        <a class="dropdown-item" href="/Indians/">Cleveland Indians</a>
+                        <a class="dropdown-item" href="/Royals/">Kansas City Royals</a>
+                        <a class="dropdown-item" href="/Tigers/">Detroit Tigers</a>
+                        <a class="dropdown-item" href="/Twins/">Minnesota Twins</a>
+                        <a class="dropdown-item" href="/White Sox/">Chicago White Sox</a>
+                    <h6 class="dropdown-header">West</h6>
+                        <a class="dropdown-item" href="/Angels/">Los Angeles Angels</a>
+                        <a class="dropdown-item" href="/Astros/">Houston Astros</a>
+                        <a class="dropdown-item" href="/Athletics/">Oakland Athletics</a>
+                        <a class="dropdown-item" href="/Mariners/">Seattle Mariners</a>
+                        <a class="dropdown-item" href="/Rangers/">Texas Rangers</a>
+                </div>
+                <div class="col-sm-6" style="border-left: 1px solid #ccc">
+                    <span class="dropdown-item-text"><b>National League</b></span>
+                    <h6 class="dropdown-header">East</h6>
+                        <a class="dropdown-item" href="/Braves/">Atlanta Braves</a>
+                        <a class="dropdown-item" href="/Marlins/">Miami Marlins</a>
+                        <a class="dropdown-item" href="/Mets/">New York Mets</a>
+                        <a class="dropdown-item" href="/Nationals/">Washington Nationals</a>
+                        <a class="dropdown-item" href="/Phillies/">Philadelphia Phillies</a>
+                    <h6 class="dropdown-header">Central</h6>
+                        <a class="dropdown-item" href="/Brewers/">Milwaukee Brewers</a>
+                        <a class="dropdown-item" href="/Cardinals/">St. Louis Cardinals</a>
+                        <a class="dropdown-item" href="/Cubs/">Chicago Cubs</a>
+                        <a class="dropdown-item" href="/Pirates/">Pittsburgh Pirates</a>
+                        <a class="dropdown-item" href="/Reds/">Cincinnati Reds</a>
+                    <h6 class="dropdown-header">West</h6>
+                        <a class="dropdown-item" href="/Diamondbacks/">Arizona Diamondbacks</a>
+                        <a class="dropdown-item" href="/Dodgers/">Los Angeles Dodgers</a>
+                        <a class="dropdown-item" href="/Giants/">San Francisco Giants</a>
+                        <a class="dropdown-item" href="/Padres/">San Diego Padres</a>
+                        <a class="dropdown-item" href="/Rockies/">Colorado Rockies</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Display Upcoming Games -->
+<div class="container text-center" style="margin-bottom: 25px">
+    <h2>Upcoming Games</h2>
+</div>
+
+{% if not today %}
+    <div class="alert alert-warning alert-dismissible fade show text-center" role="alert">
+        There are no{% if searched %}<b> {{ team }}</b>{% endif %} games soon——here are some coming up next season.
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+        <span aria-hidden="true">&times;</span>
+        </button>
+    </div>
+{% endif %}
+
+<div class="container" style="width:700px">
+{% for game in data %}
+    <div class="row bg-light shadow-sm" style="margin-bottom: 20px; border: #ccc 1px solid">
+        <div class="col-sm" align="center">
+            <img src="{% static 'logos/'%}{{ game.home_team }}.png" width="80"><b>{{ game.home_team }}</b> vs. <b>{{ game.away_team }}</b><img src="{% static 'logos/'%}{{ game.away_team }}.png" width="80">
+        </div>
+        <div style="border-left: 1px solid #ccc; padding: 10px">
+            <button type="button" class="btn btn-success">Get Prediction</button>
+        </div>
+    </div>
+{% endfor %}
+</div>
+
 {% endblock %}
