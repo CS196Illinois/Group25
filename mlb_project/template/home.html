@@ -69,6 +69,7 @@
     <h2>Upcoming Games</h2>
 </div>
 
+<div class="container" style="width:700px">
 {% if not today %}
     <div class="alert alert-warning alert-dismissible fade show text-center" role="alert">
         There are no{% if searched %}<b> {{ team }}</b>{% endif %} games soon——here are some coming up next season.
@@ -77,14 +78,17 @@
         </button>
     </div>
 {% endif %}
+</div>
 
 <div class="container" style="width:700px">
 {% for game in data %}
     <div class="row bg-light shadow-sm" style="margin-bottom: 20px; border: #ccc 1px solid">
         <div class="col-sm" align="center">
             <img src="{% static 'logos/'%}{{ game.home_team }}.png" width="80"><b>{{ game.home_team }}</b> vs. <b>{{ game.away_team }}</b><img src="{% static 'logos/'%}{{ game.away_team }}.png" width="80">
-        </div>
-        <div style="border-left: 1px solid #ccc; padding: 10px">
+            <div class="row" style="margin-bottom: 10px; padding-left: 175px">
+                <i>{{ game.date }} EST</i></div>
+            </div>
+        <div style="border-left: 1px solid #ccc; padding: 10px; padding-top: 25px">
             <button type="button" class="btn btn-success">Get Prediction</button>
         </div>
     </div>
