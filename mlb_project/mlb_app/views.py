@@ -1,5 +1,5 @@
 from django.shortcuts import render
-import mlbgame, datetime
+import mlbgame, datetime, statsapi, pandas as pd
 
 # Create your views here.
 
@@ -75,3 +75,9 @@ def search(request, team_searched):
             dayCount += 1
 
     return render(request, 'home.html', {'data': games, 'today': areGamesToday, 'team': team_searched, 'searched': searched})
+
+def standings(request):
+    standings_dict = statsapi.standings_data(leagueId="103,104", division="all", include_wildcard=True)
+    df_data = pd.DataFrame(standings_dict)
+
+    return render(request, 'standings.html', df_data)

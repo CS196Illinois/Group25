@@ -1,10 +1,22 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
-</head>
-<body>
-$END$
-</body>
-</html>
+<!-- extends Bootstrap, header, and footer from base -->
+{% extends "base.html" %}
+{% load static %}
+
+{% block content %}
+<!-- Standings webpage -->
+<div class="container text-center" style="margin-bottom: 25px">
+    <h2>Current Standings</h2>
+</div>
+
+<div class="container" style="width:700px">
+{% for index, row in df_data.iterrows %}
+    <div class="row bg-light shadow-sm" style="margin-bottom: 20px; border: #ccc 1px solid">
+        <div class="col-sm" align="center">
+            <p>{{ row.name }} {{ row.div_rank }} {{ row.gb }} {{ row.w }} {{ row.l }} {{ row.elim_num }}
+            {{ row.wc_rank }} {{ row.wc_gb }} {{ row.wc_elim_num }}</p>
+        </div>
+    </div>
+{% endfor %}
+</div>
+
+{% endblock %}
