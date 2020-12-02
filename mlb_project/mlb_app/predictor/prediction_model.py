@@ -107,7 +107,7 @@ def predict_game(stats):
     # Creates path to models
 
     # Loads logistic regression model from pickle file
-    with open('./models.p', 'rb') as pickled:
+    with open('mlb_app/predictor/models.p', 'rb') as pickled:
         data = pickle.load(pickled)
     logreg = data['regression']
 
@@ -179,8 +179,3 @@ def gatherBattingStats(homeTeam, awayTeam):
     finalStats.append(findBStats(homeIndex)[1] - findBStats(awayIndex)[1])
     finalStats.append(findBStats(homeIndex)[2] - findBStats(awayIndex)[2])
     return (finalStats)
-
-
-print(get_winner('New York Yankees', 'Chicago Cubs'))
-print(get_winner('New York Mets', 'San Diego Padres'))
-
