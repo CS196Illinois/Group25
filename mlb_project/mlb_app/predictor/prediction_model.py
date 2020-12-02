@@ -5,6 +5,7 @@ import pickle
 import numpy as np
 from sklearn.linear_model import LogisticRegression
 
+settings.configure
 ##call the API to get stats for both teams needed to predict game
 def get_winner(home_team_name, away_team_name):
 #   code to get stats from API
@@ -29,3 +30,5 @@ def predict_game(delta_ERA, delta_RBI, delta_SLG, delta_AVG):
     prediction = logreg.predict(team_stats)
 
     return prediction[0]
+
+predict_game(-0.43, -70, -0.044, 0.003)
