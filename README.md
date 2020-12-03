@@ -32,6 +32,6 @@ By the end of this semester, we will launch a web application that lists upcomin
 
 *Web Development*: Django
 
-*Machine Learning*: Python (including libraries like PyTorch/TensorFlow)
+*Machine Learning*: Python (including libraries like scikit-learn and pickle)
 
 *Data Visualization*: matplotlib
