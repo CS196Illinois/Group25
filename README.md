@@ -31,6 +31,6 @@ make it easier for fans to decide which baseball team to bet on for upcoming MLB
 
 *Web Development*: Django
 
-*Machine Learning*: Python (including libraries like scikit-learn and pickle)
+*Machine Learning*: Python (including libraries such as scikit-learn and techniques such as pickle)
 
 *Data Visualization*: matplotlib
