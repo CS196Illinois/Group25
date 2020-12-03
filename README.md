@@ -18,15 +18,14 @@ make it easier for fans to decide which baseball team to bet on for upcoming MLB
 
 *Machine Learning Specialists* - Shriyan, Ayan, Ricky, and Itay
 
-**Coming Soon**
 
-By the end of this semester, we will launch a web application that lists upcoming MLB games along with the our predictions as to which team is more likely to win the game. 
 
 **Features of our Web Application**
 
 *Core*: List of upcoming MLB games (‘21 schedule), Machine learning model to predict the winner of a game, Search functionality
 
 *Accesories*: Data visualizations of key statistics over time for each team, Ability to accept financial transactions so that users can directly bet on the app
+
 
 **Tech Stack**
 
