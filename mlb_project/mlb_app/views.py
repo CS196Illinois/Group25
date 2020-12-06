@@ -1,9 +1,45 @@
 from django.shortcuts import render
-import mlbgame, datetime, statsapi, pandas as pd
+import mlbgame, datetime, statsapi, itertools
+from mlb_app.predictor.prediction_model import get_winner as predict
 
 # Create your views here.
 
 def home(request):
+    fullNames = {
+        "Dodgers": "Los Angeles Dodgers",
+        "Indians": "Cleveland Indians",
+        "Rays": "Tampa Bay Rays",
+        "Twins": "Minnesota Twins",
+        "Athletics": "Oakland Athletics",
+        "White Sox": "Chicago White Sox",
+        "Reds": "Cincinnati Reds",
+        "Padres": "San Diego Padres",
+        "Cardinals": "St. Louis Cardinals",
+        "Cubs": "Chicago Cubs",
+        "Brewers": "Milwaukee Brewers",
+        "Royals": "Kansas City Royals",
+        "Astros": "Houston Astros",
+        "Yankees": "New York Yankees",
+        "Braves": "Atlanta Braves",
+        "Orioles": "Baltimore Orioles",
+        "Blue Jays": "Toronto Blue Jays",
+        "Giants": "San Francisco Giants",
+        "Pirates": "Pittsburgh Pirates",
+        "Diamondbacks": "Arizona Diamondbacks",
+        "Marlins": "Miami Marlins",
+        "Mets": "New York Mets",
+        "Mariners": "Seattle Mariners",
+        "Rangers": "Texas Rangers",
+        "Angels": "Los Angeles Angels",
+        "Nationals": "Washington Nationals",
+        "Phillies": "Philadelphia Phillies",
+        "Red Sox": "Boston Red Sox",
+        "Rockies": "Colorado Rockies",
+        "Tigers": "Detroit Tigers"
+    }
+
+    teamNames = {v: k for k, v in fullNames.items()}
+
     searched = False
     now = datetime.datetime.now()
     areGamesToday = True
@@ -38,9 +74,50 @@ def home(request):
                     games.append(game)
             dayCount += 1
 
-    return render(request, 'home.html', {'data': games, 'today': areGamesToday, 'searched': searched})
+    predictions = []
+    for game in games:
+        predictions.append(teamNames[predict(fullNames[game.home_team], fullNames[game.home_team])])
+
+    zipped = list(zip(games, predictions))
+
+    return render(request, 'home.html', {'data': zipped, 'today': areGamesToday, 'searched': searched})
 
 def search(request, team_searched):
+    fullNames = {
+        "Dodgers": "Los Angeles Dodgers",
+        "Indians": "Cleveland Indians",
+        "Rays": "Tampa Bay Rays",
+        "Twins": "Minnesota Twins",
+        "Athletics": "Oakland Athletics",
+        "White Sox": "Chicago White Sox",
+        "Reds": "Cincinnati Reds",
+        "Padres": "San Diego Padres",
+        "Cardinals": "St. Louis Cardinals",
+        "Cubs": "Chicago Cubs",
+        "Brewers": "Milwaukee Brewers",
+        "Royals": "Kansas City Royals",
+        "Astros": "Houston Astros",
+        "Yankees": "New York Yankees",
+        "Braves": "Atlanta Braves",
+        "Orioles": "Baltimore Orioles",
+        "Blue Jays": "Toronto Blue Jays",
+        "Giants": "San Francisco Giants",
+        "Pirates": "Pittsburgh Pirates",
+        "Diamondbacks": "Arizona Diamondbacks",
+        "Marlins": "Miami Marlins",
+        "Mets": "New York Mets",
+        "Mariners": "Seattle Mariners",
+        "Rangers": "Texas Rangers",
+        "Angels": "Los Angeles Angels",
+        "Nationals": "Washington Nationals",
+        "Phillies": "Philadelphia Phillies",
+        "Red Sox": "Boston Red Sox",
+        "Rockies": "Colorado Rockies",
+        "Tigers": "Detroit Tigers"
+    }
+
+    teamNames = {v: k for k, v in fullNames.items()}
+
     searched = True
     now = datetime.datetime.now()
     areGamesToday = True
@@ -74,7 +151,13 @@ def search(request, team_searched):
                     games.append(game)
             dayCount += 1
 
-    return render(request, 'home.html', {'data': games, 'today': areGamesToday, 'team': team_searched, 'searched': searched})
+    predictions = []
+    for game in games:
+        predictions.append(teamNames[predict(fullNames[game.home_team], fullNames[game.home_team])])
+
+    zipped = list(zip(games, predictions))
+
+    return render(request, 'home.html', {'data': zipped, 'today': areGamesToday, 'team': team_searched, 'searched': searched})
 
 def standings(request):
     standings_dict = statsapi.standings_data(leagueId="103,104", division="all", include_wildcard=True)

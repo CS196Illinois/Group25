@@ -18,9 +18,7 @@ make it easier for fans to decide which baseball team to bet on for upcoming MLB
 
 *Machine Learning Specialists* - Shriyan, Ayan, Ricky, and Itay
 
-**Coming Soon**
 
-By the end of this semester, we will launch a web application that lists upcoming MLB games along with the our predictions as to which team is more likely to win the game. 
 
 **Features of our Web Application**
 
@@ -28,10 +26,11 @@ By the end of this semester, we will launch a web application that lists upcomin
 
 *Accesories*: Data visualizations of key statistics over time for each team, Ability to accept financial transactions so that users can directly bet on the app
 
+
 **Tech Stack**
 
 *Web Development*: Django
 
-*Machine Learning*: Python (including libraries like PyTorch/TensorFlow)
+*Machine Learning*: Python (including libraries such as scikit-learn and techniques such as pickle)
 
 *Data Visualization*: matplotlib
