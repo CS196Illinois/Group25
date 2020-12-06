@@ -1,5 +1,5 @@
 from django.shortcuts import render
-import mlbgame, datetime, itertools
+import mlbgame, datetime, statsapi, itertools
 from mlb_app.predictor.prediction_model import get_winner as predict
 
 # Create your views here.
@@ -158,3 +158,13 @@ def search(request, team_searched):
     zipped = list(zip(games, predictions))
 
     return render(request, 'home.html', {'data': zipped, 'today': areGamesToday, 'team': team_searched, 'searched': searched})
+
+def standings(request):
+    standings_dict = statsapi.standings_data(leagueId="103,104", division="all", include_wildcard=True)
+    al_west = standings_dict.get(200).get('teams')
+    al_east = standings_dict.get(201).get('teams')
+    al_central = standings_dict.get(202).get('teams')
+    nl_central = standings_dict.get(205).get('teams')
+    nl_east = standings_dict.get(203).get('teams')
+    nl_west = standings_dict.get(204).get('teams')
+    return render(request, 'standings.html', {'al_west':al_west, 'al_east':al_east, 'al_central':al_central, 'nl_central':nl_central, 'nl_east':nl_east, 'nl_west':nl_west})

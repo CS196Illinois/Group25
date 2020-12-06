@@ -1,0 +1,168 @@
+<!-- extends Bootstrap, header, and footer from base -->
+{% extends "base.html" %}
+{% load static %}
+
+{% block content %}
+<!-- Standings webpage -->
+
+<div class="container" style="width:700px; margin-bottom: 20px">
+    <h2>Current Standings</h2>
+</div>
+
+<div class="container" style="width:700px; margin-bottom: 10px">
+    <h3>AL West</h3>
+    <table class="table">
+        <thead>
+          <tr>
+            <th scope="col">Team</th>
+            <th scope="col">Rank</th>
+            <th scope="col">W</th>
+            <th scope="col">L</th>
+            <th scope="col">GB</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for element in al_west %}
+            <tr>
+                <th scope="row">{{ element.name }}</th>
+                <td>{{ element.div_rank }}</td>
+                <td>{{ element.w }}</td>
+                <td>{{ element.l }}</td>
+                <td>{{ element.gb }}</td>
+            </tr>
+          {% endfor %}
+        </tbody>
+    </table>
+</div>
+
+<div class="container" style="width:700px; margin-bottom: 10px">
+    <h3>AL East</h3>
+    <table class="table">
+        <thead>
+          <tr>
+            <th scope="col">Team</th>
+            <th scope="col">Rank</th>
+            <th scope="col">W</th>
+            <th scope="col">L</th>
+            <th scope="col">GB</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for element in al_east %}
+            <tr>
+                <th scope="row">{{ element.name }}</th>
+                <td>{{ element.div_rank }}</td>
+                <td>{{ element.w }}</td>
+                <td>{{ element.l }}</td>
+                <td>{{ element.gb }}</td>
+            </tr>
+          {% endfor %}
+        </tbody>
+    </table>
+</div>
+
+<div class="container" style="width:700px; margin-bottom: 10px">
+    <h3>AL Central</h3>
+    <table class="table">
+        <thead>
+          <tr>
+            <th scope="col">Team</th>
+            <th scope="col">Rank</th>
+            <th scope="col">W</th>
+            <th scope="col">L</th>
+            <th scope="col">GB</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for element in al_central %}
+            <tr>
+                <th scope="row">{{ element.name }}</th>
+                <td>{{ element.div_rank }}</td>
+                <td>{{ element.w }}</td>
+                <td>{{ element.l }}</td>
+                <td>{{ element.gb }}</td>
+            </tr>
+          {% endfor %}
+        </tbody>
+    </table>
+</div>
+
+<div class="container" style="width:700px; margin-bottom: 10px">
+    <h3>NL West</h3>
+    <table class="table">
+        <thead>
+          <tr>
+            <th scope="col">Team</th>
+            <th scope="col">Rank</th>
+            <th scope="col">W</th>
+            <th scope="col">L</th>
+            <th scope="col">GB</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for element in nl_west %}
+            <tr>
+                <th scope="row">{{ element.name }}</th>
+                <td>{{ element.div_rank }}</td>
+                <td>{{ element.w }}</td>
+                <td>{{ element.l }}</td>
+                <td>{{ element.gb }}</td>
+            </tr>
+          {% endfor %}
+        </tbody>
+    </table>
+</div>
+
+<div class="container" style="width:700px; margin-bottom: 10px">
+    <h3>NL East</h3>
+    <table class="table">
+        <thead>
+          <tr>
+            <th scope="col">Team</th>
+            <th scope="col">Rank</th>
+            <th scope="col">W</th>
+            <th scope="col">L</th>
+            <th scope="col">GB</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for element in nl_east %}
+            <tr>
+                <th scope="row">{{ element.name }}</th>
+                <td>{{ element.div_rank }}</td>
+                <td>{{ element.w }}</td>
+                <td>{{ element.l }}</td>
+                <td>{{ element.gb }}</td>
+            </tr>
+          {% endfor %}
+        </tbody>
+    </table>
+</div>
+
+<div class="container" style="width:700px; margin-bottom: 10px">
+    <h3>NL Central</h3>
+    <table class="table">
+        <thead>
+          <tr>
+            <th scope="col">Team</th>
+            <th scope="col">Rank</th>
+            <th scope="col">W</th>
+            <th scope="col">L</th>
+            <th scope="col">GB</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for element in nl_central %}
+            <tr>
+                <th scope="row">{{ element.name }}</th>
+                <td>{{ element.div_rank }}</td>
+                <td>{{ element.w }}</td>
+                <td>{{ element.l }}</td>
+                <td>{{ element.gb }}</td>
+            </tr>
+          {% endfor %}
+        </tbody>
+    </table>
+</div>
+
+{% endblock %}
