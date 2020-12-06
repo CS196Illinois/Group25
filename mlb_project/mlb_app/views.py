@@ -78,6 +78,10 @@ def search(request, team_searched):
 
 def standings(request):
     standings_dict = statsapi.standings_data(leagueId="103,104", division="all", include_wildcard=True)
-    df_data = pd.DataFrame(standings_dict)
-
-    return render(request, 'standings.html', df_data)
+    al_west = standings_dict.get(200).get('teams')
+    al_east = standings_dict.get(201).get('teams')
+    al_central = standings_dict.get(202).get('teams')
+    nl_central = standings_dict.get(205).get('teams')
+    nl_east = standings_dict.get(203).get('teams')
+    nl_west = standings_dict.get(204).get('teams')
+    return render(request, 'standings.html', {'al_west':al_west, 'al_east':al_east, 'al_central':al_central, 'nl_central':nl_central, 'nl_east':nl_east, 'nl_west':nl_west})
